@@ -20,12 +20,12 @@ import pandas as pd
 import requests
 import time
 
-origen = "ElTiempo"
+origen = "ElPais"
 
 # Invocar el servicio webArchive para obtener los resultados del historico
-url = 'https://web.archive.org/cdx/search/cdx'
+url="https://web.archive.org/cdx/search/cdx"
 #parametros = {'url': 'www.eltiempo.com', 'from': '20170311', 'to': '20170418' }
-parametros = {'url': 'www.elpais.com', 'from': '20200128', 'to': '20200218' }
+parametros = {'url': 'www.elpais.com', 'from': '20200301', 'to': '20200321' }
 
 headers = {'Accept': '*/*'}
 
@@ -50,24 +50,34 @@ for snap in lstSnapWebArchive:
     fecha = datetime.strptime(snapFecha, "%Y%m%d%H%M%S")
     snapShotsWebArchive[fecha.date()] = snapFecha
 
+#print(snapShotsWebArchive.items())
+
+
+
 urlsArticulos = {}
 urlsArticulosV1 = {}
 errores = 0
 snapError = []
 start_time = datetime.now()
 # Extracción y almacenamiento de datos de cada página
+
+
 for fecha, item in snapShotsWebArchive.items():
     
     print(f"Fecha: {fecha}, Último item: {item}")
     
     rtaHtmlSeccionJusticia = ''
-    linkArticulo = 'https://web.archive.org/web/web/' + item + 'https://elpais.com/noticias/violencia-machista/'
+    linkArticulo = 'https://web.archive.org/web/' + item + '/https://elpais.com/noticias/violencia-machista/'
     #linkArticulo = 'https://web.archive.org/web/' + item + '/https://www.eltiempo.com/justicia'
+    
+    
+
     try:
         respuesta = requests.get(linkArticulo, timeout=100)
 
         if respuesta.status_code == 200:
             rtaHtmlSeccionJusticia = html.fromstring(respuesta.text)
+            #print(respuesta)
         else:
             errores += 1
             snapError.append(f"item: {item}")
@@ -83,6 +93,7 @@ for fecha, item in snapShotsWebArchive.items():
     
     # Obtener todos los link de la sección
     enlacesEncontrados = rtaHtmlSeccionJusticia.xpath('//a')
+
     
     # Filtrar URLs en los links que contengan la raíz de palabra ó palabras clave
     #palabras_clave = ["asesin", "masacre", "homicidio", "feminicidio"]
@@ -105,10 +116,6 @@ archivoControl = []
 for articulo, snap in urlsArticulos.items():
     archivoControl.append(f"Fecha: {snap}, Artículo: {articulo}")
 
-
-
-
-#####################   
 df = pd.DataFrame({'':archivoControl})
 df.to_csv('log_ejecuciones/archivoControl2017_2024_v2.csv', index=False)
 
@@ -172,7 +179,7 @@ for articulo, snap in urlsArticulos.items():
         
         # exportar datos a .csv
         df = pd.DataFrame({linkArticulo:articulo})
-        df.to_csv('articulos_x_procesar/%s_%s_%i.csv' % (origen, snap, count), index=False)
+        df.to_csv('articulos_x_procesar1/%s_%s_%i.csv' % (origen, snap, count), index=False)
         count += 1
     else :
         articuloError.append(linkArticulo)
@@ -182,3 +189,4 @@ driver.quit()
 if articuloError :
     df3 = pd.DataFrame({'':articuloError})
     df3.to_csv('log_ejecuciones/articulosError_2017_2024.csv', index=False)
+
