@@ -24,8 +24,8 @@ origen = "ElPais"
 
 # Invocar el servicio webArchive para obtener los resultados del historico
 url="https://web.archive.org/cdx/search/cdx"
-#parametros = {'url': 'www.eltiempo.com', 'from': '20170311', 'to': '20170418' }
-parametros = {'url': 'www.elpais.com', 'from': '20200301', 'to': '20200321' }
+parametros = {'url': 'www.eltiempo.com', 'from': '20170311', 'to': '20170418' }
+#parametros = {'url': 'www.elpais.com', 'from': '20200228', 'to': '20250214' }
 
 headers = {'Accept': '*/*'}
 
@@ -52,8 +52,6 @@ for snap in lstSnapWebArchive:
 
 #print(snapShotsWebArchive.items())
 
-
-
 urlsArticulos = {}
 urlsArticulosV1 = {}
 errores = 0
@@ -61,63 +59,153 @@ snapError = []
 start_time = datetime.now()
 # Extracción y almacenamiento de datos de cada página
 
+####
+#with open('archivoControl2017_2024_v2.csv', 'w', encoding='utf-8') as file:
 
 for fecha, item in snapShotsWebArchive.items():
-    
-    print(f"Fecha: {fecha}, Último item: {item}")
-    
-    rtaHtmlSeccionJusticia = ''
-    linkArticulo = 'https://web.archive.org/web/' + item + '/https://elpais.com/noticias/violencia-machista/'
-    #linkArticulo = 'https://web.archive.org/web/' + item + '/https://www.eltiempo.com/justicia'
-    
-    
+        
+       # print(f"Fecha: {fecha}, Último item: {item}")
+        
+        rtaHtmlSeccionJusticia = ''
+        linkArticulo = 'https://web.archive.org/web/' + item + '/https://elpais.com/noticias/violencia-machista/'
 
-    try:
-        respuesta = requests.get(linkArticulo, timeout=100)
+        try:
+            respuesta = requests.get(linkArticulo, timeout=100)
 
-        if respuesta.status_code == 200:
-            rtaHtmlSeccionJusticia = html.fromstring(respuesta.text)
-            #print(respuesta)
-        else:
+            if respuesta.status_code == 200:
+                rtaHtmlSeccionJusticia = html.fromstring(respuesta.text)
+            else:
+                errores += 1
+                snapError.append(f"1 item: {item}")
+                print(f"1 item Error: {item}")
+                continue
+
+        except requests.exceptions.RequestException as e:
             errores += 1
-            snapError.append(f"item: {item}")
-            print(f"item Error: {item}")
+            snapError.append(f"2 item: {item}")
+            print(f"2 item Error: {item}")
+            time.sleep(30)
             continue
+        
+        # Obtener todos los links de la sección
+        enlacesEncontrados = rtaHtmlSeccionJusticia.xpath('//a')
 
-    except requests.exceptions.RequestException as e:
-        errores += 1
-        snapError.append(f"item: {item}")
-        print(f"item Error: {item}")
-        time.sleep(30)
-        continue
-    
-    # Obtener todos los link de la sección
-    enlacesEncontrados = rtaHtmlSeccionJusticia.xpath('//a')
+        palabras_clave = ["viol", "machismo", "femini", "matar","descuartizar", "asesin",
+                        "abandonar", "agredir","mata"]
 
-    
-    # Filtrar URLs en los links que contengan la raíz de palabra ó palabras clave
-    #palabras_clave = ["asesin", "masacre", "homicidio", "feminicidio"]
-    palabras_clave = ['violencia-machista', 'violencia-de-genero', 'feminicidio', 'feminis', 'machis', 'patriarca']
+        linksInteres = [
+            element.get('href') 
+            for element in enlacesEncontrados 
+            if element.get('href') and any(palabra in element.text_content().lower() for palabra in palabras_clave)
+        ]
 
-    linksInteres = [
-        element.get('href') 
-        for element in enlacesEncontrados 
-        if any(palabra in element.text_content().lower() for palabra in palabras_clave)
-    ]
+        # Referencias de las páginas 
+        for link in linksInteres:
+            link = link[20:]
+            link = link[link.find('http'):]
 
-    # Referencias de las páginas 
-    for link in linksInteres:
-        link = link[20:]
-        link = link[link.find('http'):]
-        if link.find('www') > 0 :
             urlsArticulos[link.replace("http:", "https:")] = item
+           
+            print('\nurl:', urlsArticulos)
+           # file.write(link + '\n')  # Escribir en el archivo
 
+        # Referencias de las páginas 
+''' for link in linksInteres:
+            link = link[20:]
+            link = link[link.find('http'):]
+            if link.find('www') > 0 :
+                urlsArticulos[link.replace("http:", "https:")] = item
+'''
+''''
+        for link in linksInteres:
+            link = link[link.find('http'):]  # Asegurar que comience desde "http"
+            link = link.replace("http:", "https:")  # Asegurar protocolo HTTPS
+            
+            urlsArticulos[link] = item  # Guardarlo en el diccionario
+            print('url:', urlsArticulos,'/n')
+
+            file.write(link + '\n')  # Escribir en el archivo
+
+        # Guardar las URLs en el 'archivo
+        for link in linksInteres:
+            link = link[link.find('http'):]  # Asegurar que comience desde "http"
+            if link.find('www') > 0:
+                link = link.replace("http:", "https:")
+                urlsArticulos[link] = item  # Guardarlo en el diccionario
+                print('url: ', urlsArticulos)
+
+            #print(link)  # Imprimir en la consola
+            file.write(link + '\n')  # Escribir en el archivo'''
+
+
+''''
+with open('urls_encontradas.txt', 'w', encoding='utf-8') as file:
+
+    for fecha, item in snapShotsWebArchive.items():
+        
+        print(f"Fecha: {fecha}, Último item: {item}")
+        
+        rtaHtmlSeccionJusticia = ''
+        linkArticulo = 'https://web.archive.org/web/' + item + '/https://elpais.com/noticias/violencia-machista/'
+        #linkArticulo = 'https://web.archive.org/web/' + item + '/https://www.eltiempo.com/justicia'
+        #break
+        try:
+            respuesta = requests.get(linkArticulo, timeout=100)
+
+            if respuesta.status_code == 200:
+                rtaHtmlSeccionJusticia = html.fromstring(respuesta.text)
+            # print(respuesta)
+            else:
+                errores += 1
+                snapError.append(f"1 item: {item}")
+                print(f"1 item Error: {item}")
+                continue
+
+        except requests.exceptions.RequestException as e:
+            errores += 1
+            snapError.append(f"2 item: {item}")
+            print(f"2 item Error: {item}")
+            time.sleep(30)
+            continue
+        
+        # Obtener todos los link de la sección
+        enlacesEncontrados = rtaHtmlSeccionJusticia.xpath('//a')
+
+        # Filtrar URLs en los links que contengan la raíz de palabra ó palabras clave
+        #palabras_clave = ["asesin", "masacre", "homicidio", "feminicidio"]
+        palabras_clave = ['viol', 'machismo', 'femini', 'matar', 'descuartizar', 'asesin', 'abandonar','agredir']
+
+        linksInteres = [
+            element.get('href') 
+            for element in enlacesEncontrados 
+            if element.get('href') and any(palabra in element.text_content().lower() for palabra in palabras_clave)
+
+            #if any(palabra in element.text_content().lower() for palabra in palabras_clave)
+        ]
+
+        # Referencias de las páginas 
+        for link in linksInteres:
+            link = link[20:]
+            link = link[link.find('http'):]
+            if link.find('www') > 0 :
+                #urlsArticulos[link.replace("http:", "https:")] = item
+                link = link.replace("http:", "https:")
+                urlsArticulos[link] = item  # Guardarlo en el diccionario
+
+            print(link)  # Imprimir en la consola
+            file.write(link + '\n')  # Escribir en el archivo
+'''
 archivoControl = []
 for articulo, snap in urlsArticulos.items():
     archivoControl.append(f"Fecha: {snap}, Artículo: {articulo}")
 
+
+
+print('url: ', urlsArticulos)
+
 df = pd.DataFrame({'':archivoControl})
 df.to_csv('log_ejecuciones/archivoControl2017_2024_v2.csv', index=False)
+
 
 df2 = pd.DataFrame({'':snapError})
 df2.to_csv('log_ejecuciones/errores2017_2024_v2.csv', index=False)
@@ -189,4 +277,3 @@ driver.quit()
 if articuloError :
     df3 = pd.DataFrame({'':articuloError})
     df3.to_csv('log_ejecuciones/articulosError_2017_2024.csv', index=False)
-
