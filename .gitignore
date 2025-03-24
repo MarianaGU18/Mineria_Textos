@@ -1,0 +1,25 @@
+# Ignorar archivos de configuración de VSCode
+.vscode/
+
+# Ignorar ejecutables y binarios
+chromedriver.exe
+
+# Ignorar archivos de salida o resultados de procesamiento
+*.pbix
+*.json
+
+# Ignorar entornos virtuales de Python
+venv/
+.env
+
+# Ignorar archivos temporales y cachés
+__pycache__/
+*.pyc
+*.pyo
+*.ipynb_checkpoints
+
+# Ignorar datos sin procesar o artículos en proceso (si no son parte del repositorio principal)
+#articulos_x_procesar/
+
+# Ignorar archivos de estadísticas o de exploración
+#estadisticas.ipynb

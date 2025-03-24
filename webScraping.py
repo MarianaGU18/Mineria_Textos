@@ -1,6 +1,3 @@
-"""
-@author:  Ingrid Rodriguez
-"""
 #librerias
 from datetime import datetime
 from lxml import html
@@ -21,12 +18,24 @@ import pandas as pd
 import requests
 import time
 
+urlsArticulos = {}
+urlsArticulosV1 = {}
+errores = 0
+snapError = []
+
+# Verificar si el directorio 'articulos_x_procesar' existe, si no, crearlo
+if not os.path.exists('articulos_x_procesar'):
+    os.makedirs('articulos_x_procesar')
+
+# Verificar si el directorio 'log_ejecuciones' existe, si no, crearlo
+if not os.path.exists('log_ejecuciones'):
+    os.makedirs('log_ejecuciones')
+    
 origen = "ElPais"
 
 # Invocar el servicio webArchive para obtener los resultados del historico
 url="https://web.archive.org/cdx/search/cdx"
-#parametros = {'url': 'www.eltiempo.com', 'from': '20170311', 'to': '20170418' }
-parametros = {'url': 'www.elpais.com', 'from': '20200228', 'to': '20250214' }
+parametros = {'url': 'www.elpais.com', 'from': '20200214', 'to': '20250314' }
 
 headers = {'Accept': '*/*'}
 
@@ -51,19 +60,12 @@ for snap in lstSnapWebArchive:
     fecha = datetime.strptime(snapFecha, "%Y%m%d%H%M%S")
     snapShotsWebArchive[fecha.date()] = snapFecha
 
-#print(snapShotsWebArchive.items())
 
-urlsArticulos = {}
-urlsArticulosV1 = {}
-errores = 0
-snapError = []
 start_time = datetime.now()
 # Extracción y almacenamiento de datos de cada página
 
 for fecha, item in tqdm(snapShotsWebArchive.items(), desc="Obteniendo URLs", unit="fecha"):
-        
-       # print(f"Fecha: {fecha}, Último item: {item}")
-        
+                
         rtaHtmlSeccionJusticia = ''
         linkArticulo = 'https://web.archive.org/web/' + item + '/https://elpais.com/noticias/violencia-machista/'
 
@@ -74,14 +76,14 @@ for fecha, item in tqdm(snapShotsWebArchive.items(), desc="Obteniendo URLs", uni
                 rtaHtmlSeccionJusticia = html.fromstring(respuesta.text)
             else:
                 errores += 1
-                snapError.append(f"1 item: {item}")
-                print(f"1 item Error: {item}")
+                snapError.append(f"item: {item}")
+                print(f"item Error: {item}")
                 continue
 
         except requests.exceptions.RequestException as e:
             errores += 1
             snapError.append(f"item: {item}")
-            print(f"2 item Error: {item}")
+            print(f"item Error: {item}")
             time.sleep(30)
             continue
         
@@ -108,14 +110,12 @@ archivoControl = []
 for articulo, snap in urlsArticulos.items():
     archivoControl.append(f"Fecha: {snap}, Artículo: {articulo}")
 
-#print('url: ', urlsArticulos)
-
 df = pd.DataFrame({'':archivoControl})
-df.to_csv('log_ejecuciones/archivoControl2017_2024_v2.csv', index=False)
+df.to_csv('log_ejecuciones/archivoControl2020_2025_v2.csv', index=False)
 
 
 df2 = pd.DataFrame({'':snapError})
-df2.to_csv('log_ejecuciones/errores2017_2024_v2.csv', index=False)
+df2.to_csv('log_ejecuciones/errores2020_2025_v2.csv', index=False)
 
 end_time = datetime.now()
 print('Duration Extraccion Urls: {}'.format(end_time - start_time))
@@ -174,7 +174,7 @@ for articulo, snap in urlsArticulos.items():
         
         # exportar datos a .csv
         df = pd.DataFrame({linkArticulo:articulo})
-        df.to_csv('articulos_x_procesar1/%s_%s_%i.csv' % (origen, snap, count), index=False)
+        df.to_csv('articulos_x_procesar/%s_%s_%i.csv' % (origen, snap, count), index=False)
         count += 1
     else :
         articuloError.append(linkArticulo)
@@ -183,4 +183,4 @@ driver.quit()
 
 if articuloError :
     df3 = pd.DataFrame({'':articuloError})
-    df3.to_csv('log_ejecuciones/articulosError_2017_2024.csv', index=False)
+    df3.to_csv('log_ejecuciones/articulosError_2020_2025.csv', index=False)
