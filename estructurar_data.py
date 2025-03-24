@@ -91,13 +91,15 @@ patrones_delitos = {
     "robo": r"rob\w+",
     "asalto": r"asalt\w+",
     "hurto": r"hurt\w+",
-    "terrorismo": r"terroris\w+",
-    "narcotráfico": r"narcotr\w+",
-    "masacre": r"masacr\w+"
+    "descuartizar": r"descuarti\w+",
+    "asesinato": r"asesin\w+",
+    "matar": r"matar\w+",
+    "agredir": r"agre\w+",
+    "abandonar": r"abando\w+"
 }
 ###### Funcion para normalizar delitos a un solo nombre donde la py --version base de las expresiones regulares se mantengan
 # Función para normalizar delitos a una forma estándar
-def normalizar_delito(texto_delito):
+'''def normalizar_delito(texto_delito):
     if re.match(r"secuest\w+", texto_delito.lower()):
         return "secuestro"
     if re.match(r"viola\w+", texto_delito.lower()):
@@ -117,7 +119,21 @@ def normalizar_delito(texto_delito):
     if re.match(r"masacr\w+", texto_delito.lower()):
         return "masacre"
     
+    return texto_delito'''
+
+# Función para normalizar delitos a una forma estándar
+def normalizar_delito(texto_delito):
+    texto_delito_lower = texto_delito.lower()  # Convertir el texto a minúsculas
+
+    # Iterar sobre el diccionario de patrones
+    for delito, patron in patrones_delitos.items():
+        if re.match(patron, texto_delito_lower):
+            return delito
+
+    # Si no coincide con ninguno, retornar el texto original
     return texto_delito
+
+
 ###############################################################
 # Cargar la lista de municipios y departamentos desde un archivo CSV
 df_depmun = pd.read_csv("datos_base/Departamentos_y_municipios_de_Colombia.csv")
@@ -162,7 +178,7 @@ os.chdir('articulos_x_procesar/')
 files_csv = os.listdir()
 nlp = spacy.load("es_core_news_lg")  # Modelo para español
 palabrasExcluir = nlp.Defaults.stop_words #listado de stopwords de spacy usado para filtros posteriores
-palabrasExcluir.add("el tiempo")
+palabrasExcluir.add("el pais")
 
 lstEventos = []
 df = pd.DataFrame()
@@ -303,5 +319,10 @@ for i in files_csv:
 
 #################################################################################################
 # Escribir los datos al archivo JSON
-with open("C:/Projects/TFM/noticias_estandarizadas.json", "w", encoding="utf-8") as archivo:
+directorio = "./TFM"
+if not os.path.exists(directorio):
+    os.makedirs(directorio)
+
+
+with open("./TFM/noticias_estandarizadas.json", "w", encoding="utf-8") as archivo:
     json.dump(lstEventos, archivo, ensure_ascii=False, indent=4)
