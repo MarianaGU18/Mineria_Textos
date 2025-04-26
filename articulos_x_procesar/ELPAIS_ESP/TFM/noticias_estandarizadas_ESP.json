@@ -1,0 +1,2512 @@
+[
+    {
+        "ID_noticia": "ESP001",
+        "tituloarticulo": "López Obrador evita dar un plan concreto para atajar la crisis de los feminicidios",
+        "fechaarticulo": "2020-03-01",
+        "fechaevento": "2020-02-18",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP002",
+        "tituloarticulo": "Orden de alejamiento para Juan Ros, el senador de Vox acusado de violencia machista",
+        "fechaarticulo": "2020-03-03",
+        "fechaevento": "2020-02-24",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP003",
+        "tituloarticulo": "¿Puede una asignatura acabar con la violencia machista?",
+        "fechaarticulo": "2020-03-03",
+        "fechaevento": "2020-02-03",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP004",
+        "tituloarticulo": "El senador de Vox investigado por violencia machista formaliza la renuncia a su acta",
+        "fechaarticulo": "2020-03-03",
+        "fechaevento": "2020-02-20",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP005",
+        "tituloarticulo": "El senador de Vox investigado por violencia machista renuncia a su acta",
+        "fechaarticulo": "2020-03-03",
+        "fechaevento": "2020-02-19",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP006",
+        "tituloarticulo": "Los índices de aprobación de López Obrador caen ante la ola de violencia y los feminicidios",
+        "fechaarticulo": "2020-03-03",
+        "fechaevento": "2020-03-02",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP007",
+        "tituloarticulo": "Las llamadas al 016 por violencia machista aumentan un 18% durante el estado de alarma",
+        "fechaarticulo": "2020-05-27",
+        "fechaevento": "2020-04-01",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP008",
+        "tituloarticulo": "Alerta ante el desconfinamiento de la violencia machista",
+        "fechaarticulo": "2020-06-04",
+        "fechaevento": "2020-05-27",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP009",
+        "tituloarticulo": "Las llamadas al 016 contra la violencia machista aumentan un 60% en abril respecto al año pasado",
+        "fechaarticulo": "2020-06-04",
+        "fechaevento": "2020-05-05",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP010",
+        "tituloarticulo": "Un juez anula la expulsión de un marroquí condenado por violencia machista para que pueda ver a su hijo discapacitado",
+        "fechaarticulo": "2020-06-04",
+        "fechaevento": "2020-04-29",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP011",
+        "tituloarticulo": "Las llamadas al 016 por violencia machista aumentan un 47,3% en la primera quincena de abril",
+        "fechaarticulo": "2020-06-04",
+        "fechaevento": "2020-04-16",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP012",
+        "tituloarticulo": "Las feministas saludan la rectificación del fiscal Gertz sobre el tipo penal de feminicidio",
+        "fechaarticulo": "2020-08-31",
+        "fechaevento": "2020-08-14",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP013",
+        "tituloarticulo": "La misoginia del Gobierno de Bolsonaro termina en la justicia",
+        "fechaarticulo": "2020-08-31",
+        "fechaevento": "2020-08-12",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP014",
+        "tituloarticulo": "Las víctimas de violencia machista que se personen contra su agresor no podrán renunciar a declarar",
+        "fechaarticulo": "2020-08-31",
+        "fechaevento": "2020-07-27",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP015",
+        "tituloarticulo": "Las feministas denuncian la falta de políticas ambiciosas ante el aumento de feminicidios en Francia",
+        "fechaarticulo": "2020-08-31",
+        "fechaevento": "2020-08-18",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP016",
+        "tituloarticulo": "De Ana Orantes a Diana Quer: la Ley de Libertad Sexual equipara a las víctimas de violaciones con las de violencia en pareja",
+        "fechaarticulo": "2020-11-18",
+        "fechaevento": "2020-10-22",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP017",
+        "tituloarticulo": "Julio Urías, talento latino y la sombra de la violencia machista en la Serie Mundial de béisbol",
+        "fechaarticulo": "2020-11-18",
+        "fechaevento": "2020-10-21",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP018",
+        "tituloarticulo": "Hasta que los feminicidios incomoden",
+        "fechaarticulo": "2020-11-23",
+        "fechaevento": "2020-11-12",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP019",
+        "tituloarticulo": "Lorena E. Hernández: “Las escritoras denuncian ahora los feminicidios como, en su día, el narcotráfico”",
+        "fechaarticulo": "2020-11-23",
+        "fechaevento": "2020-11-18",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP020",
+        "tituloarticulo": "La Ley de Igualdad garantizará en Euskadi ayudas para hijos y huérfanos de violencia machista",
+        "fechaarticulo": "2020-11-23",
+        "fechaevento": "2020-11-17",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP021",
+        "tituloarticulo": "Interior busca maneras de proteger a las víctimas de violencia machista aunque no denuncien",
+        "fechaarticulo": "2020-11-25",
+        "fechaevento": "2020-11-23",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP022",
+        "tituloarticulo": "Irene Montero llama entre lágrimas a la unidad del feminismo frente a la violencia machista",
+        "fechaarticulo": "2020-11-26",
+        "fechaevento": "2020-11-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP023",
+        "tituloarticulo": "Olimpia Coral Melo: “Facebook, Twitter e Instagram participan en la violencia digital contra las mujeres”",
+        "fechaarticulo": "2020-11-26",
+        "fechaevento": "2020-11-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP024",
+        "tituloarticulo": "El Consejo de Europa advierte de la desigual ayuda a las víctimas de violencia machista según la comunidad",
+        "fechaarticulo": "2020-11-26",
+        "fechaevento": "2020-11-24",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP025",
+        "tituloarticulo": "La violencia machista como exponente de desigualdad urbana",
+        "fechaarticulo": "2020-11-26",
+        "fechaevento": "2020-11-23",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP026",
+        "tituloarticulo": "La Comunidad Valenciana es la segunda autonomía con más niñas víctimas de la violencia machista",
+        "fechaarticulo": "2020-11-26",
+        "fechaevento": "2020-11-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP027",
+        "tituloarticulo": "25N: por una sociedad libre de violencia machista",
+        "fechaarticulo": "2020-11-26",
+        "fechaevento": "2020-11-24",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP028",
+        "tituloarticulo": "Lucha contra la violencia machista",
+        "fechaarticulo": "2020-11-26",
+        "fechaevento": "2020-11-26",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP029",
+        "tituloarticulo": "Vox impide en el Parlamento vasco la aprobación de una declaración contra la violencia machista",
+        "fechaarticulo": "2020-11-26",
+        "fechaevento": "2020-11-26",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP030",
+        "tituloarticulo": "2020: el año con menos asesinadas pero no menos violencia machista",
+        "fechaarticulo": "2021-02-02",
+        "fechaevento": "2020-04-01",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP031",
+        "tituloarticulo": "Andalucía excluye los proyectos de atención a las víctimas de violencia machista de la línea de ayudas para su prevención",
+        "fechaarticulo": "2021-02-05",
+        "fechaevento": "2021-01-13",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP032",
+        "tituloarticulo": "Frida Guerrera, la cronista de los feminicidios en México",
+        "fechaarticulo": "2021-02-11",
+        "fechaevento": "2021-01-19",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP033",
+        "tituloarticulo": "Mariana Sánchez, el nuevo rostro del terror de los feminicidios en México",
+        "fechaarticulo": "2021-02-19",
+        "fechaevento": "2021-02-01",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP034",
+        "tituloarticulo": "La consejera catalana de Presidencia denuncia que ha sufrido violencia machista en redes sociales",
+        "fechaarticulo": "2021-02-19",
+        "fechaevento": "2021-02-03",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP035",
+        "tituloarticulo": "El infierno de Mariana: seis meses de abuso sexual que nadie escuchó",
+        "fechaarticulo": "2021-02-19",
+        "fechaevento": "2021-02-03",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP036",
+        "tituloarticulo": "El feminicidio de Úrsula Bahillo pone en la mira a la policía argentina",
+        "fechaarticulo": "2021-02-19",
+        "fechaevento": "2021-02-11",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP037",
+        "tituloarticulo": "Mujeres policías: víctimas invisibles de la violencia machista en Argentina",
+        "fechaarticulo": "2021-02-19",
+        "fechaevento": "2021-02-10",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP038",
+        "tituloarticulo": "Las llamadas al teléfono de atención a las víctimas de violencia machista en Cataluña suben un 61% tras el caso de Rocío Carrasco",
+        "fechaarticulo": "2021-04-25",
+        "fechaevento": "2021-03-31",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP039",
+        "tituloarticulo": "Jineth Bedoya, la voz contra la violencia sexual",
+        "fechaarticulo": "2021-04-25",
+        "fechaevento": "2021-03-31",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP040",
+        "tituloarticulo": "Teatro para combatir la violencia machista entre adolescentes",
+        "fechaarticulo": "2021-05-04",
+        "fechaevento": "2021-04-15",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP041",
+        "tituloarticulo": "Feminicidios en tiempos de López Obrador",
+        "fechaarticulo": "2021-05-04",
+        "fechaevento": "2021-04-06",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP042",
+        "tituloarticulo": "Arranca el plan para abrir en todas las provincias centros de crisis 24 horas para víctimas de violencia sexual",
+        "fechaarticulo": "2021-05-04",
+        "fechaevento": "2021-04-05",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP043",
+        "tituloarticulo": "Las guatemaltecas combaten con denuncias públicas su miedo a la violencia machista",
+        "fechaarticulo": "2021-05-14",
+        "fechaevento": "2021-04-20",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP044",
+        "tituloarticulo": "‘Ves tranquila’: un chotis que denuncia el acoso callejero que sufren las mujeres",
+        "fechaarticulo": "2021-05-14",
+        "fechaevento": "2021-05-11",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP045",
+        "tituloarticulo": "19 provincias han perdido agentes contra la violencia machista en la última década",
+        "fechaarticulo": "2021-05-14",
+        "fechaevento": "2021-05-04",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP046",
+        "tituloarticulo": "Violencia vicaria: golpear donde más duele",
+        "fechaarticulo": "2021-05-14",
+        "fechaevento": "2021-05-01",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP047",
+        "tituloarticulo": "Ciberacoso, amenazas y fraude: la violencia digital se ceba contra las mujeres en plena pandemia",
+        "fechaarticulo": "2021-05-14",
+        "fechaevento": "2021-04-30",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP048",
+        "tituloarticulo": "Manifestaciones en Turquía contra la salida del tratado internacional contra la violencia machista",
+        "fechaarticulo": "2021-07-25",
+        "fechaevento": "2021-07-01",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP049",
+        "tituloarticulo": "El Gobierno impulsa una ventanilla única para las víctimas de violencia machista",
+        "fechaarticulo": "2021-08-03",
+        "fechaevento": "2021-07-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP050",
+        "tituloarticulo": "“No me puedo creer que en redes haya todavía un cuestionamiento hacia la mujer en un feminicidio” Al habla... con Warkentin | Ep. 12: Herly RG",
+        "fechaarticulo": "2021-08-03",
+        "fechaevento": "2021-07-06",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP051",
+        "tituloarticulo": "El caso de Uganda evidencia pandemias en la sombra: violaciones y sida",
+        "fechaarticulo": "2021-08-09",
+        "fechaevento": "2021-08-02",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP052",
+        "tituloarticulo": "La mujer asesinada por su marido en Sant Vicenç lo había denunciado por violencia machista",
+        "fechaarticulo": "2021-08-09",
+        "fechaevento": "2021-07-30",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP053",
+        "tituloarticulo": "‘Ahora, Olga’: Y Telecinco olvidó la violencia machista",
+        "fechaarticulo": "2021-08-09",
+        "fechaevento": "2021-07-29",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP054",
+        "tituloarticulo": "Puntos violeta: ¿Qué puedo hacer si conozco un caso de violencia machista?",
+        "fechaarticulo": "2021-08-09",
+        "fechaevento": "2021-07-28",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP055",
+        "tituloarticulo": "El Gobierno hará cursos anuales para formar a todos los agentes de seguridad del Estado en violencia machista",
+        "fechaarticulo": "2021-08-09",
+        "fechaevento": "2021-07-27",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP056",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2021-10-22",
+        "fechaevento": "2021-10-20",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP057",
+        "tituloarticulo": "Uno de cada cinco jóvenes varones en España cree que no existe la violencia machista, el doble que hace cuatro años",
+        "fechaarticulo": "2021-10-22",
+        "fechaevento": "2021-09-29",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP058",
+        "tituloarticulo": "Amnistía Internacional denuncia deficiencias en las investigaciones de feminicidios en el Estado de México",
+        "fechaarticulo": "2021-10-22",
+        "fechaevento": "2021-09-20",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP059",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2021-10-31",
+        "fechaevento": "2021-10-19",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP060",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2021-10-31",
+        "fechaevento": "2021-10-12",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP061",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2021-12-27",
+        "fechaevento": "2021-12-10",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP062",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2021-12-27",
+        "fechaevento": "2021-12-09",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP063",
+        "tituloarticulo": "La violencia machista en 2020: los asesinatos cayeron con el confinamiento y se dispararon tras el estado de alarma",
+        "fechaarticulo": "2022-01-20",
+        "fechaevento": "2021-12-21",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP064",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-01-20",
+        "fechaevento": "2021-12-20",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP065",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-01-20",
+        "fechaevento": "2021-12-17",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP066",
+        "tituloarticulo": "Violencia machista",
+        "fechaarticulo": "2022-01-20",
+        "fechaestimada": "2022-01-20",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP067",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-01-20",
+        "fechaevento": "2022-01-01",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP068",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-01-20",
+        "fechaevento": "2021-12-31",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP069",
+        "tituloarticulo": "Mujeres valientes de Benín que bailan contra la violencia machista",
+        "fechaarticulo": "2022-01-20",
+        "fechaevento": "2021-12-24",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP070",
+        "tituloarticulo": "La cantante Sasha Sokol denuncia por abuso sexual al gran productor de Televisa Luis de Llano",
+        "fechaarticulo": "2022-03-19",
+        "fechaevento": "2022-03-09",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP071",
+        "tituloarticulo": "Un zepelín por el dolor de los feminicidios sobrevuela Ciudad de México",
+        "fechaarticulo": "2022-03-19",
+        "fechaevento": "2022-03-07",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP072",
+        "tituloarticulo": "Trata de mujeres",
+        "fechaarticulo": "2022-04-07",
+        "fechaestimada": "2022-04-07",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP073",
+        "tituloarticulo": "Protestas de los jueces fuerzan la retirada de un póster sobre machismo en la justicia de una exposición en Palma",
+        "fechaarticulo": "2022-04-07",
+        "fechaevento": "2022-03-30",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP074",
+        "tituloarticulo": "La Policía Local de Valencia detiene a un hombre de 83 años denunciado por un delito de violencia machista durante más de 50 años",
+        "fechaarticulo": "2022-04-07",
+        "fechaevento": "2022-03-30",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP075",
+        "tituloarticulo": "Ivet denunció a su expareja por violencia machista tres días antes de que la asesinase en Barcelona",
+        "fechaarticulo": "2022-04-07",
+        "fechaevento": "2022-03-24",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP076",
+        "tituloarticulo": "¿Accidente de tráfico o violencia machista? La policía investiga el presunto homicidio de Jéssica Méndez en Pontevedra",
+        "fechaarticulo": "2022-04-07",
+        "fechaevento": "2022-03-22",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP077",
+        "tituloarticulo": "Qué pasa si la violencia machista vuelve a ser lo que era antes de Ana Orantes",
+        "fechaarticulo": "2022-04-07",
+        "fechaevento": "2022-03-21",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP078",
+        "tituloarticulo": "La falla de la polémica en Borriana: entre el sexismo machista y la sátira política",
+        "fechaarticulo": "2022-04-07",
+        "fechaevento": "2022-03-19",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP079",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-04-07",
+        "fechaevento": "2022-03-19",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP080",
+        "tituloarticulo": "Feijóo rectifica tras sugerir que la violencia vicaria no es violencia machista",
+        "fechaarticulo": "2022-04-07",
+        "fechaevento": "2022-03-17",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP081",
+        "tituloarticulo": "El consejero andaluz de Salud considera la violencia intrafamiliar “más demostrativa de la realidad” que la violencia de género",
+        "fechaarticulo": "2022-04-07",
+        "fechaevento": "2022-03-16",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP082",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-04-13",
+        "fechaevento": "2022-04-14",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP083",
+        "tituloarticulo": "Agresiones sexuales",
+        "fechaarticulo": "2022-04-13",
+        "fechaestimada": "2022-04-13",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP084",
+        "tituloarticulo": "Mañueco insiste en reemplazar el decreto de memoria por una “ley de concordia” y en proteger a las víctimas de la “violencia intrafamiliar”",
+        "fechaarticulo": "2022-04-13",
+        "fechaevento": "2022-04-11",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP085",
+        "tituloarticulo": "VioGén: visita a las tripas del algoritmo que calcula el riesgo de que una mujer sufra violencia machista",
+        "fechaarticulo": "2022-04-13",
+        "fechaevento": "2022-04-10",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP086",
+        "tituloarticulo": "Los jueces proponen reformas y alertas que eviten crímenes de violencia vicaria como el de Sueca",
+        "fechaarticulo": "2022-04-13",
+        "fechaevento": "2022-04-08",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP087",
+        "tituloarticulo": "La cantante Sasha Sokol denunciará en tribunales al productor de Televisa Luis de Llano por abuso sexual",
+        "fechaarticulo": "2022-04-13",
+        "fechaevento": "2022-04-06",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP088",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-04-13",
+        "fechaevento": "2022-04-05",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP089",
+        "tituloarticulo": "El ADN arroja luz ocho años después sobre el feminicidio de la argentina Lola Chomnalez",
+        "fechaarticulo": "2022-06-17",
+        "fechaevento": "2022-05-23",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP090",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-06-17",
+        "fechaestimada": "2022-06-17",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP091",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-06-17",
+        "fechaevento": "2022-05-26",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP092",
+        "tituloarticulo": "Las afrocolombianas son quienes más sufrieron la violencia sexual durante el conflicto armado",
+        "fechaarticulo": "2022-06-17",
+        "fechaevento": "2022-05-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP093",
+        "tituloarticulo": "Las denuncias por violencia sexual crecen un 65% en la última década en Cataluña",
+        "fechaarticulo": "2022-07-06",
+        "fechaevento": "2022-06-27",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP094",
+        "tituloarticulo": "Armas, nobleza y violencia machista: ¿hay menor percepción de gravedad en las clases socioeconómicas más altas?",
+        "fechaarticulo": "2022-07-06",
+        "fechaevento": "2022-06-22",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP095",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-07-06",
+        "fechaevento": "2022-06-20",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP096",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-09-04",
+        "fechaevento": "2022-08-18",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP097",
+        "tituloarticulo": "Investigan dos casos de abuso sexual a una niña de nueve años y a una adolescente de 16 en Málaga",
+        "fechaarticulo": "2022-09-04",
+        "fechaevento": "2022-08-18",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP098",
+        "tituloarticulo": "La Policía investiga como violencia machista el asesinato de un hombre a su pareja en Sevilla",
+        "fechaarticulo": "2022-09-04",
+        "fechaevento": "2022-08-13",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP099",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-09-04",
+        "fechaevento": "2022-08-11",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP100",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-09-04",
+        "fechaevento": "2022-08-05",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP101",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-09-24",
+        "fechaevento": "2022-08-31",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP102",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-09-24",
+        "fechaevento": "2022-08-30",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP103",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-09-25",
+        "fechaevento": "2022-09-13",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP104",
+        "tituloarticulo": "El primer semestre registra 19 feminicidios fuera de la pareja",
+        "fechaarticulo": "2022-09-25",
+        "fechaevento": "2022-09-12",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP105",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-09-25",
+        "fechaevento": "2022-09-06",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP106",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-09-25",
+        "fechaevento": "2022-09-03",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP107",
+        "tituloarticulo": "Sociedad",
+        "fechaarticulo": "2022-09-25",
+        "fechaestimada": "2022-09-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP108",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-09-25",
+        "fechaevento": "2022-09-03",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP109",
+        "tituloarticulo": "La indolencia de las autoridades no tiene límite y los feminicidios continúan",
+        "fechaarticulo": "2022-11-24",
+        "fechaevento": "2022-11-23",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP110",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-11-25",
+        "fechaevento": "2022-11-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP111",
+        "tituloarticulo": "328 mensajes de tu ex o cómo la violencia machista entra por el móvil",
+        "fechaarticulo": "2022-11-27",
+        "fechaevento": "2022-11-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP112",
+        "tituloarticulo": "La violencia machista entre los adolescentes, el drama que ni ellos quieren reconocer",
+        "fechaarticulo": "2022-11-27",
+        "fechaevento": "2022-11-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP113",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-11-28",
+        "fechaevento": "2022-11-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP114",
+        "tituloarticulo": "Así le hemos contado las manifestaciones del 25-N contra la violencia machista",
+        "fechaarticulo": "2022-11-30",
+        "fechaevento": "2022-11-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP115",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-11-30",
+        "fechaevento": "2022-11-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP116",
+        "tituloarticulo": "El feminismo se fractura en Madrid en las protestas contra la violencia machista que recorren España",
+        "fechaarticulo": "2022-12-01",
+        "fechaevento": "2022-11-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP117",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-12-01",
+        "fechaevento": "2022-11-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP118",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-12-06",
+        "fechaevento": "2022-11-27",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP119",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2022-12-10",
+        "fechaevento": "2022-11-27",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP120",
+        "tituloarticulo": "Las víctimas de feminicidios reclaman justicia en la FIL de Guadalajara",
+        "fechaarticulo": "2022-12-14",
+        "fechaevento": "2022-12-02",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP121",
+        "tituloarticulo": "Ocho de cada diez mujeres han sufrido violencia machista en Cataluña a lo largo de su vida",
+        "fechaarticulo": "2022-12-14",
+        "fechaevento": "2022-12-01",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP122",
+        "tituloarticulo": "El exilio después del feminicidio: así huyó la familia de Cecilia Monzón de México",
+        "fechaarticulo": "2022-12-14",
+        "fechaevento": "2022-12-05",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP123",
+        "tituloarticulo": "El director de la radio pública juvenil de Colombia, señalado de acoso sexual, deja el cargo temporalmente",
+        "fechaarticulo": "2022-12-14",
+        "fechaevento": "2022-12-03",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP124",
+        "tituloarticulo": "La violencia digital contra Marion Reimers: cuando la misoginia se vuelve deporte",
+        "fechaarticulo": "2022-12-14",
+        "fechaevento": "2022-12-08",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP125",
+        "tituloarticulo": "Las denuncias por violencia machista aumentan casi un 10% en el último año",
+        "fechaarticulo": "2022-12-14",
+        "fechaevento": "2022-12-12",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP126",
+        "tituloarticulo": "Igualdad plantea el acceso inmediato a una vivienda y al ingreso mínimo vital para víctimas de violencia machista en riesgo alto",
+        "fechaarticulo": "2023-02-12",
+        "fechaevento": "2023-01-27",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP127",
+        "tituloarticulo": "Movimiento #MeToo",
+        "fechaarticulo": "2023-02-12",
+        "fechaestimada": "2023-02-12",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP128",
+        "tituloarticulo": "El 39% de las asesinadas por violencia machista en 2022 había iniciado un proceso judicial",
+        "fechaarticulo": "2023-02-12",
+        "fechaevento": "2023-01-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP129",
+        "tituloarticulo": "Un hombre con antecedentes de violencia machista mata en Valladolid a su pareja y a la hija de esta",
+        "fechaarticulo": "2023-02-12",
+        "fechaevento": "2023-01-23",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP130",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2023-02-12",
+        "fechaevento": "2023-01-20",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP131",
+        "tituloarticulo": "Violencia género",
+        "fechaarticulo": "2023-02-12",
+        "fechaestimada": "2023-02-12",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP132",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2023-03-01",
+        "fechaevento": "2023-02-14",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP133",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2023-03-01",
+        "fechaevento": "2023-02-13",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP134",
+        "tituloarticulo": "‘Felisa Yanapiri’, la ‘app’ administrada por mujeres aymaras para enfrentar la violencia machista",
+        "fechaarticulo": "2023-03-01",
+        "fechaevento": "2023-02-13",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP135",
+        "tituloarticulo": "El movimiento social de mujeres pide a Petro declarar la emergencia nacional por la violencia machista",
+        "fechaarticulo": "2023-03-04",
+        "fechaevento": "2023-02-22",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP136",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2023-03-04",
+        "fechaevento": "2023-02-19",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP137",
+        "tituloarticulo": "La muerte de una modelo argentina en Playa del Carmen despierta sospechas de feminicidio",
+        "fechaarticulo": "2023-03-04",
+        "fechaevento": "2023-03-03",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP138",
+        "tituloarticulo": "‘Diez mujeres’: un pódcast mexicano para celebrar la vida de las víctimas de feminicidio y condenar sus asesinatos",
+        "fechaarticulo": "2023-03-04",
+        "fechaevento": "2023-03-01",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP139",
+        "tituloarticulo": "Un mes y un día para encontrar a Carolina Islas, víctima de feminicidio",
+        "fechaarticulo": "2023-03-04",
+        "fechaevento": "2023-03-01",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP140",
+        "tituloarticulo": "Sucesos",
+        "fechaarticulo": "2023-03-04",
+        "fechaestimada": "2023-03-04",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP141",
+        "tituloarticulo": "La relatora especial de la ONU reprocha a España los errores del ‘solo sí es sí’ y pide más protección para las víctimas de violencia sexual",
+        "fechaarticulo": "2023-05-21",
+        "fechaevento": "2023-06-06",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP142",
+        "tituloarticulo": "El doble desamparo de los hijos de asesinadas por violencia machista: “Las trabas económicas y burocráticas te impiden hacer el duelo”",
+        "fechaarticulo": "2023-05-21",
+        "fechaevento": "2023-06-06",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP143",
+        "tituloarticulo": "La batalla de Elizabeth, en busca de justicia por el feminicidio de su hija en la Escuela de Policía de Ecuador",
+        "fechaarticulo": "2023-05-21",
+        "fechaevento": "2023-06-06",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP144",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2023-05-21",
+        "fechaevento": "2023-06-02",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP145",
+        "tituloarticulo": "Igualdad propone equiparar las indemnizaciones por fallecimiento de las víctimas de violencia machista con las de terrorismo",
+        "fechaarticulo": "2023-05-21",
+        "fechaevento": "2023-06-02",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP146",
+        "tituloarticulo": "¿Se frivoliza el problema del feminicidio al presentarlo en un desfile de moda?",
+        "fechaarticulo": "2023-05-21",
+        "fechaevento": "2023-05-30",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP147",
+        "tituloarticulo": "El drama silencioso de las víctimas de violencia vicaria: “Me paso la vida intentando demostrar que no estoy loca”",
+        "fechaarticulo": "2023-05-21",
+        "fechaevento": "2023-05-27",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP148",
+        "tituloarticulo": "Feminicidios y reparación",
+        "fechaarticulo": "2023-08-13",
+        "fechaevento": "2023-08-01",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP149",
+        "tituloarticulo": "Minuto de silencio en Barcelona por la víctima de un crimen machista: “Estamos hartas de llorar los asesinatos de mujeres”",
+        "fechaarticulo": "2023-08-13",
+        "fechaevento": "2023-07-31",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP150",
+        "tituloarticulo": "Concentraciones feministas en distintas ciudades gritan “¡hartas!” frente al negacionismo de la violencia machista",
+        "fechaarticulo": "2023-08-13",
+        "fechaevento": "2023-07-20",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP151",
+        "tituloarticulo": "Violencia machista: cómo cada feminicidio envía un mensaje y un aprendizaje para las instituciones",
+        "fechaarticulo": "2023-08-13",
+        "fechaevento": "2023-07-20",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP152",
+        "tituloarticulo": "El futbolista Sebastián Villa regresa a entrenar con Boca Juniors tras ser condenado por violencia machista",
+        "fechaarticulo": "2023-08-13",
+        "fechaevento": "2023-07-13",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP153",
+        "tituloarticulo": "Violaciones múltiples",
+        "fechaarticulo": "2023-08-13",
+        "fechaestimada": "2023-08-13",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP154",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2023-10-30",
+        "fechaevento": "2023-10-20",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP155",
+        "tituloarticulo": "Machismo",
+        "fechaarticulo": "2023-10-30",
+        "fechaestimada": "2023-10-30",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP156",
+        "tituloarticulo": "Se disparan las llamadas de jóvenes por violencia machista: “Si salía con mis amigas me llamaba puta. Solo quería que saliese con él”",
+        "fechaarticulo": "2023-11-05",
+        "fechaevento": "2023-10-24",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP157",
+        "tituloarticulo": "La primera ministra de Islandia se une a la huelga de mujeres contra la brecha salarial y la violencia machista",
+        "fechaarticulo": "2023-11-05",
+        "fechaevento": "2023-10-24",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP158",
+        "tituloarticulo": "Las mujeres de Ciudad Bolívar limpian la sangre de la violencia machista",
+        "fechaarticulo": "2023-11-05",
+        "fechaevento": "2023-10-22",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP159",
+        "tituloarticulo": "Más de 100.000 fotos alteradas con IA para fines sexuales: ocho alumnas del IPN se enfrentan a la normalización de la violencia digital en México",
+        "fechaarticulo": "2023-11-05",
+        "fechaevento": "2023-10-21",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP160",
+        "tituloarticulo": "El entorno de la víctima hace el 16% de las llamadas de alerta por violencia machista en Cataluña",
+        "fechaarticulo": "2024-01-15",
+        "fechaevento": "2023-12-24",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP161",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2024-01-28",
+        "fechaevento": "2024-01-13",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP162",
+        "tituloarticulo": "Los Mossos investigan el asesinato de los dos niños de Horta como un caso de violencia vicaria",
+        "fechaarticulo": "2024-01-28",
+        "fechaevento": "2024-01-09",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP163",
+        "tituloarticulo": "El cruel feminicidio de una payasa itinerante y la onda expansiva que ha causado en Brasil",
+        "fechaarticulo": "2024-01-28",
+        "fechaevento": "2024-01-20",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP164",
+        "tituloarticulo": "Acoso laboral",
+        "fechaarticulo": "2024-01-28",
+        "fechaestimada": "2024-01-28",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP165",
+        "tituloarticulo": "El feminicidio de María José: la llave de un historial de horrores de su presunto agresor y vecino",
+        "fechaarticulo": "2024-04-23",
+        "fechaevento": "2024-04-19",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP166",
+        "tituloarticulo": "Estar en pareja, tener un hijo y el alcohol: las agravantes de la violencia intrafamiliar que sufren las chilenas",
+        "fechaarticulo": "2024-04-23",
+        "fechaevento": "2024-04-17",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP167",
+        "tituloarticulo": "El Gobierno anuncia 160 millones de euros para trabajar contra la violencia machista",
+        "fechaarticulo": "2024-04-23",
+        "fechaevento": "2024-04-16",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP168",
+        "tituloarticulo": "Igualdad confirma como violencia machista el asesinato de una estadounidense en Málaga",
+        "fechaarticulo": "2024-04-23",
+        "fechaevento": "2024-04-12",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP169",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2024-04-23",
+        "fechaevento": "2024-04-12",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP170",
+        "tituloarticulo": "Siete niños asesinados por sus padres en los peores cuatro meses de violencia machista sobre menores",
+        "fechaarticulo": "2024-04-23",
+        "fechaevento": "2024-04-11",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP171",
+        "tituloarticulo": "Diana Díaz, psicóloga infantil: “Un signo muy característico de que niñas y niños sufren violencia sexual es el cambio súbito de comportamiento”",
+        "fechaarticulo": "2024-04-23",
+        "fechaevento": "2024-04-10",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP172",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2024-04-23",
+        "fechaevento": "2024-04-08",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP173",
+        "tituloarticulo": "Marcela Lagarde: “El Estado, al no actuar, actúa. La impunidad es la base del feminicidio”",
+        "fechaarticulo": "2024-04-23",
+        "fechaevento": "2024-04-07",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP174",
+        "tituloarticulo": "Tres de cada cuatro menores han sufrido violencia sexual en el ámbito digital",
+        "fechaarticulo": "2024-07-18",
+        "fechaevento": "2024-06-24",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP175",
+        "tituloarticulo": "Los casos de violencia intrafamiliar en Colombia rompen su récord",
+        "fechaarticulo": "2024-07-18",
+        "fechaevento": "2024-06-24",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP176",
+        "tituloarticulo": "El audiovisual catalán lanza su primer protocolo contra la violencia machista y la LGTBIfobia",
+        "fechaarticulo": "2024-07-18",
+        "fechaevento": "2024-06-20",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP177",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2024-07-18",
+        "fechaevento": "2024-06-17",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP178",
+        "tituloarticulo": "Las barreras que enfrentan tres mujeres en riesgo de feminicidio",
+        "fechaarticulo": "2024-07-18",
+        "fechaevento": "2024-06-14",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP179",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2024-07-18",
+        "fechaevento": "2024-06-12",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP180",
+        "tituloarticulo": "Cambiar las narrativas para abordar eficazmente los feminicidios",
+        "fechaarticulo": "2024-07-18",
+        "fechaevento": "2024-06-08",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP181",
+        "tituloarticulo": "La justicia condena a John Poulos a 42 años de prisión por el feminicidio de Valentina Trespalacios",
+        "fechaarticulo": "2024-07-18",
+        "fechaevento": "2024-06-04",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP182",
+        "tituloarticulo": "Amante del vallenato y madre entregada: así era Stefanny Barranco, la víctima de feminicidio en el centro comercial Santafé",
+        "fechaarticulo": "2024-07-18",
+        "fechaevento": "2024-06-04",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP183",
+        "tituloarticulo": "La Reina inicia su viaje anual de cooperación a Guatemala con la violencia contra la mujer y la desnutrición como prioridades",
+        "fechaarticulo": "2024-07-18",
+        "fechaevento": "2024-06-04",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP184",
+        "tituloarticulo": "Feminicidios, aborto y recortes: el sexenio de López Obrador y las mujeres",
+        "fechaarticulo": "2024-07-18",
+        "fechaevento": "2024-06-01",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP185",
+        "tituloarticulo": "Trata de personas, complicidad estatal y feminicidios: un documental retrata el horror oculto tras la web de Zona Divas",
+        "fechaarticulo": "2024-09-18",
+        "fechaevento": "2024-09-07",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP186",
+        "tituloarticulo": "El presidente Lula destituye al ministro de Derechos Humanos tras ser denunciado por acoso sexual",
+        "fechaarticulo": "2024-09-18",
+        "fechaevento": "2024-09-06",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP187",
+        "tituloarticulo": "Reality show",
+        "fechaarticulo": "2024-09-18",
+        "fechaestimada": "2024-09-18",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP188",
+        "tituloarticulo": "El futbolista argentino Gonzalo Montiel se somete a una pericia clave en la causa que lo investiga por abuso sexual",
+        "fechaarticulo": "2024-09-26",
+        "fechaevento": "2024-09-18",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP189",
+        "tituloarticulo": "Sean Combs, detenido en Nueva York tras 10 demandas de acoso sexual, abusos y violación",
+        "fechaarticulo": "2024-09-26",
+        "fechaevento": "2024-09-17",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP190",
+        "tituloarticulo": "La madre que construye la memoria de las víctimas de feminicidio en Brasil",
+        "fechaarticulo": "2024-09-26",
+        "fechaevento": "2024-09-15",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP191",
+        "tituloarticulo": "‘Podcast’ | Argentina en shock: qué impacto ha tenido la denuncia por violencia machista al expresidente",
+        "fechaarticulo": "2024-09-26",
+        "fechaevento": "2024-09-12",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP192",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2024-09-26",
+        "fechaevento": "2024-09-19",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP193",
+        "tituloarticulo": "Más de veinte exempleadas acusan al fallecido magnate Mohamed Al Fayed de abusos y violaciones",
+        "fechaarticulo": "2024-09-26",
+        "fechaevento": "2024-09-19",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP194",
+        "tituloarticulo": "Detenido un concejal del PP en Galicia por violencia machista",
+        "fechaarticulo": "2024-09-26",
+        "fechaevento": "2024-09-18",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP195",
+        "tituloarticulo": "Acoso sexual",
+        "fechaarticulo": "2024-09-26",
+        "fechaestimada": "2024-09-26",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP196",
+        "tituloarticulo": "El trauma social que dejan los feminicidios en Colombia: “La vida de nuestras mujeres no vale nada”",
+        "fechaarticulo": "2024-10-12",
+        "fechaevento": "2024-10-12",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP197",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2024-10-12",
+        "fechaevento": "2024-10-07",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP198",
+        "tituloarticulo": "El Constitucional ampara a una mujer que incumplió el régimen de visitas de su hija tras denunciar a su exmarido por violencia machista",
+        "fechaarticulo": "2024-10-12",
+        "fechaevento": "2024-09-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP199",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2024-10-12",
+        "fechaevento": "2024-09-24",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP200",
+        "tituloarticulo": "Un ‘plan feminicidio’ destapa la degradación del conflicto en la capital del Chocó",
+        "fechaarticulo": "2024-10-12",
+        "fechaevento": "2024-09-23",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP201",
+        "tituloarticulo": "Violencia machista, una epidemia silenciosa en la UE: solo 1 de cada 8 mujeres denuncia las agresiones",
+        "fechaarticulo": "2024-12-08",
+        "fechaevento": "2024-11-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP202",
+        "tituloarticulo": "Día contra violencia género",
+        "fechaarticulo": "2024-12-16",
+        "fechaestimada": "2024-12-16",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP203",
+        "tituloarticulo": "El Constitucional insta a los jueces a tener en cuenta los indicios de violencia machista en los procesos de divorcio",
+        "fechaarticulo": "2024-12-16",
+        "fechaevento": "2024-12-09",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP204",
+        "tituloarticulo": "Ciberacoso",
+        "fechaarticulo": "2024-12-16",
+        "fechaestimada": "2024-12-16",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP205",
+        "tituloarticulo": "Atresmedia y Diagonal TV aplazan el estreno de la serie sobre Gervasio Deferr por acusaciones de “abuso sexual” contra el exgimnasta olímpico",
+        "fechaarticulo": "2024-12-16",
+        "fechaevento": "2024-11-30",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP206",
+        "tituloarticulo": "El caso histórico de violencia digital con inteligencia artificial en México",
+        "fechaarticulo": "2024-12-16",
+        "fechaevento": "2024-11-28",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP207",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2024-12-16",
+        "fechaevento": "2024-11-27",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP208",
+        "tituloarticulo": "El Gobierno de Boric defiende que hizo pública la denuncia de acoso sexual contra el presidente para “avanzar y esclarecer” lo ocurrido",
+        "fechaarticulo": "2024-12-16",
+        "fechaevento": "2024-11-26",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP209",
+        "tituloarticulo": "Así han sido las manifestaciones del 25-N, el Día Internacional contra la Violencia Machista",
+        "fechaarticulo": "2024-12-16",
+        "fechaevento": "2024-11-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP210",
+        "tituloarticulo": "Miles de mujeres protestan contra la violencia machista en toda España: “Nos unen muchas más cosas de las que nos separan”",
+        "fechaarticulo": "2024-12-16",
+        "fechaevento": "2024-11-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP211",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2024-12-16",
+        "fechaevento": "2024-11-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP212",
+        "tituloarticulo": "El Gobierno de Sheinbaum lanza una campaña contra la violencia machista pero recorta el gasto de la política de Género para 2025",
+        "fechaarticulo": "2024-12-16",
+        "fechaevento": "2024-11-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP213",
+        "tituloarticulo": "La violencia digital en torno a las mujeres periodistas: el caso de Marion Reimers",
+        "fechaarticulo": "2025-01-04",
+        "fechaevento": "2024-12-10",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP214",
+        "tituloarticulo": "Isabel Valdes: “Gisèle Pelicot ha logrado visibilizar la violencia machista desde un ángulo en el que nunca vemos a las víctimas”",
+        "fechaarticulo": "2025-01-04",
+        "fechaevento": "2024-12-19",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP215",
+        "tituloarticulo": "Investigan como violencia machista el asesinato de una mujer en Lugo por su pareja",
+        "fechaarticulo": "2025-01-04",
+        "fechaevento": "2024-12-18",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP216",
+        "tituloarticulo": "Solo hay activos 20 de los 52 centros de crisis para víctimas de violencia sexual que deben estar abiertos antes de final de año",
+        "fechaarticulo": "2025-01-04",
+        "fechaevento": "2024-12-18",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP217",
+        "tituloarticulo": "La historia de los hijos de Nabila Rifo, absueltos en Chile por el homicidio de la pareja de su madre, víctima de violencia machista",
+        "fechaarticulo": "2025-01-08",
+        "fechaevento": "2024-12-23",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP218",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2025-01-08",
+        "fechaevento": "2024-12-23",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP219",
+        "tituloarticulo": "Una denuncia de abuso sexual estremece a la Universidad Nacional de Colombia",
+        "fechaarticulo": "2025-01-08",
+        "fechaevento": "2024-12-20",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP220",
+        "tituloarticulo": "El Gobierno indemnizará a una víctima de violencia sexual por el funcionamiento anormal de la justicia en el proceso contra su agresor",
+        "fechaarticulo": "2025-01-08",
+        "fechaevento": "2024-12-20",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP221",
+        "tituloarticulo": "Dos mujeres denuncian por acoso sexual al jefe de seguridad de Francia Márquez",
+        "fechaarticulo": "2025-01-08",
+        "fechaevento": "2024-12-20",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP222",
+        "tituloarticulo": "Las comunidades tendrán hasta junio de 2025 para abrir sus centros de crisis 24 horas contra la violencia sexual",
+        "fechaarticulo": "2025-01-08",
+        "fechaevento": "2024-12-19",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP223",
+        "tituloarticulo": "“Gisèle Pelicot ha sentado en el banquillo al machismo y a la cultura de la violación”, señala la ministra de Igualdad",
+        "fechaarticulo": "2025-01-08",
+        "fechaevento": "2024-12-19",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP224",
+        "tituloarticulo": "Cristina Hernández: “Necesitamos un mayor compromiso de los hombres” contra la violencia machista",
+        "fechaarticulo": "2025-01-08",
+        "fechaevento": "2025-01-04",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP225",
+        "tituloarticulo": "Igualdad asegura que ya están abiertos 53 centros de crisis para víctimas de violencia sexual",
+        "fechaarticulo": "2025-01-08",
+        "fechaevento": "2025-01-02",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP226",
+        "tituloarticulo": "Infierno laboral para las mujeres en el juzgado de violencia machista de A Coruña",
+        "fechaarticulo": "2025-03-08",
+        "fechaevento": "2025-02-28",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP227",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2025-03-08",
+        "fechaevento": "2025-02-27",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP228",
+        "tituloarticulo": "Televisa estrena un documental sobre el feminicidio de Debanhi Escobar",
+        "fechaarticulo": "2025-03-08",
+        "fechaevento": "2025-02-26",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP229",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2025-03-08",
+        "fechaevento": "2025-02-25",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP230",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2025-03-08",
+        "fechaevento": "2025-02-17",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP231",
+        "tituloarticulo": "Feminicidios en México",
+        "fechaarticulo": "2025-03-13",
+        "fechaestimada": "2025-03-13",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP232",
+        "tituloarticulo": "Video | Hackers que ayudan a las mujeres víctimas de la violencia digital",
+        "fechaarticulo": "2025-03-13",
+        "fechaevento": "2025-03-14",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP233",
+        "tituloarticulo": "La defensa de los presuntos asesinos de Cecilia Monzón retrasa el arranque del juicio por feminicidio",
+        "fechaarticulo": "2025-03-13",
+        "fechaevento": "2025-03-12",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP234",
+        "tituloarticulo": "Tres detenidos por matar a puñaladas al padre de una víctima de violencia machista después del juicio",
+        "fechaarticulo": "2025-03-13",
+        "fechaevento": "2025-03-11",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP235",
+        "tituloarticulo": "La preocupación por la violencia machista disminuye en niños y adolescentes de España, según un informe de Unicef",
+        "fechaarticulo": "2025-03-13",
+        "fechaevento": "2025-03-11",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP236",
+        "tituloarticulo": "Casi 12.000 mujeres han sido asesinadas en Brasil por feminicidio durante la última década",
+        "fechaarticulo": "2025-03-13",
+        "fechaevento": "2025-03-10",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP237",
+        "tituloarticulo": "Prisión provisional para un hombre por el asesinato de su esposa en Jaén en otro posible caso de violencia machista",
+        "fechaarticulo": "2025-03-13",
+        "fechaevento": "2025-03-07",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP238",
+        "tituloarticulo": "El feminicidio de Astrid Cruz y el asesinato de su hijo adolescente conmociona a Jalisco",
+        "fechaarticulo": "2025-03-13",
+        "fechaevento": "2025-03-06",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP239",
+        "tituloarticulo": "Violaciones",
+        "fechaarticulo": "2025-03-13",
+        "fechaestimada": "2025-03-13",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP240",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2025-04-01",
+        "fechaevento": "2025-03-24",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP241",
+        "tituloarticulo": "Violencia sexual",
+        "fechaarticulo": "2025-04-03",
+        "fechaestimada": "2025-04-03",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP242",
+        "tituloarticulo": "Más de 500 mujeres denuncian por violencia machista cada día en España",
+        "fechaarticulo": "2025-04-03",
+        "fechaevento": "2025-03-31",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP243",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2025-04-03",
+        "fechaevento": "2025-03-31",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP244",
+        "tituloarticulo": "NaN",
+        "fechaarticulo": "2025-04-03",
+        "fechaevento": "2025-03-29",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP245",
+        "tituloarticulo": "Una comunidad indígena choca con un juez por definir quién investiga un intento de feminicidio",
+        "fechaarticulo": "2025-04-03",
+        "fechaevento": "2025-03-27",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP246",
+        "tituloarticulo": "Feminicidios en México",
+        "fechaarticulo": "2025-04-03",
+        "fechaestimada": "2025-04-03",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP247",
+        "tituloarticulo": "El acusado de matar a la hija de su expareja en Murcia tenía dos condenas previas por violencia machista hacia otras mujeres",
+        "fechaarticulo": "2025-04-03",
+        "fechaevento": "2025-04-03",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP248",
+        "tituloarticulo": "Los huérfanos por feminicidio ya tienen una ley que los protege",
+        "fechaarticulo": "2025-04-03",
+        "fechaevento": "2025-04-03",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP249",
+        "tituloarticulo": "Feminicidios",
+        "fechaarticulo": "2025-04-03",
+        "fechaestimada": "2025-04-03",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP250",
+        "tituloarticulo": "Violencia machista",
+        "fechaarticulo": "2025-04-03",
+        "fechaestimada": "2025-04-03",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    },
+    {
+        "ID_noticia": "ESP251",
+        "tituloarticulo": "Violencia vicaria",
+        "fechaarticulo": "2025-04-03",
+        "fechaestimada": "2025-04-03",
+        "diario": "ElPais",
+        "pais": "Pais no especificado",
+        "comunidad": "comunidad no especificado",
+        "municipio": "municipio no especificado"
+    }
+]

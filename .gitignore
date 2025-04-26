@@ -6,7 +6,7 @@ chromedriver.exe
 
 # Ignorar archivos de salida o resultados de procesamiento
 *.pbix
-*.json
+
 
 # Ignorar entornos virtuales de Python
 venv/
