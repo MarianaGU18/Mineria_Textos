@@ -344,7 +344,7 @@ for idx, i in enumerate(files_csv, 1):
                 comunidad = ent.text
        
     evento["pais"] = "España" if pais in ["Espana", "España"] else "Otro Pais"
-    evento["delitos_relacionados"] = conteo_delitos if conteo_delitos else "Sin especificar"
+    evento["token"] = conteo_delitos if conteo_delitos else "Sin especificar"
     #evento["ubicacion_noticia"] = {comunidad}, {municipio}
     evento["ubicacion_noticia"] = f"{comunidad}, {municipio}" if departamento and municipio else "Sin especificar"
 
