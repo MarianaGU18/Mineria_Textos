@@ -10,12 +10,10 @@ from datetime import datetime
 import pycountry
 from datetime import datetime
 
-from datetime import datetime
-import re
 # Variables de ruta
 ruta_DATA_ESP = "datos_base/DATA_ESP/data_ESP.csv"
-directorio_trabajo = "articulos_x_procesar/ELPAIS_ESP"
-origen = "ElPais"
+directorio_trabajo = "articulos_x_procesar/ELPAIS_ESP1"
+origen = "ElPaís"
 
 
 ###############################################################
@@ -93,10 +91,7 @@ def convertir_a_fecha(fecha_str):
                 if not (1 <= dia <= 31):
                     print(f"[ERROR] Día fuera de rango: {dia} en '{fecha_str}'")
                     return None
-
-                #fecha = datetime(anio, mes, dia)
-                #return fecha.date().isoformat()
-
+                
                 fecha = datetime(anio, mes, dia)
                 return fecha.strftime('%d/%m/%Y')
 
@@ -127,19 +122,18 @@ def normalizar_delito(texto_delito):
     for delito, patron in patrones_delitos.items():
         if re.match(patron, texto_delito_lower):
             delitos_detectados.append(delito)  # Agregar el delito normalizado a la lista
-            #return delito
-
-    if delitos_detectados:
-        return ', '.join(delitos_detectados)  # Retornar los delitos normalizados como una cadena separada por comas
-    else:
-        # Si no coincide con ninguno, retornar el texto original
-        return texto_delito
  
+    # Expansión del return
+    if delitos_detectados:
+        return delitos_detectados
+    else:
+        # Si no se detecta un delito conocido, devolvemos el texto en minúscula en una lista
+        return [texto_delito_lower]
+
 ###############################################################################
 # Validaciones
 if not os.path.isfile(ruta_DATA_ESP):
     print(f"El archivo {ruta_DATA_ESP} no existe.")
-    os.makedirs(ruta_DATA_ESP)
     sys.exit(1)
 
 # Cargar la lista de municipios y departamentos desde un archivo CSV
@@ -148,8 +142,9 @@ df_depmun = pd.read_csv(ruta_DATA_ESP)
 
 # Validaciones
 if not os.path.isdir(directorio_trabajo):
-    print(f"El directorio {directorio_trabajo} no existe.")
-    sys.exit(1)
+    print(f"El directorio {directorio_trabajo} no existe.")    
+    os.makedirs(directorio_trabajo)
+
 
 # Crear conjuntos para buscar más rápido
 municipios = set(df_depmun['MUNICIPIO'].str.lower())
@@ -173,7 +168,7 @@ def verificar_localizacion(localizacion):
         
     if localizacion_lower in municipios:
         return "MUNICIPIO"
-    elif localizacion_lower in comunidad:
+    elif localizacion_lower in comunidades:
         return "COMUNIDAD"
     else:
         return "No encontrado"
@@ -190,7 +185,6 @@ def obtener_comunidad(municipio):
         # Si no se encuentra el municipio, retornar un mensaje
         return f"Sin especificar"
 
-
 # Función para detectar país desde la URL
 def detectar_pais(url):
     ext = tldextract.extract(url)
@@ -200,7 +194,6 @@ def detectar_pais(url):
 
     for pais in paises:
         if pais in dominio or pais in subdominio or pais in path:
-            #print(f"{url} → País detectado: {pais.title()}")
             return pais.title()
 
 
@@ -212,11 +205,7 @@ def obtener_una_url(archivo,directorio_trabajo):
         if not df.empty:
             url = df.iloc[0, 0]
             return url  # Sale al encontrar la primera URL
-    return None  # Si no se encuentra ninguna
-
-nlp = spacy.load("es_core_news_lg")  # Modelo para español
-palabrasExcluir = nlp.Defaults.stop_words #listado de stopwords de spacy usado para filtros posteriores
-palabrasExcluir.add("el pais")
+    return None  # Si no se encuentra ninguna00
 
 lstEventos = []
 df = pd.DataFrame()
@@ -228,29 +217,163 @@ nlp = spacy.load("es_core_news_lg")  # Modelo para español
 palabrasExcluir = nlp.Defaults.stop_words #listado de stopwords de spacy usado para filtros posteriores
 palabrasExcluir.add("el pais")
 
-for idx, i in enumerate(files_csv, 1): 
-    
+
+for i in files_csv:
+    #print(i)
     #Se inicializa el diccionario
     evento = {}
     # Formación del data frame a través de la lectura del archivo
+    # Ruta completa al archivo
+    file_path = os.path.join(directorio_trabajo, i)
+
     df = pd.read_csv(i)
     # Contenido del campo texto del data frame
     df_text = df.to_string()
     
     ####### ID del evento
-    evento["ID_noticia"] = f"ESP{idx:03}"
+    filename  = os.path.basename(i).removeprefix('ElPais_').removesuffix('_ESP.csv')
 
-    '''    
+    evento["ID_noticia"] = f"ESP_{filename}"
+    ###############################################################
     # Agregar el titulo del articulo
-    #tituloarticulo = df_text.split('\n')[1][1:].strip()
+    tituloarticulo = df_text.split('\n')[1][1:].strip()
     #evento["tituloarticulo"] = tituloarticulo
-    
-    #Tokenizacion de titulos
-    #doc_titulo = nlp(tituloarticulo)
-    #evento["tokenizaciontitulo"] = [token.text for token in doc_titulo if not token.is_stop and not token.is_punct]   
-    '''
+ 
+    ###############################################################
     # Agregar fecha del articulo
     fechaarticulo = datetime.strptime(i.split('_')[1], '%Y%m%d%H%M%S').strftime('%d/%m/%Y')
+    
+    ###############################################################
+    # Buscar fechas en el texto usando expresiones regulares
+    fechas = []
+    for regex in regex_fechas:
+        fechas.extend(re.findall(regex, df_text.lower()))
+    
+    #Conversion de fechas de texto a tipo date
+    fechas_sinduplicados = list(set(fechas))
+    fechas_date = []
+    for fecha in fechas_sinduplicados:
+        fecha_formato = convertir_a_fecha(fecha)
+        fechas_date.append(fecha_formato)
+
+    # Obtener la menor fecha y adicionarla al diccionario de eventos de asesinatos si existen fechas
+    fecha_menor = ''
+    if len(fechas_date) > 0:
+        fecha_menor = min(fechas_date)
+
+    #Buscar otros delitos expuestos usando expresiones regulares y adicionando los resultados a las entidades de Spacy
+    # Procesar el texto con SpaCy
+    doc = nlp(df_text)
+    # Filtrar las entidades para mantener solo 'LOC' y 'PER'
+    ents_filtradas = [ent for ent in doc.ents if ent.label_ in ["LOC", "PER"]]
+
+    delitos_encontrados = []
+    for delito, patron in patrones_delitos.items():
+        # Buscar todas las coincidencias del patrón de delito
+        for match in re.finditer(patron, df_text.lower()):
+            start, end = match.span()  # Obtener el inicio y fin de la coincidencia
+            delitos_encontrados.append((start, end, delito))
+
+    # Verificar superposición de entidades antes de agregar las nuevas entidades de tipo DELITO
+    for start, end, delito in delitos_encontrados:
+        span = doc.char_span(start, end, label="DELITO")
+        
+        # Asegurarse de que el span no es None y no se solape con otras entidades
+        if span is not None:
+            overlapping = False
+            for ent in doc.ents:
+                # Verifica si los spans se solapan
+                if ent.start < span.end and span.start < ent.end:
+                    overlapping = True
+                    break
+            if not overlapping:
+                ents_filtradas.append(span)
+ 
+    # Actualizar las entidades del documento con las nuevas entidades detectadas y filtradas
+    doc.ents = ents_filtradas
+    
+    municipio = ""
+    comunidad = ""
+    provincia = ""
+    conteo_delitos  = {}
+
+    directorio_trabajo = os.getcwd()
+
+    conteo_delitos = {clave: 0 for clave in patrones_delitos.keys()}
+
+    for ent in doc.ents:
+       
+        if ent.label_ == "DELITO":
+            delito_normalizado = normalizar_delito(ent.text)
+ 
+            for delito in delito_normalizado:
+                
+                if delito in conteo_delitos:
+                    conteo_delitos[delito] += 1
+                else:
+                    conteo_delitos[delito] = 1  # opcional, solo si quieres agregar no normalizados
+
+                # Mostrar el conteo final
+        #print("\n--- Conteo final de delitos ---")
+        #for delito, conteo in conteo_delitos.items():
+            #print(f"{delito}: {conteo}")
+        url= obtener_una_url(i,directorio_trabajo)
+
+        pais= detectar_pais(url)
+
+        if ent.label_ == "LOC": # Verificar cada localización detectada
+
+            tipo = verificar_localizacion(ent.text)
+   
+            if tipo == "MUNICIPIO": 
+
+                municipio = ent.text
+                print(f"Municipio encontrado: {municipio}")
+                comunidad = obtener_comunidad(municipio)
+                
+            elif tipo == "COMUNIDAD" :
+                municipio = "Sin especificar"
+                comunidad = ent.text
+    evento["token"] = conteo_delitos if conteo_delitos else "Sin especificar delitos"       
+    evento["fecha"] = fechaarticulo
+    evento["diario"] = origen
+    evento["país"] = "España" if pais in ["Espana", "España"] else "Otro País"
+    evento["ubicacion_noticia"] = f"{comunidad}, {municipio}" if provincia and municipio else "Sin especificar"
+
+    ##################################################################################################
+    lstEventos.append(evento)
+    #print(evento)
+   
+#################################################################################################
+# Escribir los datos al archivo JSON
+
+directorio = "./TFM"
+
+
+if not os.path.exists(directorio):
+    os.makedirs(directorio)
+
+with open(f"{directorio}/noticias_estandarizadas_ESP.json", "w", encoding="utf-8") as archivo:
+    json.dump(lstEventos, archivo, ensure_ascii=False, indent=4)
+
+################ 
+'''
+for file in (files_csv): 
+    
+    #Se inicializa el diccionario
+    evento = {}
+    # Formación del data frame a través de la lectura del archivo
+    df = pd.read_csv(file)
+    # Contenido del campo texto del data frame
+    df_text = df.to_string()
+    
+    ####### ID del evento
+    filename  = os.path.basename(file).removeprefix('ElPais_').removesuffix('_ESP.csv')
+
+    evento["ID_noticia"] = f"ESP_{filename}"
+
+    # Agregar fecha del articulo
+    fechaarticulo = datetime.strptime(file.split('_')[1], '%Y%m%d%H%M%S').strftime('%d/%m/%Y')
     evento["fechaarticulo"] = fechaarticulo
 
     # Buscar fechas en el texto usando expresiones regulares
@@ -317,7 +440,7 @@ for idx, i in enumerate(files_csv, 1):
 
     for ent in doc.ents:
         
-        url= obtener_una_url(i,directorio_trabajo)
+        url= obtener_una_url(file,directorio_trabajo)
         pais= detectar_pais(url)
         paises_detectados.append(pais)
     
@@ -345,20 +468,7 @@ for idx, i in enumerate(files_csv, 1):
        
     evento["pais"] = "España" if pais in ["Espana", "España"] else "Otro Pais"
     evento["token"] = conteo_delitos if conteo_delitos else "Sin especificar"
-    #evento["ubicacion_noticia"] = {comunidad}, {municipio}
     evento["ubicacion_noticia"] = f"{comunidad}, {municipio}" if departamento and municipio else "Sin especificar"
 
     lstEventos.append(evento)
-
-#print(lstEventos)
-
-#################################################################################################
-# Escribir los datos al archivo JSON
-
-directorio = "./TFM"
-
-if not os.path.exists(directorio):
-    os.makedirs(directorio)
-
-with open(f"{directorio}/noticias_estandarizadas_ESP.json", "w", encoding="utf-8") as archivo:
-    json.dump(lstEventos, archivo, ensure_ascii=False, indent=4)
+ '''
