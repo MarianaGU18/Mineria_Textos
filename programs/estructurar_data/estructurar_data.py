@@ -185,6 +185,18 @@ def obtener_comunidad(municipio):
         # Si no se encuentra el municipio, retornar un mensaje
         return f"Sin especificar"
 
+def obtener_provincia(comunidad):
+    # Filtrar la fila correspondiente al municipio
+    resultado = df_depmun[df_depmun['COMUNIDAD'].str.lower() == comunidad.lower()]
+    
+    if not resultado.empty:
+        # Retornar el departamento asociado al municipio
+        return resultado.iloc[0]['PROVINCIA']
+    else:
+        # Si no se encuentra el municipio, retornar un mensaje
+        return f"Sin especificar"
+
+
 # Función para detectar país desde la URL
 def detectar_pais(url):
     ext = tldextract.extract(url)
@@ -328,24 +340,32 @@ for i in files_csv:
             if tipo == "MUNICIPIO": 
 
                 municipio = ent.text
-                print(f"Municipio encontrado: {municipio}")
                 comunidad = obtener_comunidad(municipio)
+                provincia = obtener_provincia(comunidad)
+
                 
             elif tipo == "COMUNIDAD" :
-                municipio = "Sin especificar"
+                municipio = "sin especificar municipio"
                 comunidad = ent.text
+                provincia = obtener_provincia(comunidad)
+
+ 
+    comunidad = comunidad if comunidad else "sin especificar comunidad"
+    municipio = municipio if municipio else "sin especificar municipio"
+    provincia = provincia if provincia else "sin especificar provincia"
+
+
     evento["token"] = conteo_delitos if conteo_delitos else "Sin especificar delitos"       
     evento["fecha"] = fechaarticulo
     evento["diario"] = origen
     evento["país"] = "España" if pais in ["Espana", "España"] else "Otro País"
-    evento["ubicacion_noticia"] = f"{comunidad}, {municipio}" if provincia and municipio else "Sin especificar"
+    evento["ubicacion_noticia"] = f"{comunidad}, {municipio}, {provincia}"
 
     ##################################################################################################
     lstEventos.append(evento)
-    #print(evento)
+    print(evento)
    
 #################################################################################################
-# Escribir los datos al archivo JSON
 
 directorio = "./TFM"
 

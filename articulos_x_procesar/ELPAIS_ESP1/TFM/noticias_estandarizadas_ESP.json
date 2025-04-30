@@ -57,7 +57,7 @@
         "fecha": "01/03/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20200303235413_0",
@@ -117,7 +117,7 @@
         "fecha": "03/03/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Ceuta, Ceuta, Ceuta"
     },
     {
         "ID_noticia": "ESP_20200303235413_1",
@@ -177,7 +177,7 @@
         "fecha": "03/03/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20200303235413_2",
@@ -237,7 +237,7 @@
         "fecha": "03/03/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Ceuta, Ceuta, Ceuta"
     },
     {
         "ID_noticia": "ESP_20200303235413_3",
@@ -297,7 +297,7 @@
         "fecha": "03/03/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Ceuta, Ceuta, Ceuta"
     },
     {
         "ID_noticia": "ESP_20200303235413_5",
@@ -357,7 +357,7 @@
         "fecha": "03/03/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20200503234339_13",
@@ -417,7 +417,7 @@
         "fecha": "03/05/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20200504231009_12",
@@ -477,7 +477,7 @@
         "fecha": "04/05/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20200506224738_10",
@@ -537,7 +537,7 @@
         "fecha": "06/05/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Valencia, Almassora, Alicante"
     },
     {
         "ID_noticia": "ESP_20200506224738_15",
@@ -597,7 +597,7 @@
         "fecha": "06/05/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20200506224738_16",
@@ -657,7 +657,7 @@
         "fecha": "06/05/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20200506224738_17",
@@ -717,7 +717,7 @@
         "fecha": "06/05/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20200506224738_6",
@@ -777,7 +777,7 @@
         "fecha": "06/05/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20200506224738_8",
@@ -837,7 +837,7 @@
         "fecha": "06/05/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20200506224738_9",
@@ -897,7 +897,7 @@
         "fecha": "06/05/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20200717195852_20",
@@ -957,7 +957,7 @@
         "fecha": "17/07/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20200717195852_21",
@@ -1017,7 +1017,7 @@
         "fecha": "17/07/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20200717195852_22",
@@ -1077,7 +1077,7 @@
         "fecha": "17/07/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20200724233403_18",
@@ -1137,7 +1137,7 @@
         "fecha": "24/07/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20200724233403_19",
@@ -1197,7 +1197,7 @@
         "fecha": "24/07/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20200724233403_23",
@@ -1257,7 +1257,7 @@
         "fecha": "24/07/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20200724233403_24",
@@ -1317,7 +1317,7 @@
         "fecha": "24/07/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Cataluña, Barcelona, Barcelona"
     },
     {
         "ID_noticia": "ESP_20200724233403_25",
@@ -1377,7 +1377,7 @@
         "fecha": "24/07/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20201001202914_27",
@@ -1437,7 +1437,7 @@
         "fecha": "01/10/2020",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Cataluña, Barcelona, Barcelona"
     },
     {
         "ID_noticia": "ESP_20201018212100_26",
@@ -1497,7 +1497,7 @@
         "fecha": "18/10/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
     },
     {
         "ID_noticia": "ESP_20201018212100_28",
@@ -1557,7 +1557,7 @@
         "fecha": "18/10/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20201018212100_29",
@@ -1617,7 +1617,7 @@
         "fecha": "18/10/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20201018212100_30",
@@ -1677,7 +1677,7 @@
         "fecha": "18/10/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20201018212100_31",
@@ -1737,7 +1737,7 @@
         "fecha": "18/10/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20201018212100_32",
@@ -1797,7 +1797,7 @@
         "fecha": "18/10/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Andalucía, sin especificar municipio, Almería"
     },
     {
         "ID_noticia": "ESP_20201228224027_39",
@@ -1857,7 +1857,7 @@
         "fecha": "28/12/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20201230232026_38",
@@ -1917,7 +1917,7 @@
         "fecha": "30/12/2020",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210104234101_33",
@@ -1977,7 +1977,7 @@
         "fecha": "04/01/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210104234101_34",
@@ -2037,7 +2037,7 @@
         "fecha": "04/01/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210104234101_35",
@@ -2097,7 +2097,7 @@
         "fecha": "04/01/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210104234101_36",
@@ -2157,7 +2157,7 @@
         "fecha": "04/01/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210104234101_37",
@@ -2217,7 +2217,7 @@
         "fecha": "04/01/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210104234101_40",
@@ -2277,7 +2277,7 @@
         "fecha": "04/01/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210104234101_41",
@@ -2337,7 +2337,7 @@
         "fecha": "04/01/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210104234101_42",
@@ -2397,7 +2397,7 @@
         "fecha": "04/01/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210309235821_43",
@@ -2457,7 +2457,7 @@
         "fecha": "09/03/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210309235821_44",
@@ -2517,7 +2517,7 @@
         "fecha": "09/03/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210316233718_46",
@@ -2577,7 +2577,7 @@
         "fecha": "16/03/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210328221918_48",
@@ -2637,7 +2637,7 @@
         "fecha": "28/03/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210328221918_49",
@@ -2697,7 +2697,7 @@
         "fecha": "28/03/2021",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210328221918_50",
@@ -2757,7 +2757,7 @@
         "fecha": "28/03/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210328221918_51",
@@ -2817,7 +2817,7 @@
         "fecha": "28/03/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210328221918_52",
@@ -2877,7 +2877,7 @@
         "fecha": "28/03/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210328221918_53",
@@ -2937,7 +2937,7 @@
         "fecha": "28/03/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210328221918_54",
@@ -2997,7 +2997,7 @@
         "fecha": "28/03/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210328221918_55",
@@ -3057,7 +3057,7 @@
         "fecha": "28/03/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210617235010_56",
@@ -3117,7 +3117,7 @@
         "fecha": "17/06/2021",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210617235010_57",
@@ -3177,7 +3177,7 @@
         "fecha": "17/06/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210617235010_58",
@@ -3237,7 +3237,7 @@
         "fecha": "17/06/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210617235010_59",
@@ -3297,7 +3297,7 @@
         "fecha": "17/06/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210617235010_61",
@@ -3357,7 +3357,7 @@
         "fecha": "17/06/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210825233320_62",
@@ -3417,7 +3417,7 @@
         "fecha": "25/08/2021",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210825233320_63",
@@ -3477,7 +3477,7 @@
         "fecha": "25/08/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210825233320_64",
@@ -3537,7 +3537,7 @@
         "fecha": "25/08/2021",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210825233320_65",
@@ -3597,7 +3597,7 @@
         "fecha": "25/08/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210825233320_66",
@@ -3657,7 +3657,7 @@
         "fecha": "25/08/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20210825233320_67",
@@ -3717,7 +3717,7 @@
         "fecha": "25/08/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20211115230438_68",
@@ -3777,7 +3777,7 @@
         "fecha": "15/11/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20211115230438_69",
@@ -3837,7 +3837,7 @@
         "fecha": "15/11/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20211115230438_70",
@@ -3897,7 +3897,7 @@
         "fecha": "15/11/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20211115230438_71",
@@ -3957,7 +3957,7 @@
         "fecha": "15/11/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20211115230438_72",
@@ -4017,7 +4017,7 @@
         "fecha": "15/11/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20211115230438_73",
@@ -4077,7 +4077,7 @@
         "fecha": "15/11/2021",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20211115230438_74",
@@ -4137,7 +4137,7 @@
         "fecha": "15/11/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20211115230438_75",
@@ -4197,7 +4197,7 @@
         "fecha": "15/11/2021",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Andalucía, Málaga, Almería"
     },
     {
         "ID_noticia": "ESP_20211121231724_76",
@@ -4257,7 +4257,7 @@
         "fecha": "21/11/2021",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20211121231724_77",
@@ -4317,7 +4317,7 @@
         "fecha": "21/11/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20211121231724_78",
@@ -4377,7 +4377,7 @@
         "fecha": "21/11/2021",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20211121231724_79",
@@ -4437,7 +4437,7 @@
         "fecha": "21/11/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20211121231724_80",
@@ -4497,7 +4497,7 @@
         "fecha": "21/11/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20211121231724_81",
@@ -4557,7 +4557,7 @@
         "fecha": "21/11/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20211121231724_82",
@@ -4617,7 +4617,7 @@
         "fecha": "21/11/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20211121231724_83",
@@ -4677,7 +4677,7 @@
         "fecha": "21/11/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20211121231724_84",
@@ -4737,7 +4737,7 @@
         "fecha": "21/11/2021",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220128220625_86",
@@ -4797,7 +4797,7 @@
         "fecha": "28/01/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220128220625_87",
@@ -4857,7 +4857,7 @@
         "fecha": "28/01/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220128220625_89",
@@ -4917,7 +4917,7 @@
         "fecha": "28/01/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220128220625_90",
@@ -4977,7 +4977,7 @@
         "fecha": "28/01/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220128220625_91",
@@ -5037,7 +5037,7 @@
         "fecha": "28/01/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220128220625_92",
@@ -5097,7 +5097,7 @@
         "fecha": "28/01/2022",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220217234054_11",
@@ -5157,7 +5157,7 @@
         "fecha": "17/02/2022",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220217234054_93",
@@ -5217,7 +5217,7 @@
         "fecha": "17/02/2022",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220217234054_94",
@@ -5277,7 +5277,7 @@
         "fecha": "17/02/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Andalucía, Alcalá la Real, Almería"
     },
     {
         "ID_noticia": "ESP_20220217234054_95",
@@ -5337,7 +5337,7 @@
         "fecha": "17/02/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220426230507_100",
@@ -5397,7 +5397,7 @@
         "fecha": "26/04/2022",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220426230507_101",
@@ -5457,7 +5457,7 @@
         "fecha": "26/04/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220511225902_102",
@@ -5517,7 +5517,7 @@
         "fecha": "11/05/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220511225902_103",
@@ -5577,7 +5577,7 @@
         "fecha": "11/05/2022",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Cataluña, Lloret de Mar, Barcelona"
     },
     {
         "ID_noticia": "ESP_20220511225902_98",
@@ -5637,7 +5637,7 @@
         "fecha": "11/05/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220517233859_104",
@@ -5697,7 +5697,7 @@
         "fecha": "17/05/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220517233859_105",
@@ -5757,7 +5757,7 @@
         "fecha": "17/05/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220517233859_106",
@@ -5817,7 +5817,7 @@
         "fecha": "17/05/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220517233859_107",
@@ -5877,7 +5877,7 @@
         "fecha": "17/05/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220517233859_14",
@@ -5937,7 +5937,7 @@
         "fecha": "17/05/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220517233859_85",
@@ -5997,7 +5997,7 @@
         "fecha": "17/05/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220729235239_109",
@@ -6057,7 +6057,7 @@
         "fecha": "29/07/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220729235239_110",
@@ -6117,7 +6117,7 @@
         "fecha": "29/07/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220904234739_111",
@@ -6177,7 +6177,7 @@
         "fecha": "04/09/2022",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220904234739_112",
@@ -6237,7 +6237,7 @@
         "fecha": "04/09/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Andalucía, Málaga, Almería"
     },
     {
         "ID_noticia": "ESP_20220904234739_113",
@@ -6297,7 +6297,7 @@
         "fecha": "04/09/2022",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Andalucía, Sevilla, Almería"
     },
     {
         "ID_noticia": "ESP_20220904234739_114",
@@ -6357,7 +6357,7 @@
         "fecha": "04/09/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220904234739_116",
@@ -6417,7 +6417,7 @@
         "fecha": "04/09/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220917234605_119",
@@ -6477,7 +6477,7 @@
         "fecha": "17/09/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220917234605_120",
@@ -6537,7 +6537,7 @@
         "fecha": "17/09/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220917234605_121",
@@ -6597,7 +6597,7 @@
         "fecha": "17/09/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220917234605_122",
@@ -6657,7 +6657,7 @@
         "fecha": "17/09/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220917234605_124",
@@ -6717,7 +6717,7 @@
         "fecha": "17/09/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20220917234605_125",
@@ -6777,7 +6777,7 @@
         "fecha": "17/09/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221016233247_117",
@@ -6837,7 +6837,7 @@
         "fecha": "16/10/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221016233247_118",
@@ -6897,7 +6897,7 @@
         "fecha": "16/10/2022",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221106234705_127",
@@ -6957,7 +6957,7 @@
         "fecha": "06/11/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221106234705_129",
@@ -7017,7 +7017,7 @@
         "fecha": "06/11/2022",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221115234618_130",
@@ -7077,7 +7077,7 @@
         "fecha": "15/11/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221115234618_131",
@@ -7137,7 +7137,7 @@
         "fecha": "15/11/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221115234618_132",
@@ -7197,7 +7197,7 @@
         "fecha": "15/11/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221115234618_133",
@@ -7257,7 +7257,7 @@
         "fecha": "15/11/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221115234618_134",
@@ -7317,7 +7317,7 @@
         "fecha": "15/11/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221127235432_142",
@@ -7377,7 +7377,7 @@
         "fecha": "27/11/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221127235432_143",
@@ -7437,7 +7437,7 @@
         "fecha": "27/11/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221128235316_141",
@@ -7497,7 +7497,7 @@
         "fecha": "28/11/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221130235620_139",
@@ -7557,7 +7557,7 @@
         "fecha": "30/11/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221130235620_140",
@@ -7617,7 +7617,7 @@
         "fecha": "30/11/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221201234718_136",
@@ -7677,7 +7677,7 @@
         "fecha": "01/12/2022",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
     },
     {
         "ID_noticia": "ESP_20221201234718_138",
@@ -7737,7 +7737,7 @@
         "fecha": "01/12/2022",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221204235539_135",
@@ -7797,7 +7797,7 @@
         "fecha": "04/12/2022",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221204235539_144",
@@ -7857,7 +7857,7 @@
         "fecha": "04/12/2022",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221215233202_145",
@@ -7917,7 +7917,7 @@
         "fecha": "15/12/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221215233202_146",
@@ -7977,7 +7977,7 @@
         "fecha": "15/12/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Castilla-La Mancha, Guadalajara, Albacete"
     },
     {
         "ID_noticia": "ESP_20221215233202_147",
@@ -8037,7 +8037,7 @@
         "fecha": "15/12/2022",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Cataluña, sin especificar municipio, Barcelona"
     },
     {
         "ID_noticia": "ESP_20221215233202_148",
@@ -8097,7 +8097,7 @@
         "fecha": "15/12/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221215233202_149",
@@ -8157,7 +8157,7 @@
         "fecha": "15/12/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221225234654_150",
@@ -8217,7 +8217,7 @@
         "fecha": "25/12/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221225234654_151",
@@ -8277,7 +8277,7 @@
         "fecha": "25/12/2022",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20221225234654_152",
@@ -8337,7 +8337,7 @@
         "fecha": "25/12/2022",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230105234607_156",
@@ -8397,7 +8397,7 @@
         "fecha": "05/01/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230108234616_153",
@@ -8457,7 +8457,7 @@
         "fecha": "08/01/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230108234616_155",
@@ -8517,7 +8517,7 @@
         "fecha": "08/01/2023",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230108234616_157",
@@ -8577,7 +8577,7 @@
         "fecha": "08/01/2023",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230117234620_158",
@@ -8637,7 +8637,7 @@
         "fecha": "17/01/2023",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230117234620_159",
@@ -8697,7 +8697,7 @@
         "fecha": "17/01/2023",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230117234620_160",
@@ -8757,7 +8757,7 @@
         "fecha": "17/01/2023",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230117234620_161",
@@ -8817,7 +8817,7 @@
         "fecha": "17/01/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230117234620_163",
@@ -8877,7 +8877,7 @@
         "fecha": "17/01/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230211222833_164",
@@ -8937,7 +8937,7 @@
         "fecha": "11/02/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230211222833_165",
@@ -8997,7 +8997,7 @@
         "fecha": "11/02/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230211222833_166",
@@ -9057,7 +9057,7 @@
         "fecha": "11/02/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230211222833_167",
@@ -9117,7 +9117,7 @@
         "fecha": "11/02/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Castilla y León, Valladolid, Ávila"
     },
     {
         "ID_noticia": "ESP_20230211222833_168",
@@ -9177,7 +9177,7 @@
         "fecha": "11/02/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230301234918_171",
@@ -9237,7 +9237,7 @@
         "fecha": "01/03/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230301234918_172",
@@ -9297,7 +9297,7 @@
         "fecha": "01/03/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230301234918_173",
@@ -9357,7 +9357,7 @@
         "fecha": "01/03/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230307235019_169",
@@ -9417,7 +9417,7 @@
         "fecha": "07/03/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230307235019_170",
@@ -9477,7 +9477,7 @@
         "fecha": "07/03/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230307235019_174",
@@ -9537,7 +9537,7 @@
         "fecha": "07/03/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230307235019_175",
@@ -9597,7 +9597,7 @@
         "fecha": "07/03/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230307235019_176",
@@ -9657,7 +9657,7 @@
         "fecha": "07/03/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230307235019_177",
@@ -9717,7 +9717,7 @@
         "fecha": "07/03/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230424234600_178",
@@ -9777,7 +9777,7 @@
         "fecha": "24/04/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230424234600_179",
@@ -9837,7 +9837,7 @@
         "fecha": "24/04/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230424234600_180",
@@ -9897,7 +9897,7 @@
         "fecha": "24/04/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230424234600_181",
@@ -9957,7 +9957,7 @@
         "fecha": "24/04/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230424234600_97",
@@ -10017,7 +10017,7 @@
         "fecha": "24/04/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230609234728_187",
@@ -10077,7 +10077,7 @@
         "fecha": "09/06/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230609234728_188",
@@ -10137,7 +10137,7 @@
         "fecha": "09/06/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230627235456_182",
@@ -10197,7 +10197,7 @@
         "fecha": "27/06/2023",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230627235456_183",
@@ -10257,7 +10257,7 @@
         "fecha": "27/06/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230627235456_184",
@@ -10317,7 +10317,7 @@
         "fecha": "27/06/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230627235456_185",
@@ -10377,7 +10377,7 @@
         "fecha": "27/06/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230627235456_186",
@@ -10437,7 +10437,7 @@
         "fecha": "27/06/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230627235456_189",
@@ -10497,7 +10497,7 @@
         "fecha": "27/06/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Cataluña, Badalona, Barcelona"
     },
     {
         "ID_noticia": "ESP_20230627235456_190",
@@ -10557,7 +10557,7 @@
         "fecha": "27/06/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230814235409_191",
@@ -10617,7 +10617,7 @@
         "fecha": "14/08/2023",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230814235409_192",
@@ -10677,7 +10677,7 @@
         "fecha": "14/08/2023",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Cataluña, Barcelona, Barcelona"
     },
     {
         "ID_noticia": "ESP_20230814235409_193",
@@ -10737,7 +10737,7 @@
         "fecha": "14/08/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230814235409_194",
@@ -10797,7 +10797,7 @@
         "fecha": "14/08/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230814235409_195",
@@ -10857,7 +10857,7 @@
         "fecha": "14/08/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230814235409_196",
@@ -10917,7 +10917,7 @@
         "fecha": "14/08/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230827235333_200",
@@ -10977,7 +10977,7 @@
         "fecha": "27/08/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230827235333_201",
@@ -11037,7 +11037,7 @@
         "fecha": "27/08/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230903232152_197",
@@ -11097,7 +11097,7 @@
         "fecha": "03/09/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230903232152_198",
@@ -11157,7 +11157,7 @@
         "fecha": "03/09/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Cataluña, sin especificar municipio, Barcelona"
     },
     {
         "ID_noticia": "ESP_20230903232152_199",
@@ -11217,7 +11217,7 @@
         "fecha": "03/09/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230903232152_202",
@@ -11277,7 +11277,7 @@
         "fecha": "03/09/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230903232152_203",
@@ -11337,7 +11337,7 @@
         "fecha": "03/09/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230903232152_204",
@@ -11397,7 +11397,7 @@
         "fecha": "03/09/2023",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230903232152_205",
@@ -11457,7 +11457,7 @@
         "fecha": "03/09/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20230903232152_96",
@@ -11517,7 +11517,7 @@
         "fecha": "03/09/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231013235921_206",
@@ -11577,7 +11577,7 @@
         "fecha": "13/10/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231013235921_207",
@@ -11637,7 +11637,7 @@
         "fecha": "13/10/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231013235921_208",
@@ -11697,7 +11697,7 @@
         "fecha": "13/10/2023",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231013235921_99",
@@ -11757,7 +11757,7 @@
         "fecha": "13/10/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231025235023_209",
@@ -11817,7 +11817,7 @@
         "fecha": "25/10/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231025235023_210",
@@ -11877,7 +11877,7 @@
         "fecha": "25/10/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231025235023_211",
@@ -11937,7 +11937,7 @@
         "fecha": "25/10/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231025235023_212",
@@ -11997,7 +11997,7 @@
         "fecha": "25/10/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231025235023_213",
@@ -12057,7 +12057,7 @@
         "fecha": "25/10/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231130233607_216",
@@ -12117,7 +12117,7 @@
         "fecha": "30/11/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231209234643_214",
@@ -12177,7 +12177,7 @@
         "fecha": "09/12/2023",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231209234643_215",
@@ -12237,7 +12237,7 @@
         "fecha": "09/12/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231209234643_217",
@@ -12297,7 +12297,7 @@
         "fecha": "09/12/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231209234643_218",
@@ -12357,7 +12357,7 @@
         "fecha": "09/12/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231209234643_219",
@@ -12417,7 +12417,7 @@
         "fecha": "09/12/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231223234632_225",
@@ -12477,7 +12477,7 @@
         "fecha": "23/12/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231229234425_220",
@@ -12537,7 +12537,7 @@
         "fecha": "29/12/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231229234425_221",
@@ -12597,7 +12597,7 @@
         "fecha": "29/12/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231229234425_222",
@@ -12657,7 +12657,7 @@
         "fecha": "29/12/2023",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20231229234425_224",
@@ -12717,7 +12717,7 @@
         "fecha": "29/12/2023",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240109235503_226",
@@ -12777,7 +12777,7 @@
         "fecha": "09/01/2024",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Cataluña, sin especificar municipio, Barcelona"
     },
     {
         "ID_noticia": "ESP_20240229235111_223",
@@ -12837,7 +12837,7 @@
         "fecha": "29/02/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240229235111_227",
@@ -12897,7 +12897,7 @@
         "fecha": "29/02/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240229235111_228",
@@ -12957,7 +12957,7 @@
         "fecha": "29/02/2024",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240229235111_229",
@@ -13017,7 +13017,7 @@
         "fecha": "29/02/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240428235021_230",
@@ -13077,7 +13077,7 @@
         "fecha": "28/04/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240428235021_231",
@@ -13137,7 +13137,7 @@
         "fecha": "28/04/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240428235021_232",
@@ -13197,7 +13197,7 @@
         "fecha": "28/04/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240428235021_233",
@@ -13257,7 +13257,7 @@
         "fecha": "28/04/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Andalucía, Málaga, Almería"
     },
     {
         "ID_noticia": "ESP_20240428235021_234",
@@ -13317,7 +13317,7 @@
         "fecha": "28/04/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240428235021_235",
@@ -13377,7 +13377,7 @@
         "fecha": "28/04/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240428235021_236",
@@ -13437,7 +13437,7 @@
         "fecha": "28/04/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240428235021_237",
@@ -13497,7 +13497,7 @@
         "fecha": "28/04/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240428235021_238",
@@ -13557,7 +13557,7 @@
         "fecha": "28/04/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240606233733_115",
@@ -13617,7 +13617,7 @@
         "fecha": "06/06/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240606233733_239",
@@ -13677,7 +13677,7 @@
         "fecha": "06/06/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240606233733_240",
@@ -13737,7 +13737,7 @@
         "fecha": "06/06/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240720234312_241",
@@ -13797,7 +13797,7 @@
         "fecha": "20/07/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240720234312_242",
@@ -13857,7 +13857,7 @@
         "fecha": "20/07/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240720234312_243",
@@ -13917,7 +13917,7 @@
         "fecha": "20/07/2024",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240720234312_244",
@@ -13977,7 +13977,7 @@
         "fecha": "20/07/2024",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240720234312_245",
@@ -14037,7 +14037,7 @@
         "fecha": "20/07/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240720234312_246",
@@ -14097,7 +14097,7 @@
         "fecha": "20/07/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240720234312_247",
@@ -14157,7 +14157,7 @@
         "fecha": "20/07/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240720234312_248",
@@ -14217,7 +14217,7 @@
         "fecha": "20/07/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240720234312_249",
@@ -14277,7 +14277,7 @@
         "fecha": "20/07/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240720234312_250",
@@ -14337,7 +14337,7 @@
         "fecha": "20/07/2024",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240720234312_251",
@@ -14397,7 +14397,7 @@
         "fecha": "20/07/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240818235930_108",
@@ -14457,7 +14457,7 @@
         "fecha": "18/08/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240818235930_253",
@@ -14517,7 +14517,7 @@
         "fecha": "18/08/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240818235930_254",
@@ -14577,7 +14577,7 @@
         "fecha": "18/08/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Extremadura, Medellín, Badajoz"
     },
     {
         "ID_noticia": "ESP_20240818235930_255",
@@ -14637,7 +14637,7 @@
         "fecha": "18/08/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240818235930_256",
@@ -14697,7 +14697,7 @@
         "fecha": "18/08/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240818235930_257",
@@ -14757,7 +14757,7 @@
         "fecha": "18/08/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240818235930_60",
@@ -14817,7 +14817,7 @@
         "fecha": "18/08/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240912235731_252",
@@ -14877,7 +14877,7 @@
         "fecha": "12/09/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240912235731_261",
@@ -14937,7 +14937,7 @@
         "fecha": "12/09/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240912235731_262",
@@ -14997,7 +14997,7 @@
         "fecha": "12/09/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Castilla y León, Ávila, Ávila"
     },
     {
         "ID_noticia": "ESP_20240912235731_263",
@@ -15057,7 +15057,7 @@
         "fecha": "12/09/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240918234745_258",
@@ -15117,7 +15117,7 @@
         "fecha": "18/09/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240918234745_259",
@@ -15177,7 +15177,7 @@
         "fecha": "18/09/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240918234745_260",
@@ -15237,7 +15237,7 @@
         "fecha": "18/09/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240920234630_264",
@@ -15297,7 +15297,7 @@
         "fecha": "20/09/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Castilla-La Mancha, Montiel, Albacete"
     },
     {
         "ID_noticia": "ESP_20240920234630_265",
@@ -15357,7 +15357,7 @@
         "fecha": "20/09/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240920234630_266",
@@ -15417,7 +15417,7 @@
         "fecha": "20/09/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240920234630_267",
@@ -15477,7 +15477,7 @@
         "fecha": "20/09/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240920234630_268",
@@ -15537,7 +15537,7 @@
         "fecha": "20/09/2024",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240920234630_269",
@@ -15597,7 +15597,7 @@
         "fecha": "20/09/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20240920234630_270",
@@ -15657,7 +15657,7 @@
         "fecha": "20/09/2024",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Galicia, sin especificar municipio, A Coruña"
     },
     {
         "ID_noticia": "ESP_20240920234630_47",
@@ -15717,7 +15717,7 @@
         "fecha": "20/09/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241009234614_271",
@@ -15777,7 +15777,7 @@
         "fecha": "09/10/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241009234614_272",
@@ -15837,7 +15837,7 @@
         "fecha": "09/10/2024",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Galicia, sin especificar municipio, A Coruña"
     },
     {
         "ID_noticia": "ESP_20241009234614_273",
@@ -15897,7 +15897,7 @@
         "fecha": "09/10/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241009234614_274",
@@ -15957,7 +15957,7 @@
         "fecha": "09/10/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241009234614_275",
@@ -16017,7 +16017,7 @@
         "fecha": "09/10/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241106235034_276",
@@ -16077,7 +16077,7 @@
         "fecha": "06/11/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241106235034_277",
@@ -16137,7 +16137,7 @@
         "fecha": "06/11/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241106235034_278",
@@ -16197,7 +16197,7 @@
         "fecha": "06/11/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Cataluña, Barcelona, Barcelona"
     },
     {
         "ID_noticia": "ESP_20241106235034_279",
@@ -16257,7 +16257,7 @@
         "fecha": "06/11/2024",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241106235034_280",
@@ -16317,7 +16317,7 @@
         "fecha": "06/11/2024",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241106235034_281",
@@ -16377,7 +16377,7 @@
         "fecha": "06/11/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241128204622_123",
@@ -16437,7 +16437,7 @@
         "fecha": "28/11/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Pais Vasco, Pasaia, Álava"
     },
     {
         "ID_noticia": "ESP_20241128204622_287",
@@ -16497,7 +16497,7 @@
         "fecha": "28/11/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241128204622_288",
@@ -16557,7 +16557,7 @@
         "fecha": "28/11/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241128204622_289",
@@ -16617,7 +16617,7 @@
         "fecha": "28/11/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241128204622_290",
@@ -16677,7 +16677,7 @@
         "fecha": "28/11/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241128204622_291",
@@ -16737,7 +16737,7 @@
         "fecha": "28/11/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241128204622_292",
@@ -16797,7 +16797,7 @@
         "fecha": "28/11/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241128204622_293",
@@ -16857,7 +16857,7 @@
         "fecha": "28/11/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241214235651_137",
@@ -16917,7 +16917,7 @@
         "fecha": "14/12/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241214235651_282",
@@ -16977,7 +16977,7 @@
         "fecha": "14/12/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241214235651_283",
@@ -17037,7 +17037,7 @@
         "fecha": "14/12/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
     },
     {
         "ID_noticia": "ESP_20241214235651_284",
@@ -17097,7 +17097,7 @@
         "fecha": "14/12/2024",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241214235651_285",
@@ -17157,7 +17157,7 @@
         "fecha": "14/12/2024",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241214235651_286",
@@ -17217,7 +17217,7 @@
         "fecha": "14/12/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241214235651_296",
@@ -17277,7 +17277,7 @@
         "fecha": "14/12/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241214235651_297",
@@ -17337,7 +17337,7 @@
         "fecha": "14/12/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241214235651_298",
@@ -17397,7 +17397,7 @@
         "fecha": "14/12/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241218235146_162",
@@ -17457,7 +17457,7 @@
         "fecha": "18/12/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20241218235146_295",
@@ -17517,7 +17517,7 @@
         "fecha": "18/12/2024",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250104234849_294",
@@ -17577,7 +17577,7 @@
         "fecha": "04/01/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250104234849_304",
@@ -17637,7 +17637,7 @@
         "fecha": "04/01/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250104234849_305",
@@ -17697,7 +17697,7 @@
         "fecha": "04/01/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Galicia, Lugo, A Coruña"
     },
     {
         "ID_noticia": "ESP_20250104234849_306",
@@ -17757,7 +17757,7 @@
         "fecha": "04/01/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250113235740_301",
@@ -17817,7 +17817,7 @@
         "fecha": "13/01/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250113235740_302",
@@ -17877,7 +17877,7 @@
         "fecha": "13/01/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250113235740_303",
@@ -17937,7 +17937,7 @@
         "fecha": "13/01/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250120235009_299",
@@ -17997,7 +17997,7 @@
         "fecha": "20/01/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250120235009_300",
@@ -18057,7 +18057,7 @@
         "fecha": "20/01/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250120235009_307",
@@ -18117,7 +18117,7 @@
         "fecha": "20/01/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250120235009_308",
@@ -18177,7 +18177,7 @@
         "fecha": "20/01/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250123235504_309",
@@ -18237,7 +18237,7 @@
         "fecha": "23/01/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250123235504_310",
@@ -18297,7 +18297,7 @@
         "fecha": "23/01/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250123235504_311",
@@ -18357,7 +18357,7 @@
         "fecha": "23/01/2025",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250207204958_312",
@@ -18417,7 +18417,7 @@
         "fecha": "07/02/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250207204958_313",
@@ -18477,7 +18477,7 @@
         "fecha": "07/02/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250207204958_314",
@@ -18537,7 +18537,7 @@
         "fecha": "07/02/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250207204958_315",
@@ -18597,7 +18597,7 @@
         "fecha": "07/02/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250216235320_316",
@@ -18657,7 +18657,7 @@
         "fecha": "16/02/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250216235320_317",
@@ -18717,7 +18717,7 @@
         "fecha": "16/02/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250216235320_318",
@@ -18777,7 +18777,7 @@
         "fecha": "16/02/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250216235320_319",
@@ -18837,7 +18837,7 @@
         "fecha": "16/02/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250308233446_320",
@@ -18897,7 +18897,7 @@
         "fecha": "08/03/2025",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250308233446_321",
@@ -18957,7 +18957,7 @@
         "fecha": "08/03/2025",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250308233446_322",
@@ -19017,7 +19017,7 @@
         "fecha": "08/03/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250308233446_323",
@@ -19077,7 +19077,7 @@
         "fecha": "08/03/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250308233446_324",
@@ -19137,7 +19137,7 @@
         "fecha": "08/03/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250321233612_128",
@@ -19197,7 +19197,7 @@
         "fecha": "21/03/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250321233612_325",
@@ -19257,7 +19257,7 @@
         "fecha": "21/03/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250321233612_326",
@@ -19317,7 +19317,7 @@
         "fecha": "21/03/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250321233612_327",
@@ -19377,7 +19377,7 @@
         "fecha": "21/03/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250321233612_328",
@@ -19437,7 +19437,7 @@
         "fecha": "21/03/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250321233612_329",
@@ -19497,7 +19497,7 @@
         "fecha": "21/03/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250321233612_330",
@@ -19557,7 +19557,7 @@
         "fecha": "21/03/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Andalucía, Jaén, Almería"
     },
     {
         "ID_noticia": "ESP_20250321233612_331",
@@ -19617,7 +19617,7 @@
         "fecha": "21/03/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250321233612_88",
@@ -19677,7 +19677,7 @@
         "fecha": "21/03/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250402235015_126",
@@ -19737,7 +19737,7 @@
         "fecha": "02/04/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Murcia, Murcia, Murcia"
     },
     {
         "ID_noticia": "ESP_20250402235015_154",
@@ -19797,7 +19797,7 @@
         "fecha": "02/04/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250402235015_332",
@@ -19857,7 +19857,7 @@
         "fecha": "02/04/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Murcia, Murcia, Murcia"
     },
     {
         "ID_noticia": "ESP_20250402235015_333",
@@ -19917,7 +19917,7 @@
         "fecha": "02/04/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250402235015_334",
@@ -19977,7 +19977,7 @@
         "fecha": "02/04/2025",
         "diario": "ElPaís",
         "país": "España",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250402235015_335",
@@ -20037,7 +20037,7 @@
         "fecha": "02/04/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Andalucía, Granada, Almería"
     },
     {
         "ID_noticia": "ESP_20250402235015_336",
@@ -20097,7 +20097,7 @@
         "fecha": "02/04/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250402235015_337",
@@ -20157,7 +20157,7 @@
         "fecha": "02/04/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250402235015_338",
@@ -20217,7 +20217,7 @@
         "fecha": "02/04/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250402235015_45",
@@ -20277,7 +20277,7 @@
         "fecha": "02/04/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "sin especificar comunidad, sin especificar municipio, sin especificar provincia"
     },
     {
         "ID_noticia": "ESP_20250402235015_7",
@@ -20337,6 +20337,6 @@
         "fecha": "02/04/2025",
         "diario": "ElPaís",
         "país": "Otro País",
-        "ubicacion_noticia": "Sin especificar"
+        "ubicacion_noticia": "Murcia, Murcia, Murcia"
     }
 ]
