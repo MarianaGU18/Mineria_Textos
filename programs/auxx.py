@@ -13,9 +13,9 @@ paises.add("españa")  # Agregar "España" a la lista de países
 paises.add("España")  # Agregar "España" a la lista de países
 paises.add("espana")  # Agregar "España" a la lista de países
 paises.add("Espana")  # Agregar "España" a la lista de países
-
-paises.add("spain")  # Agregar "Spain" a la lista de países 
-
+paises.add("México")  # Agregar "España" a la lista de países
+paises.add("Turquia")  # Agregar "España" a la lista de países
+'''
 # Función para detectar país desde la URL
 def detectar_pais(url):
     ext = tldextract.extract(url)
@@ -25,11 +25,7 @@ def detectar_pais(url):
 
     for pais in paises:
         if pais in dominio or pais in subdominio or pais in path:
-            print(f"{url} → País detectado: {pais.title()}")
             return pais.title()
-
-    print(f"{url} → País no encontrado")
-    return "País no encontrado"
 
 
 def obtener_una_url(archivo,carpeta_csv):
@@ -47,8 +43,14 @@ for archivo in os.listdir(carpeta_csv):
 
     url= obtener_una_url(archivo,carpeta_csv)
 
-    print(f"URL encontrada: {url}")
+    #print(f"URL encontrada: {url}")
 
-    detectar_pais(url)
+    paisuwu =  detectar_pais(url)
+
 
 #detectar_pais(url)
+
+'''
+print("Lista de países en minúsculas:")
+for pais in paises:
+    print(pais)
