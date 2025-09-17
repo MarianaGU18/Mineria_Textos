@@ -22,17 +22,19 @@ from procesamiento_utils import (
     detectar_pais,
     detectar_pais_desde_texto,
     ubicacion_espana,
-
 )
 ###############################################################################
 # Configuración de rutas y constantes
 ###############################################################################
 DATA_ESP_PATH = Path("datos_base/DATA_ESP/data_ESP.csv")
-ARTICLES_DIR = Path("articulos_x_procesar/PRUEBA_ELPAIS")
+ORIGEN = "ELMUNDO_violencia"
+#ARTICLES_DIR = Path("articulos_x_procesar/PRUEBA_ELPAIS")
+ARTICLES_DIR = Path(f"articulos_x_procesar/{ORIGEN}")
+
 TERMS_CSV_PATH = Path("datos_base/Terminos.csv")
 OUTPUT_DIR = Path("TFM")
-OUTPUT_FILE = OUTPUT_DIR / "noticias_estandarizadas_ESP.json"
-ORIGEN = "ElPaís"
+OUTPUT_FILE = OUTPUT_DIR / f"noticias_estandarizadas_ESP_{ORIGEN}.json"
+
 eventos = []
 
 def obtener_una_url(csv_file: Path) -> Optional[str]:
@@ -77,7 +79,8 @@ def main() -> None:
 
     for csv_file in ARTICLES_DIR.glob("*.csv"):
         # Estructura básica del evento
-        filename = csv_file.stem.replace("PRUEBA_ELPAIS_", "")
+        filename = csv_file.stem.replace(ORIGEN, "")
+
         evento: Dict[str, object] = {
             "ID_noticia": f"ESP_{filename}",
             "diario": ORIGEN,
@@ -141,7 +144,6 @@ def main() -> None:
 
 
 
-        print("2 evento[país]:",  evento["país"])
 
         # Ubicaciones
         evento,municipio, comunidad, provincia = ubicacion_espana(
@@ -151,14 +153,6 @@ def main() -> None:
         ubicacion = ", ".join(part for part in [comunidad, municipio, provincia] if part)
         evento["ubicacion_noticia"] = ubicacion if ubicacion else "No especificada"
 
-        
-        #print("csv_file:", csv_file)
-        #print("filename:", filename)
-        #print("url_articulo:", url_articulo)
-        print("1 evento[país]:",  evento["país"])
-        #print("[comunidad, municipio, provincia]:",  [comunidad, municipio, provincia])
-        #print("pais_url:",  pais_url)
-        print("============================")
         eventos.append(evento)
 
 
