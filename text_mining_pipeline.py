@@ -11,6 +11,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.common.exceptions import NoSuchElementException
 from tqdm import tqdm
 from datetime import datetime
+import tempfile
 
 class TextMiningPipeline:
     def __init__(self, sitio, origen, from_date, to_date, palabras_clave_path):
@@ -93,19 +94,31 @@ class TextMiningPipeline:
             next(reader)
             self.urls_articulos = {row[0]: row[1] for row in reader}
 
-        options = webdriver.ChromeOptions()
-        options.add_argument('--disable-extensions')
-        options.add_argument('--blink-settings=imagesEnabled=false')
-        options.add_argument('--headless')
+            options = webdriver.ChromeOptions()
+            options.add_argument('--disable-extensions')
+            options.add_argument('--blink-settings=imagesEnabled=false')
+            options.add_argument('--headless=new')  # usa el nuevo headless estable
+
+            # limpiar argumentos conflictivos si se meten solos
+            for arg in ["--user-data-dir", "--remote-debugging-port"]:
+                try:
+                    options.arguments.remove(arg)
+                except ValueError:
+                    pass
 
         driver_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'chromedriver.exe')
 
         count = 0
         for url, snap in tqdm(self.urls_articulos.items(), desc="Procesando artículos"):
-            full_url = f'https://web.archive.org/web/{snap}/{url}'
-  
-            driver = webdriver.Chrome(options=options, service=Service(driver_path))
+          
+            full_url = f'{url}'
+            
+            #driver = webdriver.Chrome(options=options, service=Service(driver_path))
+            # Crear un perfil único por cada ejecución del navegador
+            temp_profile = tempfile.mkdtemp()
+            options.add_argument(f'--user-data-dir={temp_profile}')
 
+            driver = webdriver.Chrome(options=options, service=Service(driver_path))
             try:
                 driver.get(full_url)
                 time.sleep(5)
@@ -114,14 +127,30 @@ class TextMiningPipeline:
                 self.articulo_errors.append(full_url)
                 continue
 
-            try:
+            '''try:
                 titulo = driver.find_element(By.TAG_NAME, 'h1').text
                 if titulo == "":
                     el_titulo = driver.find_elements(By.TAG_NAME, 'h1')
                     if len(el_titulo) > 1:
                         titulo = el_titulo[1].text
             except NoSuchElementException:
-                titulo = 'NONE'
+                titulo = 'No hay titulo'
+            '''
+            try:
+                h1_elements = driver.find_elements(By.TAG_NAME, 'h1')
+                titulo = ''
+
+                for h1 in h1_elements:
+                    texto = h1.text.strip()
+                    if texto:
+                        titulo = texto
+                        break
+
+                if not titulo:
+                    titulo = 'No hay titulo'
+
+            except Exception:
+                titulo = 'No hay titulo'
 
 
             try:
@@ -134,8 +163,6 @@ class TextMiningPipeline:
                 h3s = 'NONE'
                 subtitulo = 'NONE'
 
-
-
             try:
                 etiqueta = driver.find_elements(By.CSS_SELECTOR, ".cs_t_l, ._db, .a_k, ._df, .k, .kicker, .uppercase")
 
@@ -147,45 +174,84 @@ class TextMiningPipeline:
                 etiqueta = 'NONE'
 
             try:
-                #localizacion = driver.find_element(By.CSS_SELECTOR, '.capitalize color_black, .capitalize,.articulo-localizacion,.color_black').text
-                localizacion = driver.find_element(By.XPATH, '//span[contains(@class, "capitalize") or contains(@class, "articulo-localizacion") or contains(@class, "color_black")]').text
+                localizacion_elem = driver.find_elements(
+                    By.XPATH,
+                    '//*[contains(@class, "capitalize") '
+                    'or contains(@class, "articulo-localizacion") '
+                    'or contains(@class, "voc-author__special") '
+                    'or contains(@class, "place") '
+                    'or contains(@class, "color_black")]'
+                )
+
+                if localizacion_elem:
+                    localizacion = localizacion_elem[0].text.strip()
+                    
+                else:
+                    localizacion = "No localizado"
 
             except NoSuchElementException:
                 localizacion = 'No localizacion'
-
+            ###
             try:
-                # 1️⃣ Elementos <p> sin clase o con class=""
-                parrafos_sin_clase = driver.find_elements(
-                    By.CSS_SELECTOR,
-                    'p:not([class]), p[class=""]'
-                )
+                # Primer intento: contenedor principal
+                contenedor = driver.find_element(By.CLASS_NAME, 'article-text')
+                parrafos = contenedor.find_elements(By.TAG_NAME, 'p')
 
-                # 2️⃣ Otros posibles contenedores del cuerpo del artículo
-                contenedores_extra = driver.find_elements(
-                    By.XPATH,
-                    '//*[contains(@class, "articulo-cuerpo") or '
-                    'contains(@class, "a_b") or '
-                    'contains(@class, "article_body") or '
-                    'contains(@class, "color_gray_dark") or '
-                    'contains(@class, "a_c") or '
-                    'contains(@class, "clearfix") or '
-                    'contains(@class, "c_d")]'
-                )
+                elementos_contenido = [p.text.strip() for p in parrafos if p.text.strip()]
+                if not elementos_contenido:
+                    raise ValueError("Contenedor 'article-text' vacío")
 
-                # Combina ambas listas, eliminando duplicados
-                elementos_contenido = list(dict.fromkeys(parrafos_sin_clase + contenedores_extra))
+                articuloContenido = '\n'.join(elementos_contenido)
 
-                articuloContenido = (
-                    ' '.join(e.text.strip() for e in elementos_contenido if e.text.strip())
-                    if elementos_contenido else
-                    'No encontrado contenido'
-                )
+            except Exception as e1:
+                try:
+                    # Si falla, buscar párrafos sin clase o vacíos
+                    parrafos_sin_clase = driver.find_elements(
+                        By.CSS_SELECTOR,
+                        'p:not([class]), p[class=""]'
+                    )
 
-            except Exception as e:
-                articuloContenido = f'No encontrado artículo ({e})'
+                    # Buscar en otros posibles contenedores
+                    contenedores_extra = driver.find_elements(
+                        By.XPATH,
+                        '//*[contains(@class, "articulo-cuerpo") or '
+                        'contains(@class, "a_b") or '
+                        'contains(@class, "article_body") or '
+                        'contains(@class, "color_gray_dark") or '
+                        'contains(@class, "a_c") or '
+                        'contains(@class, "voc-p") or '
+                        'contains(@class, "r_z") or '  # <-- añadido La Razón
 
+                        'contains(@class, "font--primary") or '
+                        'contains(@class, " body-components__text") or '
+
+                        'contains(@class, "body-components__text") or '
+                        'contains(@class, "clearfix") or '
+                        'contains(@class, "font--primary body-components__text") or '
+                        'contains(@class, " article__body-container") or '
+           
+                        'contains(@class, "c_d")]'
+                    )
+
+                    # Combinar ambas listas y eliminar duplicados
+                    elementos_extra = list(dict.fromkeys(parrafos_sin_clase + contenedores_extra))
+
+                    texto_extra = [el.text.strip() for el in elementos_extra if el.text.strip()]
+
+                    if texto_extra:
+                        articuloContenido = '\n'.join(texto_extra)
+                    else:
+                        articuloContenido = 'No hay contenido'
+
+                except Exception as e2:
+                    articuloContenido = f'No encontrado artículo ({e2})'
+
+            
+ 
+    
 
             articulo = [titulo, subtitulo, etiqueta, localizacion, articuloContenido]
+            #print(articulo)
             df = pd.DataFrame({full_url: articulo})
             df.to_csv(f'articulos_x_procesar/{self.origen}/{self.origen}_{snap}_{count}.csv', index=False)
             count += 1

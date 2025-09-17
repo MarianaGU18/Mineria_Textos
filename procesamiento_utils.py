@@ -155,8 +155,7 @@ def ubicacion_espana(doc, municipios, comunidades, df_depmun, evento):
 
 
 def detectar_pais_desde_texto(doc, paises: set[str]) -> Optional[str]:
-    #lineas = doc.text.splitlines()[:6]
-    #doc_corto = nlp("\n".join(lineas))
+
     for ent in doc.ents:
         if ent.label_ == "LOC":
             texto = ent.text.lower()
