@@ -50,8 +50,14 @@ Proyecto de minería de textos, centrado en el análisis de artículos sobre vio
 Usa test_text_mining.py para probar la tubería con un solo día o rango reducido.
 
 ## 🗃️ Dependencias
-
-requests, lxml, pandas, selenium, spacy, pycountry, tldextract
+requests
+lxml
+pandas
+selenium
+spacy
+pycountry
+tldextract
+tqdm
 Modelo de SpaCy: es_core_news_lg
 
 > [!IMPORTANT]
