@@ -61,11 +61,11 @@ pipeline = TextMiningPipeline(
 
 #   Obtener snapshots históricos del sitio en el rango de fechas indicado
 #       Consulta versiones archivadas del sitio
-pipeline.obtener_snapshots()
+#pipeline.obtener_snapshots()
 
 #   Filtrar las URLs encontras
 #       Se eliminana enlaces irrelevantes y se conservan solo los articulo con potencial
-pipeline.filtrar_urls_relevantes()
+#pipeline.filtrar_urls_relevantes()
 
 #   Procesar los articulos finales
 #       Se descarga el contenido, se limpia el texto y se aplican los filtros.

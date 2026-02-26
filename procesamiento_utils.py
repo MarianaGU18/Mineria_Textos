@@ -1,20 +1,37 @@
+"""
+==================================================================
+    MÓDULO DE EXTRACCIÓN DE FECHAS Y UBICACIONES
+==================================================================
+    Este archivo contiene las funciones necesarias para:
+     - Detectar fechas dentro del texto de una noticia.
+     - Convertir a un formato estándar (dd/mm/yyyy).
+     - Detectar ubicaciones (municipios, comunidades, provincia).
+     - Cargar palabras clave desde un CSV.
+"""
 import csv
 import re
+import unicodedata
 from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Optional
-import unicodedata
+
 import pandas as pd
 import pycountry
 import spacy
 import tldextract
 
-# spaCy para detección país desde texto
-nlp = spacy.load("es_core_news_lg")
+# Carga modelo de lenguaje en español, se debe instalar previamente
+try:
+    nlp = spacy.load("es_core_news_lg")
+except OSError:
+    raise RuntimeError(
+        "Modelo 'es_core_news_lg' no encontrado. Por favor, instálalo con: "
+        "python -m spacy download es_core_news_lg"
+    )
 
-###############################################################################
-# Expresiones regulares de fechas
-###############################################################################
+# ==================================================================
+#   EXPRESIONES REGULARES PARA DETECCIÓN DE FECHAS
+# ==================================================================
 
 REGEX_TEXTO = r"\b\d{1,2}\sde\s(?:enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre|ene|feb|mar|abr|may|jun|jul|ago|sep|oct|nov|dic)\s(?:de|del)\s\d{4}\b"
 
@@ -34,33 +51,57 @@ MESES = {
     "noviembre": 11, "nov": 11, "diciembre": 12, "dic": 12,
 }
 
+# ==================================================================
+#   FUNCIONES AUXILIARES
+# ==================================================================
+
 def normalizar(texto: str) -> str:
+    """
+        Elimina acentos y convierte el texto a minúsculas, se 
+        usa para comparar nombres sin errores por tilde.
+    """
     # Elimina acentos y normaliza espacios
     texto = unicodedata.normalize('NFD', texto)
     texto = ''.join(c for c in texto if unicodedata.category(c) != 'Mn')
     return texto.lower().strip()
 
+# ==================================================================
+#  FECHAS
+# ==================================================================
 def convertir_a_fecha(fecha_str: str) -> Optional[str]:
+    """
+        Detecta una fecha dentro de un texto y la convierte al formato estándar
+    """
     fecha_str = fecha_str.strip()
+
     for regex in REGEX_FECHAS:
         m = re.search(regex, fecha_str, flags=re.IGNORECASE)
         if not m:
             continue
+
         token = m.group()
+
         try:
+            # Formato textual: 12 de marzo de 2023
             if regex == REGEX_TEXTO:
                 dia = int(re.search(r"\d{1,2}", token).group())
                 mes_txt = re.search(r"[a-záéíóúñ]+", token, flags=re.IGNORECASE).group().lower()
                 anio = int(re.search(r"\d{4}", token).group())
                 mes = MESES[mes_txt]
+
+            # Formato mes antes: marzo 12, 2023 
             elif regex == REGEX_MES_ANTES:
                 mes_txt = re.search(r"[a-záéíóúñ]+", token, flags=re.IGNORECASE).group().lower()
                 dia = int(re.search(r"\d{1,2}", token).group())
                 anio = int(re.search(r"\d{4}", token).group())
                 mes = MESES[mes_txt]
+
+            #  Formato numérico
             else:
                 partes = list(map(int, re.split(r"[-/]", token)))
                 candidatos = []
+
+                # Probamos disntitos órdenes posibles
                 for orden in [(0, 1, 2), (2, 1, 0), (1, 0, 2)]:
                     try:
                         d, m, y = partes[orden[0]], partes[orden[1]], partes[orden[2]]
@@ -69,10 +110,13 @@ def convertir_a_fecha(fecha_str: str) -> Optional[str]:
                         candidatos.append(datetime(y, m, d))
                     except ValueError:
                         continue
+
+
                 if candidatos:
                     fecha_obj = sorted(candidatos)[0]
                     return fecha_obj.strftime("%d/%m/%Y")
                 return None
+
             if anio < 100:
                 anio += 2000
             fecha_obj = datetime(anio, mes, dia)
@@ -82,18 +126,40 @@ def convertir_a_fecha(fecha_str: str) -> Optional[str]:
     return None
 
 def fechas_evento(fecha_archivo, evento, texto_lower):
+
+    """
+        Busca todas las fechas dentro del texto, devuelve la más
+        antigua encontrada, si no encuentra ninguna, 
+        usa la fecha del archivo.
+    """
     fechas_detectadas: List[str] = []
+
     for reg in REGEX_FECHAS:
         fechas_detectadas.extend(re.findall(reg, texto_lower))
+
     fechas_detectadas = list(set(fechas_detectadas))
-    fechas_convertidas = [f for f in (convertir_a_fecha(f) for f in fechas_detectadas) if f]
+
+    fechas_convertidas = [
+        f for f in (convertir_a_fecha(f) for f in fechas_detectadas) if f
+    ]
+
     if fechas_convertidas:
-        fecha_evento = min(fechas_convertidas, key=lambda f: datetime.strptime(f, "%d/%m/%Y"))
+        fecha_evento = min(
+            fechas_convertidas, 
+            key=lambda f: datetime.strptime(f, "%d/%m/%Y")
+        )
     else:
         fecha_evento = fecha_archivo
     return fecha_evento
 
+# ==============================================================
+#  PALABRAS CLAVE
+# ==============================================================
 def obtener_palabras_clave(path: Path) -> Dict[str, str]:
+    """
+        Lee un CSV con palabra clave y devuelve un diccionario
+        listo para usar en regex.
+    """
     with path.open("r", encoding="utf-8") as f:
         reader = csv.reader(f)
         terms: List[str] = []
@@ -101,6 +167,10 @@ def obtener_palabras_clave(path: Path) -> Dict[str, str]:
             terms.extend(rows[0].split(","))
     return {t.strip().lower(): re.escape(t.strip().lower()) for t in terms if t.strip()}
 
+
+# ==============================================================
+#  FUNCIONES DE LOCALIZACIÓN - ESPAÑA
+# ==============================================================
 def verificar_localizacion(localizacion: str, municipios: set[str], comunidades: set[str]) -> str:
     loc = localizacion.lower().strip()
 
@@ -111,6 +181,10 @@ def verificar_localizacion(localizacion: str, municipios: set[str], comunidades:
     return "NO_ENCONTRADO"
 
 def obtener_comunidad(municipio: str, df_depmun: pd.DataFrame) -> str:
+    """
+        Obtiene la comunidad autónoma a partir de un municipio.
+        Si no se encuentra coincidencia, devuelve "Sin especificar comunidad".
+    """
     municipio = normalizar(municipio)
     df = df_depmun.copy()
     df["MUNICIPIO_NORM"] = df["MUNICIPIO"].astype(str).apply(normalizar)
@@ -118,6 +192,10 @@ def obtener_comunidad(municipio: str, df_depmun: pd.DataFrame) -> str:
     return fila.iloc[0]["COMUNIDAD"] if not fila.empty else "Sin especificar comunidad"
 
 def obtener_provincia(comunidad: str, df_depmun: pd.DataFrame) -> str:
+    """
+        Obtiene la provincia a partir de una comunidad autónoma.
+        Si no se encuentra coincidencia, devuelve "Sin especificar provincia".
+    """
     comunidad = normalizar(comunidad)
     df = df_depmun.copy()
     df["COMUNIDAD_NORM"] = df["COMUNIDAD"].astype(str).apply(normalizar)
@@ -126,6 +204,9 @@ def obtener_provincia(comunidad: str, df_depmun: pd.DataFrame) -> str:
 
 
 def ubicacion_espana(doc, municipios, comunidades, df_depmun, evento):
+    """
+        Detecta ubicación española usando entidades de spaCy.
+    """   
     municipio = ""
     comunidad = ""
     provincia = ""
@@ -153,9 +234,13 @@ def ubicacion_espana(doc, municipios, comunidades, df_depmun, evento):
     return evento, comunidad, provincia, municipio
 
 
-
+# ==============================================================
+#  DETECCIÓN DE PAÍS INTERNACIONAL
+# ==============================================================
 def detectar_pais_desde_texto(doc, paises: set[str]) -> Optional[str]:
-
+    """
+        Detecta el país mencionado dentro del textoo de la noticia.
+    """
     for ent in doc.ents:
         if ent.label_ == "LOC":
             texto = ent.text.lower()
@@ -167,6 +252,11 @@ def detectar_pais_desde_texto(doc, paises: set[str]) -> Optional[str]:
     return None
 
 def detectar_pais(url: str, paises: set[str]) -> Optional[str]:
+    """
+        Detecta el país a partir de la URL de la noticia.
+        Esta función es útil cuando el texto no menciona claramente
+        el país, pero la URL sí contiene información geográfica.
+    """
     if not url:
         return None
     ext = tldextract.extract(url)

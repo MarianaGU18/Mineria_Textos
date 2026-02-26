@@ -49,7 +49,7 @@ OUTPUT_DIR = Path("TFM")
 OUTPUT_FILE = OUTPUT_DIR / f"noticias_estandarizadas_ESP_{ORIGEN}.json"
 
 # Lista donde se almacenarán todos los eventos procesados
-eventos = []
+
 
 ###############################################################################
 # FUNCIONES AUXILIARES
@@ -82,6 +82,7 @@ def main() -> None:
                 - Ubicación
             - Guardar todo en un JSON final.
     """
+    eventos = []
     # ---------------------------------------
     # 1. VALIDACIONES BÁSICAS
     # ---------------------------------------
@@ -114,7 +115,7 @@ def main() -> None:
     # ---------------------------------------
     # 4. LISTA DE PAÍSES
     # ---------------------------------------
-    global PAIS_SET
+    #global PAIS_SET
     PAIS_SET = {c.name.lower() for c in pycountry.countries}
     
     # Alias conocidos
@@ -147,7 +148,7 @@ def main() -> None:
         try:
             fecha_archivo = datetime.strptime(csv_file.name.split("_")[1], "%Y%m%d%H%M%S").strftime("%d/%m/%Y")
         except Exception:
-            fecha_archivo = "None"
+            fecha_archivo = None
 
         # ---------------------------------------
         #   LEER CONTENIDO COMPLETO
@@ -174,7 +175,7 @@ def main() -> None:
                 re.findall(patron, texto_lower)
             )
         
-        evento["token"] = conteo_delitos
+        evento["conteo_delitos"] = conteo_delitos
 
         # ---------------------------------------
         #   NLP: DETECCIÓN DE ENTIDADES
