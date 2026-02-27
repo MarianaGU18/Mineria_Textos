@@ -35,7 +35,7 @@ from procesamiento_utils import (
 DATA_ESP_PATH = Path("datos_base/DATA_ESP/data_ESP.csv")
 
 # Identificador del medio procesado
-ORIGEN = "Prueba_ELMUNDO"
+ORIGEN = "Prueba_ABC_MUJERES"
 
 
 # Carpeta donde están los articulos previamente scrapeados

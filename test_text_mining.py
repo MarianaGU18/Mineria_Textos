@@ -48,10 +48,10 @@ from text_mining_pipeline import TextMiningPipeline
 
 pipeline = TextMiningPipeline(
 
-    sitio="https://www.elmundo.es/t/vi/violencia.html", 
-    origen="Prueba_ELMUNDO",
-    from_date="20150101",
-    to_date="20151231",
+    sitio="https://www.eluniversal.com.mx/estados/", 
+    origen="Prueba_UNI",
+    from_date="20260101",
+    to_date="20260130",
 
     palabras_clave_path="datos_base/Terminos.csv"
 )
@@ -61,11 +61,11 @@ pipeline = TextMiningPipeline(
 
 #   Obtener snapshots históricos del sitio en el rango de fechas indicado
 #       Consulta versiones archivadas del sitio
-#pipeline.obtener_snapshots()
+pipeline.obtener_snapshots()
 
 #   Filtrar las URLs encontras
 #       Se eliminana enlaces irrelevantes y se conservan solo los articulo con potencial
-#pipeline.filtrar_urls_relevantes()
+pipeline.filtrar_urls_relevantes()
 
 #   Procesar los articulos finales
 #       Se descarga el contenido, se limpia el texto y se aplican los filtros.

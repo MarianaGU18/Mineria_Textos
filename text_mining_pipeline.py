@@ -329,6 +329,7 @@ class TextMiningPipeline:
 
                         'contains(@class, "font--primary") or '
                         'contains(@class, " body-components__text") or '
+                        'contains(@class, "itemgpt_responsive_article_leaderboard_1 dfp-tag-wrapper-container") or '                        
 
                         'contains(@class, "body-components__text") or '
                         'contains(@class, "clearfix") or '

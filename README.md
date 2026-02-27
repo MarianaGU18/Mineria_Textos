@@ -50,19 +50,65 @@ Proyecto de minería de textos, centrado en el análisis de artículos sobre vio
 Usa test_text_mining.py para probar la tubería con un solo día o rango reducido.
 
 ## 🗃️ Dependencias
-requests
-lxml
-pandas
-selenium
-spacy
-pycountry
-tldextract
-tqdm
-Modelo de SpaCy: es_core_news_lg
+- requests
+- lxml
+- pandas
+- selenium
+- spacy
+- pycountry
+- tldextract
+-tqdm
 
+
+**Modelo de SpaCy:** es_core_news_lg
+
+## Notas
 > [!IMPORTANT]
-> Uno de los primeros problemas detectados fue el uso de ChromeDriver, ya que este varía según la versión del Chrome instalada. Esto se resolvió consultando la página oficial de descargas:
+> Uno de los problemas detectados fue el uso de **ChromeDriver**, ya que este varía según la versión del Chrome instalada. 
+> ¿Cómo revisar la versión de Chrome desde el navegador?
+>  1. Abre Chrome
+>  2. Escribe en la barra de direcciones:
+>     chrome://settings/help
+>  3. Presiona **Enter**
+>  4. Verás algo como:
 >
-> 👉 https://developer.chrome.com/docs/chromedriver/downloads?hl=es-419
+<div align="center">
+  <img src="./Imagen/ChromeVersion.png" alt="Versión de Chrome" width="400" height="400">
+</div>
+> La versión principal (por ejemplo `128`) es la que debe coincidir con ChromeDriver.
 >
+> Recomendación
+> - Descargar ChromeDriver desde la página oficial:
+>  [https://developer.chrome.com/docs/chromedriver/downloads?hl=es-419](https://developer.chrome.com/docs/chromedriver/downloads?hl=es-419)  
 > Desde ahí se puede acceder a los endpoints JSON y ubicar la versión específica requerida según el Chrome instalado.
+>  - En Linux, evita usar `.exe`. Usa el binario para Linux y asegúrate de dar permisos de ejecución.
+>
+
+## Comandos para instalar y preparar el entorno en Windows
+
+1.  Ir a la carpeta del proyecto
+
+2. Crear el entorno virtual
+
+   ```bash
+      python -m venv venv
+   ```
+3. Activar el entorno virtual
+   ```bash
+   .\venv\Scripts\Activate.ps1
+   ```
+   Si da error de política de ejecución, ejecutar primero:
+   ```bash
+      Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+      .\venv\Scripts\Activate.ps1
+   ```
+
+4. Instalar librerías necesarias
+   ```bash
+      pip install selenium requests pandas lxml spacy pycountry tldextract tqdm
+   ```
+
+5. Descargar el modelo de SpaCy
+   ```bash
+      python -m spacy download es_core_news_lg
+   ```
