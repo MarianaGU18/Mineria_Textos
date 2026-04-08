@@ -11,10 +11,10 @@ from text_mining_pipeline import TextMiningPipeline
 
         ElPais
             elpais.com/noticias/violencia-machista
+            https://www.publico.es/tag/violencia-machista
 
         Publico
-            https://www.abc.es/noticias/violencia-de-genero/
-        
+        https://www.publico.es/mujer/violencia-machista
         La Razon
             https://www.larazon.es/tags/violencia-de-genero/
             https://www.larazon.es/tags/agresion/
@@ -37,7 +37,7 @@ from text_mining_pipeline import TextMiningPipeline
          Cada periódico puede usara clases y etiquetas distintas.
 """
 
-#===========================================================
+"""#===========================================================
 # CREACIÓN DEL PIPELINE
 #===========================================================
 # Crear instancia del pipeline indicando:
@@ -45,13 +45,13 @@ from text_mining_pipeline import TextMiningPipeline
 #   - origen: nombre identificador que se usará para etiquetar los resultados
 #   - from_date: fecha inicial (formato YYYMMDD)
 #   - palabras_clave_path: ruta al archivo CSV con términos para filtrar artículos
-
+"""
 pipeline = TextMiningPipeline(
 
-    sitio="https://www.eluniversal.com.mx/estados/", 
-    origen="Prueba_UNI",
-    from_date="20260101",
-    to_date="20260130",
+    sitio="https://www.publico.es/mujer", 
+    origen="PUBLICO_mujer_1",
+    from_date="20220101",
+    to_date="20231231",
 
     palabras_clave_path="datos_base/Terminos.csv"
 )

@@ -212,11 +212,11 @@ def ubicacion_espana(doc, municipios, comunidades, df_depmun, evento):
     provincia = ""
 
     for ent in doc.ents:
-        if ent.label_ in ["LOC", "GPE"]:  # GPE ayuda a detectar regiones y países
+        if ent.label_ in ["LOC", "GPE"]:  
             loc = ent.text
             tipo = verificar_localizacion(loc, municipios, comunidades)
 
-            #print(f"Entidad detectada: '{ent.text}' | Normalizada: '{normalizar(loc)}' | Tipo: {tipo}")
+            print(f"Entidad detectada: '{ent.text}' | Normalizada: '{normalizar(loc)}' | Tipo: {tipo}")
 
             if tipo == "MUNICIPIO" and not municipio:
                 municipio = ent.text

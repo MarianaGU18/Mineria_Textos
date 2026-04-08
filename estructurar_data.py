@@ -35,8 +35,11 @@ from procesamiento_utils import (
 DATA_ESP_PATH = Path("datos_base/DATA_ESP/data_ESP.csv")
 
 # Identificador del medio procesado
-ORIGEN = "Prueba_ABC_MUJERES"
+ORIGEN = "PUBLICO"
 
+#Guardar version del dataset
+GUARDAR_JSON_COMPLETO = True
+GUARDAR_JSON_FILTRADO = True
 
 # Carpeta donde están los articulos previamente scrapeados
 ARTICLES_DIR = Path(f"articulos_x_procesar/{ORIGEN}")
@@ -47,6 +50,9 @@ TERMS_CSV_PATH = Path("datos_base/Terminos.csv")
 # Carpeta y nombre del JSON final
 OUTPUT_DIR = Path("TFM")
 OUTPUT_FILE = OUTPUT_DIR / f"noticias_estandarizadas_ESP_{ORIGEN}.json"
+
+OUTPUT_FILTERED_DIR = Path("TFM_filtrado")
+OUTPUT_FILTERED_FILE = OUTPUT_FILTERED_DIR / f"noticias_filtradas_ESP_{ORIGEN}.json"
 
 # Lista donde se almacenarán todos los eventos procesados
 
@@ -98,8 +104,13 @@ def main() -> None:
         print(f"[ERROR] No existe {TERMS_CSV_PATH}")
         sys.exit(1)
 
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
- 
+    # Crear carpetas de salida
+    if GUARDAR_JSON_COMPLETO:
+        OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+    if GUARDAR_JSON_FILTRADO:
+        OUTPUT_FILTERED_DIR.mkdir(parents=True, exist_ok=True)
+
     # ---------------------------------------
     # 2. CARGAR MODELO NLP
     # ---------------------------------------
@@ -147,6 +158,9 @@ def main() -> None:
         # ---------------------------------------
         try:
             fecha_archivo = datetime.strptime(csv_file.name.split("_")[1], "%Y%m%d%H%M%S").strftime("%d/%m/%Y")
+
+            #timestamp = re.search(r"\d{14}", csv_file.name).group()
+            #fecha_archivo = datetime.strptime(timestamp, "%Y%m%d%H%M%S").strftime("%d/%m/%Y")
         except Exception:
             fecha_archivo = None
 
@@ -221,7 +235,7 @@ def main() -> None:
         # ----------------------------------
         # UBICACIÓN DENTRO DE ESPAÑA
         # ----------------------------------
-
+        
         evento,municipio, comunidad, provincia = ubicacion_espana(
             doc, 
             municipios, 
@@ -238,13 +252,47 @@ def main() -> None:
 
         eventos.append(evento)
 
+        # -----------------------------
+        #  Eventos Filtrados
+        # -----------------------------
+        eventos_filtrados = []
+
+        for e in eventos:
+            delitos_detectados = {
+                delito: valor
+                for delito, valor in e["conteo_delitos"].items()
+                if valor >=1
+            }
+
+            if delitos_detectados:
+                evento_filtrado = e.copy()
+                evento_filtrado["conteo_delitos"] = delitos_detectados
+                eventos_filtrados.append(evento_filtrado)
+        """
+    for e in eventos_filtrados:
+        e["conteo_delitos"] = {
+            delito: valor
+            for delito, valor in e["conteo_delitos"].items()
+            if valor >= 1
+        }
+   """
+    print("Total eventos:", len(eventos))
+    print("Eventos filtrados:", len(eventos_filtrados))
     # -----------------------------
     #   7. GUARDAR JSON FINAL
     # -----------------------------
-    with OUTPUT_FILE.open("w", encoding="utf-8") as f:
-        json.dump(eventos, f, ensure_ascii=False, indent=4)
-        print(f"[OK] Se generó {OUTPUT_FILE} con {len(eventos)} eventos")
+    # JSON completo
+    if GUARDAR_JSON_COMPLETO:
+        with OUTPUT_FILE.open("w", encoding="utf-8") as f:
+            json.dump(eventos, f, ensure_ascii=False, indent=4)
+            print(f"[OK] Se generó {OUTPUT_FILE} con {len(eventos)} eventos")
 
+    # JSON filtrado
+    if GUARDAR_JSON_FILTRADO:
+        with OUTPUT_FILTERED_FILE.open("w", encoding="utf-8") as f:
+            json.dump(eventos_filtrados, f, ensure_ascii=False, indent=4)
+
+            print(f"[OK] Se generó {OUTPUT_FILTERED_FILE} con {len(eventos_filtrados)} eventos filtrados")
 
 if __name__ == "__main__":
     main()

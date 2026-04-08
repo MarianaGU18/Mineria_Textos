@@ -1,0 +1,2011 @@
+[
+    {
+        "ID_noticia": "ESP__20180308073919_1",
+        "diario": "PUBLICO",
+        "fecha": "08/03/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20180311072619_2",
+        "diario": "PUBLICO",
+        "fecha": "11/03/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20180313021930_3",
+        "diario": "PUBLICO",
+        "fecha": "13/03/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20180316222931_2",
+        "diario": "PUBLICO",
+        "fecha": "16/03/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20180316222931_4",
+        "diario": "PUBLICO",
+        "fecha": "16/03/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20180323225034_5",
+        "diario": "PUBLICO",
+        "fecha": "23/03/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20180330232703_6",
+        "diario": "PUBLICO",
+        "fecha": "30/03/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20180414001342_7",
+        "diario": "PUBLICO",
+        "fecha": "14/04/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20180419221451_8",
+        "diario": "PUBLICO",
+        "fecha": "19/04/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20180512110701_9",
+        "diario": "PUBLICO",
+        "fecha": "12/05/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20180525195507_10",
+        "diario": "PUBLICO",
+        "fecha": "25/05/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20180609060846_11",
+        "diario": "PUBLICO",
+        "fecha": "09/06/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20180609060846_3",
+        "diario": "PUBLICO",
+        "fecha": "09/06/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20180625165131_12",
+        "diario": "PUBLICO",
+        "fecha": "25/06/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20180625165131_4",
+        "diario": "PUBLICO",
+        "fecha": "25/06/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20180830100447_13",
+        "diario": "PUBLICO",
+        "fecha": "30/08/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20180830100447_5",
+        "diario": "PUBLICO",
+        "fecha": "30/08/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20181019164235_14",
+        "diario": "PUBLICO",
+        "fecha": "19/10/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20181019164235_6",
+        "diario": "PUBLICO",
+        "fecha": "19/10/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20181117050611_15",
+        "diario": "PUBLICO",
+        "fecha": "17/11/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20181117050611_7",
+        "diario": "PUBLICO",
+        "fecha": "17/11/2018",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20220909210857_10",
+        "diario": "PUBLICO",
+        "fecha": "09/09/2022",
+        "conteo_delitos": {
+            "abuso sexual": 1,
+            "violencia": 4
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia"
+    },
+    {
+        "ID_noticia": "ESP__20220909210857_11",
+        "diario": "PUBLICO",
+        "fecha": "09/09/2022",
+        "conteo_delitos": {
+            "acoso sexual": 2,
+            "violacion": 3,
+            "violaciones": 3,
+            "violencia sexual": 13,
+            "violencia contra la mujer": 1,
+            "violencia": 23
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20220909210857_20",
+        "diario": "PUBLICO",
+        "fecha": "09/09/2022",
+        "conteo_delitos": {
+            "acoso sexual": 1,
+            "violencia sexual": 3,
+            "violencia": 7
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Lloret de Mar"
+    },
+    {
+        "ID_noticia": "ESP__20220909210857_21",
+        "diario": "PUBLICO",
+        "fecha": "09/09/2022",
+        "conteo_delitos": {
+            "abuso sexual": 1,
+            "violencia": 4
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia"
+    },
+    {
+        "ID_noticia": "ESP__20220916215458_19",
+        "diario": "PUBLICO",
+        "fecha": "16/09/2022",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia intrafamiliar": 5,
+            "violencia": 15
+        },
+        "país": "España",
+        "ubicacion_noticia": "Alicante, Valencia, València"
+    },
+    {
+        "ID_noticia": "ESP__20220916215458_9",
+        "diario": "PUBLICO",
+        "fecha": "16/09/2022",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia intrafamiliar": 5,
+            "violencia": 15
+        },
+        "país": "España",
+        "ubicacion_noticia": "Alicante, Valencia, València"
+    },
+    {
+        "ID_noticia": "ESP__20220930224457_17",
+        "diario": "PUBLICO",
+        "fecha": "30/09/2022",
+        "conteo_delitos": {
+            "feminicidio": 3,
+            "violencia machista": 5,
+            "machismo": 3,
+            "violencia sexual": 2,
+            "asesinatos de mujeres": 2,
+            "violencia contra la mujer": 1,
+            "violencia": 47
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20220930224457_18",
+        "diario": "PUBLICO",
+        "fecha": "30/09/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "machismo": 2,
+            "violencia": 10
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20220930224457_27",
+        "diario": "PUBLICO",
+        "fecha": "30/09/2022",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "machismo": 1,
+            "violacion": 1,
+            "violaciones": 1,
+            "violencia": 4
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221001132229_18",
+        "diario": "PUBLICO",
+        "fecha": "01/10/2022",
+        "conteo_delitos": {
+            "feminicidio": 1,
+            "violencia machista": 2,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221001132229_19",
+        "diario": "PUBLICO",
+        "fecha": "01/10/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia vicaria": 2,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "Alicante, Valencia, Sueca"
+    },
+    {
+        "ID_noticia": "ESP__20221001132229_20",
+        "diario": "PUBLICO",
+        "fecha": "01/10/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Málaga"
+    },
+    {
+        "ID_noticia": "ESP__20221001132229_21",
+        "diario": "PUBLICO",
+        "fecha": "01/10/2022",
+        "conteo_delitos": {
+            "feminicidio": 20,
+            "violencia machista": 1,
+            "asesinatos de mujeres": 2,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía"
+    },
+    {
+        "ID_noticia": "ESP__20221001132229_22",
+        "diario": "PUBLICO",
+        "fecha": "01/10/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia": 5
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Sevilla"
+    },
+    {
+        "ID_noticia": "ESP__20221001132229_23",
+        "diario": "PUBLICO",
+        "fecha": "01/10/2022",
+        "conteo_delitos": {
+            "feminicidio": 3,
+            "violencia machista": 5,
+            "machismo": 3,
+            "violencia sexual": 2,
+            "asesinatos de mujeres": 2,
+            "violencia contra la mujer": 1,
+            "violencia": 47
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221001132229_24",
+        "diario": "PUBLICO",
+        "fecha": "01/10/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "machismo": 2,
+            "violencia": 10
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20221001132229_25",
+        "diario": "PUBLICO",
+        "fecha": "01/10/2022",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "machismo": 1,
+            "violacion": 1,
+            "violaciones": 1,
+            "violencia": 4
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221001132229_28",
+        "diario": "PUBLICO",
+        "fecha": "01/10/2022",
+        "conteo_delitos": {
+            "feminicidio": 1,
+            "violencia machista": 2,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221001132229_29",
+        "diario": "PUBLICO",
+        "fecha": "01/10/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia vicaria": 2,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "Alicante, Valencia, Sueca"
+    },
+    {
+        "ID_noticia": "ESP__20221001132229_30",
+        "diario": "PUBLICO",
+        "fecha": "01/10/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Málaga"
+    },
+    {
+        "ID_noticia": "ESP__20221001132229_31",
+        "diario": "PUBLICO",
+        "fecha": "01/10/2022",
+        "conteo_delitos": {
+            "feminicidio": 7,
+            "violencia machista": 4,
+            "violencia": 17
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221001132229_32",
+        "diario": "PUBLICO",
+        "fecha": "01/10/2022",
+        "conteo_delitos": {
+            "feminicidio": 20,
+            "violencia machista": 1,
+            "asesinatos de mujeres": 2,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía"
+    },
+    {
+        "ID_noticia": "ESP__20221001132229_33",
+        "diario": "PUBLICO",
+        "fecha": "01/10/2022",
+        "conteo_delitos": {
+            "feminicidio": 3,
+            "violencia machista": 5,
+            "machismo": 3,
+            "violencia sexual": 2,
+            "asesinatos de mujeres": 2,
+            "violencia contra la mujer": 1,
+            "violencia": 47
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221001132229_34",
+        "diario": "PUBLICO",
+        "fecha": "01/10/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "machismo": 2,
+            "violencia": 10
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20221001132229_35",
+        "diario": "PUBLICO",
+        "fecha": "01/10/2022",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "machismo": 1,
+            "violacion": 1,
+            "violaciones": 1,
+            "violencia": 4
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221014233210_16",
+        "diario": "PUBLICO",
+        "fecha": "14/10/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia": 5
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Sevilla"
+    },
+    {
+        "ID_noticia": "ESP__20221014233210_8",
+        "diario": "PUBLICO",
+        "fecha": "14/10/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia": 5
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Sevilla"
+    },
+    {
+        "ID_noticia": "ESP__20221016172618_12",
+        "diario": "PUBLICO",
+        "fecha": "16/10/2022",
+        "conteo_delitos": {
+            "feminicidio": 7,
+            "violencia machista": 4,
+            "violencia": 17
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221016172618_13",
+        "diario": "PUBLICO",
+        "fecha": "16/10/2022",
+        "conteo_delitos": {
+            "feminicidio": 20,
+            "violencia machista": 1,
+            "asesinatos de mujeres": 2,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía"
+    },
+    {
+        "ID_noticia": "ESP__20221016172618_22",
+        "diario": "PUBLICO",
+        "fecha": "16/10/2022",
+        "conteo_delitos": {
+            "feminicidio": 7,
+            "violencia machista": 4,
+            "violencia": 17
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221016172618_23",
+        "diario": "PUBLICO",
+        "fecha": "16/10/2022",
+        "conteo_delitos": {
+            "feminicidio": 20,
+            "violencia machista": 1,
+            "asesinatos de mujeres": 2,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía"
+    },
+    {
+        "ID_noticia": "ESP__20221029232710_16",
+        "diario": "PUBLICO",
+        "fecha": "29/10/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Málaga"
+    },
+    {
+        "ID_noticia": "ESP__20221029232710_26",
+        "diario": "PUBLICO",
+        "fecha": "29/10/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Málaga"
+    },
+    {
+        "ID_noticia": "ESP__20221101174412_14",
+        "diario": "PUBLICO",
+        "fecha": "01/11/2022",
+        "conteo_delitos": {
+            "feminicidio": 1,
+            "violencia machista": 2,
+            "violencia": 9
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221101174412_15",
+        "diario": "PUBLICO",
+        "fecha": "01/11/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia vicaria": 2,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "Alicante, Valencia, Sueca"
+    },
+    {
+        "ID_noticia": "ESP__20221101174412_24",
+        "diario": "PUBLICO",
+        "fecha": "01/11/2022",
+        "conteo_delitos": {
+            "feminicidio": 1,
+            "violencia machista": 2,
+            "violencia": 9
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221101174412_25",
+        "diario": "PUBLICO",
+        "fecha": "01/11/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia vicaria": 2,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "Alicante, Valencia, Sueca"
+    },
+    {
+        "ID_noticia": "ESP__20221106003758_26",
+        "diario": "PUBLICO",
+        "fecha": "06/11/2022",
+        "conteo_delitos": {
+            "machismo": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, MADRID"
+    },
+    {
+        "ID_noticia": "ESP__20221106003758_28",
+        "diario": "PUBLICO",
+        "fecha": "06/11/2022",
+        "conteo_delitos": {
+            "machismo": 2,
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221106003758_36",
+        "diario": "PUBLICO",
+        "fecha": "06/11/2022",
+        "conteo_delitos": {
+            "machismo": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, MADRID"
+    },
+    {
+        "ID_noticia": "ESP__20221106003758_38",
+        "diario": "PUBLICO",
+        "fecha": "06/11/2022",
+        "conteo_delitos": {
+            "machismo": 2,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221113005951_27",
+        "diario": "PUBLICO",
+        "fecha": "13/11/2022",
+        "conteo_delitos": {
+            "violencia machista": 5,
+            "violencia": 11
+        },
+        "país": "España",
+        "ubicacion_noticia": "Murcia, Murcia, Murcia"
+    },
+    {
+        "ID_noticia": "ESP__20221113005951_37",
+        "diario": "PUBLICO",
+        "fecha": "13/11/2022",
+        "conteo_delitos": {
+            "violencia machista": 5,
+            "violencia": 11
+        },
+        "país": "España",
+        "ubicacion_noticia": "Murcia, Murcia, Murcia"
+    },
+    {
+        "ID_noticia": "ESP__20221122150640_29",
+        "diario": "PUBLICO",
+        "fecha": "22/11/2022",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Barcelona"
+    },
+    {
+        "ID_noticia": "ESP__20221122150640_30",
+        "diario": "PUBLICO",
+        "fecha": "22/11/2022",
+        "conteo_delitos": {
+            "acoso sexual": 10,
+            "violencia machista": 1,
+            "violencia": 13
+        },
+        "país": "España",
+        "ubicacion_noticia": "Melilla, Melilla, Melilla"
+    },
+    {
+        "ID_noticia": "ESP__20221122150640_31",
+        "diario": "PUBLICO",
+        "fecha": "22/11/2022",
+        "conteo_delitos": {
+            "acoso sexual": 5,
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20221122150640_32",
+        "diario": "PUBLICO",
+        "fecha": "22/11/2022",
+        "conteo_delitos": {
+            "violencia machista": 3,
+            "violencia contra la mujer": 1,
+            "violencia": 8
+        },
+        "país": "España",
+        "ubicacion_noticia": "Melilla, Melilla, Melilla"
+    },
+    {
+        "ID_noticia": "ESP__20221122150640_33",
+        "diario": "PUBLICO",
+        "fecha": "22/11/2022",
+        "conteo_delitos": {
+            "violencia machista": 5,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Barcelona"
+    },
+    {
+        "ID_noticia": "ESP__20221122150640_34",
+        "diario": "PUBLICO",
+        "fecha": "22/11/2022",
+        "conteo_delitos": {
+            "abuso sexual": 3,
+            "violencia sexual": 1,
+            "violencia": 4
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221122150640_35",
+        "diario": "PUBLICO",
+        "fecha": "22/11/2022",
+        "conteo_delitos": {
+            "feminicidio": 2,
+            "violencia machista": 4,
+            "machismo": 2,
+            "violacion": 1,
+            "violaciones": 1,
+            "violencia sexual": 1,
+            "asesinatos de mujeres": 2,
+            "violencia contra la mujer": 1,
+            "violencia": 15
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221122150640_36",
+        "diario": "PUBLICO",
+        "fecha": "22/11/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia": 5
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221122150640_37",
+        "diario": "PUBLICO",
+        "fecha": "22/11/2022",
+        "conteo_delitos": {
+            "machismo": 5,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "Melilla, Melilla, Melilla"
+    },
+    {
+        "ID_noticia": "ESP__20221122150640_38",
+        "diario": "PUBLICO",
+        "fecha": "22/11/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "machismo": 2,
+            "violencia sexual": 1,
+            "misoginia": 2,
+            "violencia contra la mujer": 1,
+            "violencia": 8
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221122150640_39",
+        "diario": "PUBLICO",
+        "fecha": "22/11/2022",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Barcelona"
+    },
+    {
+        "ID_noticia": "ESP__20221122150640_40",
+        "diario": "PUBLICO",
+        "fecha": "22/11/2022",
+        "conteo_delitos": {
+            "acoso sexual": 10,
+            "violencia machista": 1,
+            "violencia": 13
+        },
+        "país": "España",
+        "ubicacion_noticia": "Melilla, Melilla, Melilla"
+    },
+    {
+        "ID_noticia": "ESP__20221122150640_41",
+        "diario": "PUBLICO",
+        "fecha": "22/11/2022",
+        "conteo_delitos": {
+            "acoso sexual": 5,
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20221122150640_42",
+        "diario": "PUBLICO",
+        "fecha": "22/11/2022",
+        "conteo_delitos": {
+            "feminicidio": 2,
+            "violencia machista": 4,
+            "machismo": 2,
+            "violacion": 1,
+            "violaciones": 1,
+            "violencia sexual": 1,
+            "asesinatos de mujeres": 2,
+            "violencia contra la mujer": 1,
+            "violencia": 15
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221122150640_43",
+        "diario": "PUBLICO",
+        "fecha": "22/11/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia": 5
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20221122150640_44",
+        "diario": "PUBLICO",
+        "fecha": "22/11/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "machismo": 2,
+            "violencia sexual": 1,
+            "misoginia": 2,
+            "violencia contra la mujer": 1,
+            "violencia": 8
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_39",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_40",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "feminicidio": 3,
+            "violencia machista": 1,
+            "machismo": 2,
+            "asesinatos de mujeres": 1,
+            "violencia": 18
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_41",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "acoso sexual": 1,
+            "feminicidio": 4,
+            "violencia machista": 4,
+            "machismo": 3,
+            "violencia digital": 1,
+            "violencia vicaria": 1,
+            "violencia": 18
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_42",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "feminicidio": 1,
+            "violencia machista": 2,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_43",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia": 10
+        },
+        "país": "España",
+        "ubicacion_noticia": "Álava, Pais Vasco, Bilbao"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_44",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "feminicidio": 2,
+            "violencia machista": 1,
+            "violencia": 13
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_45",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_46",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "feminicidio": 3,
+            "violencia machista": 1,
+            "machismo": 2,
+            "asesinatos de mujeres": 1,
+            "violencia": 18
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_47",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "acoso sexual": 1,
+            "feminicidio": 4,
+            "violencia machista": 4,
+            "machismo": 3,
+            "violencia digital": 1,
+            "violencia vicaria": 1,
+            "violencia": 18
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_48",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "feminicidio": 1,
+            "violencia machista": 2,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_49",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia": 10
+        },
+        "país": "España",
+        "ubicacion_noticia": "Álava, Pais Vasco, Bilbao"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_50",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "feminicidio": 2,
+            "violencia machista": 1,
+            "violencia": 13
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_51",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "violencia machista": 4,
+            "violencia": 7
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_52",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "feminicidio": 6,
+            "violencia machista": 3,
+            "asesinatos de mujeres": 1,
+            "violencia": 18
+        },
+        "país": "España",
+        "ubicacion_noticia": "Ávila, Castilla y León, Soria"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_53",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "violencia machista": 3,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "Ávila, Castilla y León, Matamala de Almazán"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_54",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "violencia machista": 4,
+            "violencia": 6
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_55",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 7
+        },
+        "país": "España",
+        "ubicacion_noticia": "La Rioja, La Rioja, Calahorra"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_56",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "matrimonio forzado": 1,
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Barcelona"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_57",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia vicaria": 16,
+            "violencia contra la mujer": 1,
+            "violencia": 57
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_58",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "violacion": 3,
+            "violaciones": 3,
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20230105082632_59",
+        "diario": "PUBLICO",
+        "fecha": "05/01/2023",
+        "conteo_delitos": {
+            "feminicidio": 3,
+            "violencia machista": 1,
+            "machismo": 2,
+            "asesinatos de mujeres": 1,
+            "violencia": 18
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20230213202131_63",
+        "diario": "PUBLICO",
+        "fecha": "13/02/2023",
+        "conteo_delitos": {
+            "acoso sexual": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Barcelona"
+    },
+    {
+        "ID_noticia": "ESP__20230213202131_64",
+        "diario": "PUBLICO",
+        "fecha": "13/02/2023",
+        "conteo_delitos": {
+            "violencia machista": 4,
+            "violencia": 6
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Balaguer"
+    },
+    {
+        "ID_noticia": "ESP__20230213202131_65",
+        "diario": "PUBLICO",
+        "fecha": "13/02/2023",
+        "conteo_delitos": {
+            "acoso sexual": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Barcelona"
+    },
+    {
+        "ID_noticia": "ESP__20230217140522_61",
+        "diario": "PUBLICO",
+        "fecha": "17/02/2023",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia vicaria": 16,
+            "violencia": 40
+        },
+        "país": "España",
+        "ubicacion_noticia": "Ávila, Castilla y León, Valladolid"
+    },
+    {
+        "ID_noticia": "ESP__20230217140522_62",
+        "diario": "PUBLICO",
+        "fecha": "17/02/2023",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia de genero": 1,
+            "violencia": 6
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Barcelona"
+    },
+    {
+        "ID_noticia": "ESP__20230217140522_63",
+        "diario": "PUBLICO",
+        "fecha": "17/02/2023",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia de genero": 1,
+            "violencia": 6
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Barcelona"
+    },
+    {
+        "ID_noticia": "ESP__20230227215133_60",
+        "diario": "PUBLICO",
+        "fecha": "27/02/2023",
+        "conteo_delitos": {
+            "ciberviolencia": 9,
+            "violencia": 19
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20230305233651_59",
+        "diario": "PUBLICO",
+        "fecha": "05/03/2023",
+        "conteo_delitos": {
+            "techo de cristal": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Sanlúcar de Barrameda"
+    },
+    {
+        "ID_noticia": "ESP__20230306222752_57",
+        "diario": "PUBLICO",
+        "fecha": "06/03/2023",
+        "conteo_delitos": {
+            "feminicidio": 2,
+            "violencia machista": 2,
+            "violencia": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Pezuela de las Torres"
+    },
+    {
+        "ID_noticia": "ESP__20230306222752_58",
+        "diario": "PUBLICO",
+        "fecha": "06/03/2023",
+        "conteo_delitos": {
+            "abuso sexual": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Sevilla"
+    },
+    {
+        "ID_noticia": "ESP__20230306222752_60",
+        "diario": "PUBLICO",
+        "fecha": "06/03/2023",
+        "conteo_delitos": {
+            "feminicidio": 2,
+            "violencia machista": 2,
+            "violencia": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Pezuela de las Torres"
+    },
+    {
+        "ID_noticia": "ESP__20230314205053_64",
+        "diario": "PUBLICO",
+        "fecha": "14/03/2023",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia sexual": 1,
+            "violencia": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20230314205053_66",
+        "diario": "PUBLICO",
+        "fecha": "14/03/2023",
+        "conteo_delitos": {
+            "abuso sexual": 1,
+            "violacion": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Albacete, Castilla-La Mancha, Carmena"
+    },
+    {
+        "ID_noticia": "ESP__20230314205053_67",
+        "diario": "PUBLICO",
+        "fecha": "14/03/2023",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia sexual": 1,
+            "violencia": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20230322083358_65",
+        "diario": "PUBLICO",
+        "fecha": "22/03/2023",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia sexual": 3,
+            "violencia": 13
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20230322083358_68",
+        "diario": "PUBLICO",
+        "fecha": "22/03/2023",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia sexual": 3,
+            "violencia": 13
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20230325211553_66",
+        "diario": "PUBLICO",
+        "fecha": "25/03/2023",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia, Lugo"
+    },
+    {
+        "ID_noticia": "ESP__20230325211553_69",
+        "diario": "PUBLICO",
+        "fecha": "25/03/2023",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia": 7
+        },
+        "país": "España",
+        "ubicacion_noticia": "Cantabria, Cantabria, Santander"
+    },
+    {
+        "ID_noticia": "ESP__20230503213526_67",
+        "diario": "PUBLICO",
+        "fecha": "03/05/2023",
+        "conteo_delitos": {
+            "feminicidio": 5,
+            "violencia machista": 1,
+            "machismo": 1,
+            "violencia familiar": 1,
+            "misoginia": 1,
+            "asesinatos de mujeres": 1,
+            "violencia contra la mujer": 1,
+            "violencia": 8
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia, Ferrol"
+    },
+    {
+        "ID_noticia": "ESP__20230503213526_70",
+        "diario": "PUBLICO",
+        "fecha": "03/05/2023",
+        "conteo_delitos": {
+            "feminicidio": 5,
+            "violencia machista": 1,
+            "machismo": 1,
+            "violencia familiar": 1,
+            "misoginia": 1,
+            "asesinatos de mujeres": 1,
+            "violencia contra la mujer": 1,
+            "violencia": 8
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia, Ferrol"
+    },
+    {
+        "ID_noticia": "ESP__20230507165515_71",
+        "diario": "PUBLICO",
+        "fecha": "07/05/2023",
+        "conteo_delitos": {
+            "abuso sexual": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Ávila, Castilla y León, Burgos"
+    },
+    {
+        "ID_noticia": "ESP__20230507165515_73",
+        "diario": "PUBLICO",
+        "fecha": "07/05/2023",
+        "conteo_delitos": {
+            "abuso sexual": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Ávila, Castilla y León, Burgos"
+    },
+    {
+        "ID_noticia": "ESP__20230507165515_74",
+        "diario": "PUBLICO",
+        "fecha": "07/05/2023",
+        "conteo_delitos": {
+            "feminicidio": 1,
+            "violencia sexual": 5,
+            "pornografia": 1,
+            "violencia": 6
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Rubí"
+    },
+    {
+        "ID_noticia": "ESP__20230518163527_72",
+        "diario": "PUBLICO",
+        "fecha": "18/05/2023",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia sexual": 2,
+            "violencia institucional": 4,
+            "violencia": 13
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Girona"
+    },
+    {
+        "ID_noticia": "ESP__20230518163527_73",
+        "diario": "PUBLICO",
+        "fecha": "18/05/2023",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20230518163527_77",
+        "diario": "PUBLICO",
+        "fecha": "18/05/2023",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20230519174244_70",
+        "diario": "PUBLICO",
+        "fecha": "19/05/2023",
+        "conteo_delitos": {
+            "abuso sexual": 1,
+            "acoso sexual": 2,
+            "violencia machista": 1,
+            "violencia": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia, Vigo"
+    },
+    {
+        "ID_noticia": "ESP__20230519174244_71",
+        "diario": "PUBLICO",
+        "fecha": "19/05/2023",
+        "conteo_delitos": {
+            "abuso sexual": 1,
+            "acoso sexual": 2,
+            "violencia machista": 1,
+            "violencia": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia, Vigo"
+    },
+    {
+        "ID_noticia": "ESP__20230526222950_68",
+        "diario": "PUBLICO",
+        "fecha": "26/05/2023",
+        "conteo_delitos": {
+            "violacion": 2,
+            "violaciones": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Ávila, Castilla y León, Valladolid"
+    },
+    {
+        "ID_noticia": "ESP__20230526222950_69",
+        "diario": "PUBLICO",
+        "fecha": "26/05/2023",
+        "conteo_delitos": {
+            "abuso sexual": 1,
+            "violencia contra la mujer": 1,
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Melilla, Melilla, Melilla"
+    },
+    {
+        "ID_noticia": "ESP__20230526222950_72",
+        "diario": "PUBLICO",
+        "fecha": "26/05/2023",
+        "conteo_delitos": {
+            "sexismo": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Melilla, Melilla, Melilla"
+    },
+    {
+        "ID_noticia": "ESP__20230526222950_75",
+        "diario": "PUBLICO",
+        "fecha": "26/05/2023",
+        "conteo_delitos": {
+            "machismo": 1,
+            "violacion": 1,
+            "violaciones": 1,
+            "violencia sexual": 4,
+            "violencia institucional": 4,
+            "violencia": 15
+        },
+        "país": "España",
+        "ubicacion_noticia": "Melilla, Melilla, Melilla"
+    },
+    {
+        "ID_noticia": "ESP__20230526222950_76",
+        "diario": "PUBLICO",
+        "fecha": "26/05/2023",
+        "conteo_delitos": {
+            "sexismo": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Melilla, Melilla, Melilla"
+    },
+    {
+        "ID_noticia": "ESP__20230616200143_74",
+        "diario": "PUBLICO",
+        "fecha": "16/06/2023",
+        "conteo_delitos": {
+            "violencia machista": 3,
+            "violencia": 14
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20230616200143_75",
+        "diario": "PUBLICO",
+        "fecha": "16/06/2023",
+        "conteo_delitos": {
+            "violacion": 1,
+            "violaciones": 1,
+            "violencia sexual": 1,
+            "violencia": 6
+        },
+        "país": "España",
+        "ubicacion_noticia": "Melilla, Melilla, Melilla"
+    },
+    {
+        "ID_noticia": "ESP__20230616200143_82",
+        "diario": "PUBLICO",
+        "fecha": "16/06/2023",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20230616200143_84",
+        "diario": "PUBLICO",
+        "fecha": "16/06/2023",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20230628115858_77",
+        "diario": "PUBLICO",
+        "fecha": "28/06/2023",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 8
+        },
+        "país": "España",
+        "ubicacion_noticia": "Alicante, Valencia, Santa Pola"
+    },
+    {
+        "ID_noticia": "ESP__20230628115858_78",
+        "diario": "PUBLICO",
+        "fecha": "28/06/2023",
+        "conteo_delitos": {
+            "ciberviolencia": 1,
+            "violencia sexual": 1,
+            "violencia": 18
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20230628115858_79",
+        "diario": "PUBLICO",
+        "fecha": "28/06/2023",
+        "conteo_delitos": {
+            "feminicidio": 2,
+            "violencia machista": 2,
+            "violencia": 14
+        },
+        "país": "España",
+        "ubicacion_noticia": "Murcia, Murcia, Murcia"
+    },
+    {
+        "ID_noticia": "ESP__20230628115858_80",
+        "diario": "PUBLICO",
+        "fecha": "28/06/2023",
+        "conteo_delitos": {
+            "violencia": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia, Santiago de Compostela"
+    },
+    {
+        "ID_noticia": "ESP__20230628115858_81",
+        "diario": "PUBLICO",
+        "fecha": "08/03/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia": 10
+        },
+        "país": "España",
+        "ubicacion_noticia": "Melilla, Melilla, Melilla"
+    },
+    {
+        "ID_noticia": "ESP__20230628115858_82",
+        "diario": "PUBLICO",
+        "fecha": "28/06/2023",
+        "conteo_delitos": {
+            "violencia": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia, Santiago de Compostela"
+    },
+    {
+        "ID_noticia": "ESP__20230628115858_83",
+        "diario": "PUBLICO",
+        "fecha": "08/03/2022",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia": 10
+        },
+        "país": "España",
+        "ubicacion_noticia": "Melilla, Melilla, Melilla"
+    },
+    {
+        "ID_noticia": "ESP__20230714063150_78",
+        "diario": "PUBLICO",
+        "fecha": "14/07/2023",
+        "conteo_delitos": {
+            "trata de mujeres": 1,
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Asturias, Asturias, Gijón"
+    },
+    {
+        "ID_noticia": "ESP__20230714063150_83",
+        "diario": "PUBLICO",
+        "fecha": "14/07/2023",
+        "conteo_delitos": {
+            "violencia sexual": 2,
+            "violencia": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Torrelodones"
+    },
+    {
+        "ID_noticia": "ESP__20230714063150_84",
+        "diario": "PUBLICO",
+        "fecha": "14/07/2023",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia contra la mujer": 1,
+            "violencia": 5
+        },
+        "país": "España",
+        "ubicacion_noticia": "Huesca, Aragón, Andorra"
+    },
+    {
+        "ID_noticia": "ESP__20230714063150_85",
+        "diario": "PUBLICO",
+        "fecha": "14/07/2023",
+        "conteo_delitos": {
+            "abuso sexual": 2,
+            "acoso sexual": 2,
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Barcelona"
+    },
+    {
+        "ID_noticia": "ESP__20230714063150_86",
+        "diario": "PUBLICO",
+        "fecha": "14/07/2023",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia contra la mujer": 1,
+            "violencia": 5
+        },
+        "país": "España",
+        "ubicacion_noticia": "Huesca, Aragón, Andorra"
+    },
+    {
+        "ID_noticia": "ESP__20230714063150_87",
+        "diario": "PUBLICO",
+        "fecha": "14/07/2023",
+        "conteo_delitos": {
+            "abuso sexual": 2,
+            "acoso sexual": 2,
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Barcelona"
+    },
+    {
+        "ID_noticia": "ESP__20230819075910_86",
+        "diario": "PUBLICO",
+        "fecha": "19/08/2023",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia": 4
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20230819075910_87",
+        "diario": "PUBLICO",
+        "fecha": "19/08/2023",
+        "conteo_delitos": {
+            "feminicidio": 1,
+            "violencia machista": 2,
+            "violencia": 8
+        },
+        "país": "España",
+        "ubicacion_noticia": "Alicante, Valencia, Antella"
+    },
+    {
+        "ID_noticia": "ESP__20240510030014_4",
+        "diario": "PUBLICO",
+        "fecha": "10/05/2024",
+        "conteo_delitos": {
+            "violencia machista": 6,
+            "violencia vicaria": 2,
+            "violencia": 15
+        },
+        "país": "España",
+        "ubicacion_noticia": "Huesca, Aragón, Zaragoza"
+    },
+    {
+        "ID_noticia": "ESP__20240510030014_5",
+        "diario": "PUBLICO",
+        "fecha": "10/05/2024",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 4
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20240510030014_6",
+        "diario": "PUBLICO",
+        "fecha": "10/05/2024",
+        "conteo_delitos": {
+            "violencia machista": 5,
+            "violencia": 13
+        },
+        "país": "España",
+        "ubicacion_noticia": "La Rioja, La Rioja"
+    },
+    {
+        "ID_noticia": "ESP__20240521183748_3",
+        "diario": "PUBLICO",
+        "fecha": "21/05/2024",
+        "conteo_delitos": {
+            "violencia machista": 10,
+            "violencia sexual": 1,
+            "violencia contra la mujer": 2,
+            "violencia institucional": 9,
+            "violencia": 30
+        },
+        "país": "España",
+        "ubicacion_noticia": "Huesca, Aragón, Zaragoza"
+    },
+    {
+        "ID_noticia": "ESP__20240524152910_2",
+        "diario": "PUBLICO",
+        "fecha": "24/05/2024",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia sexual": 1,
+            "violencia": 8
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia, Ourense"
+    },
+    {
+        "ID_noticia": "ESP__20240607112036_1",
+        "diario": "PUBLICO",
+        "fecha": "07/06/2024",
+        "conteo_delitos": {
+            "feminicidio": 5,
+            "violencia machista": 6,
+            "machismo": 1,
+            "violencia vicaria": 9,
+            "violencia": 29
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia, Ourense"
+    },
+    {
+        "ID_noticia": "ESP__20240610135828_0",
+        "diario": "PUBLICO",
+        "fecha": "10/06/2024",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20240617134307_7",
+        "diario": "PUBLICO",
+        "fecha": "17/06/2024",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia sexual": 1,
+            "violencia": 8
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20240627043632_10",
+        "diario": "PUBLICO",
+        "fecha": "27/06/2024",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia institucional": 1,
+            "violencia": 6
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Sevilla"
+    },
+    {
+        "ID_noticia": "ESP__20240627043632_11",
+        "diario": "PUBLICO",
+        "fecha": "27/06/2024",
+        "conteo_delitos": {
+            "violencia institucional": 2,
+            "violencia": 5
+        },
+        "país": "España",
+        "ubicacion_noticia": "Navarra, Navarra"
+    },
+    {
+        "ID_noticia": "ESP__20240627043632_12",
+        "diario": "PUBLICO",
+        "fecha": "27/06/2024",
+        "conteo_delitos": {
+            "machismo": 1,
+            "sexismo": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20240627043632_13",
+        "diario": "PUBLICO",
+        "fecha": "27/06/2024",
+        "conteo_delitos": {
+            "abuso sexual": 5,
+            "acoso sexual": 2,
+            "grooming": 1,
+            "violacion": 1,
+            "violaciones": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20240627043632_14",
+        "diario": "PUBLICO",
+        "fecha": "27/06/2024",
+        "conteo_delitos": {
+            "violencia sexual": 11,
+            "violencia": 16
+        },
+        "país": "España",
+        "ubicacion_noticia": "Ávila, Castilla y León, Belorado"
+    },
+    {
+        "ID_noticia": "ESP__20240627043632_15",
+        "diario": "PUBLICO",
+        "fecha": "27/06/2024",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia contra la mujer": 1,
+            "violencia": 5
+        },
+        "país": "España",
+        "ubicacion_noticia": "Álava, Pais Vasco, Astigarraga"
+    },
+    {
+        "ID_noticia": "ESP__20240627043632_16",
+        "diario": "PUBLICO",
+        "fecha": "27/06/2024",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Almería"
+    },
+    {
+        "ID_noticia": "ESP__20240627043632_17",
+        "diario": "PUBLICO",
+        "fecha": "27/06/2024",
+        "conteo_delitos": {
+            "acoso sexual": 1,
+            "violencia machista": 1,
+            "violencia sexual": 5,
+            "violencia": 13
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20240627043632_8",
+        "diario": "PUBLICO",
+        "fecha": "27/06/2024",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Jaén"
+    },
+    {
+        "ID_noticia": "ESP__20240627043632_9",
+        "diario": "PUBLICO",
+        "fecha": "27/06/2024",
+        "conteo_delitos": {
+            "abuso sexual": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    }
+]

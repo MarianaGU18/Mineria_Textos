@@ -99,7 +99,8 @@ Usa test_text_mining.py para probar la tubería con un solo día o rango reducid
    ```
    Si da error de política de ejecución, ejecutar primero:
    ```bash
-      Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+      Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass 
+      
       .\venv\Scripts\Activate.ps1
    ```
 

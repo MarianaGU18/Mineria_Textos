@@ -162,7 +162,7 @@ class TextMiningPipeline:
             📎Guarda cada artículo en un CSV independiente.
             📎Registra errores en un archivo de log.
          ⚠️ IMPORTANTE:        
-            Se crea una isntancia de navegador por cada artículo.
+            Se crea una instancia de navegador por cada artículo.
             Esto puede relentizar el proceso si hay muchas URLs.
         """
 
@@ -178,22 +178,22 @@ class TextMiningPipeline:
             next(reader)
             self.urls_articulos = {row[0]: row[1] for row in reader}
 
-            #   Configuración básica de Chrome en modo headless
-            options = webdriver.ChromeOptions()
-            options.add_argument('--disable-extensions')
+        #   Configuración básica de Chrome en modo headless
+        options = webdriver.ChromeOptions()
+        options.add_argument('--disable-extensions')
 
-            # No carga imágenes
-            options.add_argument('--blink-settings=imagesEnabled=false')
-            # Modo headless estable
-            options.add_argument('--headless=new') 
+        # No carga imágenes
+        options.add_argument('--blink-settings=imagesEnabled=false')
+        # Modo headless estable
+        options.add_argument('--headless=new') 
 
 
-            # Eliminar argumentos conflictivos si existieran
-            for arg in ["--user-data-dir", "--remote-debugging-port"]:
-                try:
-                    options.arguments.remove(arg)
-                except ValueError:
-                    pass
+         # Eliminar argumentos conflictivos si existieran
+        for arg in ["--user-data-dir", "--remote-debugging-port"]:
+            try:
+                options.arguments.remove(arg)
+            except ValueError:
+                pass
         
         #   Ruta del ejecutable de ChromeDriver
         driver_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'chromedriver.exe')
@@ -222,11 +222,11 @@ class TextMiningPipeline:
                 self.articulo_errors.append(full_url)
                 continue
 
-        # ======================================================
-        #       3.  EXTRACCIÓN DE ELEMENTOS
-        # ======================================================
+            # ======================================================
+            #       3.  EXTRACCIÓN DE ELEMENTOS
+            # ======================================================
 
-        # TÍTULO PRINCIPAL 
+            # TÍTULO PRINCIPAL 
             try:
                 h1_elements = driver.find_elements(By.TAG_NAME, 'h1')
                 titulo = ''
@@ -243,9 +243,9 @@ class TextMiningPipeline:
             except Exception:
                 titulo = 'No hay titulo'
 
-        # ---------------------------
-        # SUBTÍTULOS 
-        # ---------------------------
+            # ---------------------------
+            # SUBTÍTULOS 
+            # ---------------------------
 
             try:
                 h2s = driver.find_elements(By.TAG_NAME, 'h2')
@@ -256,10 +256,34 @@ class TextMiningPipeline:
                 h2s = 'NONE'
                 h3s = 'NONE'
                 subtitulo = 'NONE'
+
+            # ---------------------------
+            # FECHA DE PUBLICACIÓN
+            # ---------------------------
+
+            try:
+                fecha = "No hay fecha"
+
+                time_elements = driver.find_elements(By.CSS_SELECTOR, "time[datetime]")
+
+                if time_elements:
+                    fecha_raw = time_elements[0].get_attribute("datetime")
+
+                    if fecha_raw:
+                        fecha = fecha_raw.split("T")[0]
+
+                # fallback si no existe datetime
+                if fecha == "No hay fecha":
+                    time_elements = driver.find_elements(By.TAG_NAME, "time")
+                    if time_elements:
+                        fecha = time_elements[0].text.strip()
+
+            except Exception:
+                fecha = "No hay fecha"
                 
-        # ---------------------------
-        # ETIQUETA TEMÁTICA
-        # ---------------------------
+            # ---------------------------
+            # ETIQUETA TEMÁTICA
+            # ---------------------------
 
             try:
                 etiqueta = driver.find_elements(By.CSS_SELECTOR, ".cs_t_l, ._db, .a_k, ._df, .k, .kicker, .uppercase")
@@ -267,12 +291,12 @@ class TextMiningPipeline:
                 if etiqueta:  # Verifica si se encontró al menos un elemento
                     etiqueta = etiqueta[0].text  # Obtiene el texto del primer elemento
                 else:
-                    etiqueta = "No encontrada etiqueta"
+                    etiqueta = "No encontrada etiquet tematica"
             except NoSuchElementException:
                 etiqueta = 'NONE'
-        # ---------------------------
-        # LOCALIZACIÓN 
-        # ---------------------------
+            # ---------------------------
+            # LOCALIZACIÓN 
+            # ---------------------------
 
             try:
                 localizacion_elem = driver.find_elements(
@@ -293,9 +317,9 @@ class TextMiningPipeline:
             except NoSuchElementException:
                 localizacion = 'No localizacion'
 
-        # ============================================================
-        # 4. EXTRACCIÓN DEL CUERPO DEL ARTÍCULO
-        # ============================================================
+            # ============================================================
+            # 4. EXTRACCIÓN DEL CUERPO DEL ARTÍCULO
+            # ============================================================
 
             try:
                 # Primer intento: contenedor principal
@@ -325,6 +349,7 @@ class TextMiningPipeline:
                         'contains(@class, "color_gray_dark") or '
                         'contains(@class, "a_c") or '
                         'contains(@class, "voc-p") or '
+                        'contains(@class, "articl-body") or '
                         'contains(@class, "r_z") or '  # <-- añadido La Razón
 
                         'contains(@class, "font--primary") or '
@@ -359,7 +384,8 @@ class TextMiningPipeline:
                 titulo, 
                 subtitulo, 
                 etiqueta, 
-                localizacion, 
+                localizacion,
+                fecha, 
                 articuloContenido
             ]
             df = pd.DataFrame({full_url: articulo})
