@@ -1,0 +1,79 @@
+[
+    {
+        "ID_noticia": "ESP__20250423112537_0",
+        "diario": "ABC_acosoSS_2025",
+        "fecha": "21/01/2025",
+        "conteo_delitos": {
+            "acoso laboral": 6
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Cádiz"
+    },
+    {
+        "ID_noticia": "ESP__20250920024025_1",
+        "diario": "ABC_acosoSS_2025",
+        "fecha": "16/07/2025",
+        "conteo_delitos": {
+            "acoso sexual": 3,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251205034110_2",
+        "diario": "ABC_acosoSS_2025",
+        "fecha": "04/12/2025",
+        "conteo_delitos": {
+            "acoso sexual": 4,
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Torremolinos"
+    },
+    {
+        "ID_noticia": "ESP__20251205034110_3",
+        "diario": "ABC_acosoSS_2025",
+        "fecha": "04/12/2025",
+        "conteo_delitos": {
+            "acoso sexual": 4,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Málaga"
+    },
+    {
+        "ID_noticia": "ESP__20251205034110_4",
+        "diario": "ABC_acosoSS_2025",
+        "fecha": "04/12/2025",
+        "conteo_delitos": {
+            "acoso sexual": 4,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Torremolinos"
+    },
+    {
+        "ID_noticia": "ESP__20251209135539_5",
+        "diario": "ABC_acosoSS_2025",
+        "fecha": "09/12/2025",
+        "conteo_delitos": {
+            "acoso sexual": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Torremolinos"
+    },
+    {
+        "ID_noticia": "ESP__20251209135539_6",
+        "diario": "ABC_acosoSS_2025",
+        "fecha": "05/12/2025",
+        "conteo_delitos": {
+            "acoso sexual": 7,
+            "machismo": 2,
+            "violencia sexual": 1,
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Torremolinos"
+    }
+]

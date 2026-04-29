@@ -35,7 +35,7 @@ from procesamiento_utils import (
 DATA_ESP_PATH = Path("datos_base/DATA_ESP/data_ESP.csv")
 
 # Identificador del medio procesado
-ORIGEN = "PUBLICO"
+ORIGEN = "Publico_violencia_machista_2025"
 
 #Guardar version del dataset
 GUARDAR_JSON_COMPLETO = True

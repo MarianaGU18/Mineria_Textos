@@ -1,0 +1,465 @@
+[
+    {
+        "ID_noticia": "ESP__20250101063114_0",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250101063114_10",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250101063114_11",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "18/12/2024",
+        "conteo_delitos": {
+            "violencia machista": 4,
+            "violencia": 8
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia, Lugo"
+    },
+    {
+        "ID_noticia": "ESP__20250101063114_12",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250101063114_13",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250101063114_14",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250101063114_15",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250101063114_16",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250101063114_17",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250101063114_18",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "13/12/2024",
+        "conteo_delitos": {
+            "violencia machista": 3,
+            "machismo": 1,
+            "violencia sexual": 1,
+            "violencia": 10
+        },
+        "país": "España",
+        "ubicacion_noticia": "Ávila, Castilla y León, Salamanca"
+    },
+    {
+        "ID_noticia": "ESP__20250101063114_4",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250101063114_5",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "feminicidio": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250101063114_6",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250127222208_21",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "18/01/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250127222208_22",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "16/01/2025",
+        "conteo_delitos": {
+            "violencia": 5
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia"
+    },
+    {
+        "ID_noticia": "ESP__20250127222208_23",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "15/01/2025",
+        "conteo_delitos": {
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "La Rioja, La Rioja, Logroño"
+    },
+    {
+        "ID_noticia": "ESP__20250127222208_24",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "15/01/2025",
+        "conteo_delitos": {
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Ávila, Castilla y León"
+    },
+    {
+        "ID_noticia": "ESP__20250127222208_25",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "14/01/2025",
+        "conteo_delitos": {
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250127222208_26",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "13/01/2025",
+        "conteo_delitos": {
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250127222208_28",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "13/01/2025",
+        "conteo_delitos": {
+            "violencia sexual": 7,
+            "violencia": 16
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia"
+    },
+    {
+        "ID_noticia": "ESP__20250127222208_30",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "03/01/2025",
+        "conteo_delitos": {
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250127222208_31",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "02/01/2025",
+        "conteo_delitos": {
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Ávila, Castilla y León, Palencia"
+    },
+    {
+        "ID_noticia": "ESP__20250127222208_32",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "02/01/2025",
+        "conteo_delitos": {
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Ávila, Castilla y León"
+    },
+    {
+        "ID_noticia": "ESP__20250210232007_34",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "10/02/2025",
+        "conteo_delitos": {
+            "violencia": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250210232007_36",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "10/02/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Benalmádena"
+    },
+    {
+        "ID_noticia": "ESP__20250210232007_37",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "09/02/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250210232007_40",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250210232007_41",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "03/02/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Asturias, Asturias, Langreo"
+    },
+    {
+        "ID_noticia": "ESP__20250210232007_42",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "25/01/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20250210232007_44",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "18/01/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250210232007_45",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "16/01/2025",
+        "conteo_delitos": {
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250210232007_46",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "15/01/2025",
+        "conteo_delitos": {
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "La Rioja, La Rioja, Logroño"
+    },
+    {
+        "ID_noticia": "ESP__20250210232007_47",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "15/01/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250524042641_49",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250524042641_51",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "19/05/2025",
+        "conteo_delitos": {
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Ávila, Castilla y León, Palencia"
+    },
+    {
+        "ID_noticia": "ESP__20250524042641_52",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "12/05/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 2
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250524042641_53",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "08/05/2025",
+        "conteo_delitos": {
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía"
+    },
+    {
+        "ID_noticia": "ESP__20250524042641_54",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "07/05/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 4
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20250524042641_55",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250524042641_56",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "06/05/2025",
+        "conteo_delitos": {
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia"
+    },
+    {
+        "ID_noticia": "ESP__20250524042641_57",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "05/05/2025",
+        "conteo_delitos": {
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250524042641_59",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "27/04/2025",
+        "conteo_delitos": {
+            "violencia sexual": 1,
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20250524042641_61",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "24/04/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250524042641_62",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "22/04/2025",
+        "conteo_delitos": {
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia"
+    },
+    {
+        "ID_noticia": "ESP__20250524042641_63",
+        "diario": "LaRazon_violencia_de_genero_2025",
+        "fecha": "22/04/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Barcelona"
+    }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "ID_noticia": "ESP__20250423085234_0",
+        "diario": "ABC_violencia_2025",
+        "fecha": "22/04/2025",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia sexual": 2,
+            "violencia": 21
+        },
+        "país": "España",
+        "ubicacion_noticia": "Albacete, Castilla-La Mancha, Ciudad Real"
+    },
+    {
+        "ID_noticia": "ESP__20250423085234_1",
+        "diario": "ABC_violencia_2025",
+        "fecha": "17/04/2025",
+        "conteo_delitos": {
+            "violencia": 4
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Mataró"
+    },
+    {
+        "ID_noticia": "ESP__20250423085234_2",
+        "diario": "ABC_violencia_2025",
+        "fecha": "16/04/2025",
+        "conteo_delitos": {
+            "acoso sexual": 1,
+            "violencia machista": 1,
+            "violencia sexual": 2,
+            "violencia contra la mujer": 1,
+            "violencia institucional": 1,
+            "violencia": 26
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Barcelona"
+    },
+    {
+        "ID_noticia": "ESP__20250423085234_3",
+        "diario": "ABC_violencia_2025",
+        "fecha": "15/04/2025",
+        "conteo_delitos": {
+            "violencia sexual": 2,
+            "violencia": 6
+        },
+        "país": "España",
+        "ubicacion_noticia": "Ávila, Castilla y León, Monterrubio"
+    },
+    {
+        "ID_noticia": "ESP__20250507173511_4",
+        "diario": "ABC_violencia_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250507173511_5",
+        "diario": "ABC_violencia_2025",
+        "fecha": "06/05/2025",
+        "conteo_delitos": {
+            "violencia machista": 3,
+            "violencia sexual": 1,
+            "violencia": 11
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Sevilla"
+    },
+    {
+        "ID_noticia": "ESP__20250507173511_6",
+        "diario": "ABC_violencia_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250507173511_7",
+        "diario": "ABC_violencia_2025",
+        "fecha": "06/05/2025",
+        "conteo_delitos": {
+            "violencia vicaria": 6,
+            "violencia": 17
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20250507173511_8",
+        "diario": "ABC_violencia_2025",
+        "fecha": "05/05/2025",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia": 6
+        },
+        "país": "España",
+        "ubicacion_noticia": "Ávila, Castilla y León, Salamanca"
+    },
+    {
+        "ID_noticia": "ESP__20250803120843_10",
+        "diario": "ABC_violencia_2025",
+        "fecha": "02/08/2025",
+        "conteo_delitos": {
+            "violencia": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "Ávila, Castilla y León, Salamanca"
+    },
+    {
+        "ID_noticia": "ESP__20250803120843_11",
+        "diario": "ABC_violencia_2025",
+        "fecha": "01/08/2025",
+        "conteo_delitos": {
+            "violencia": 4
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia, Pontevedra"
+    },
+    {
+        "ID_noticia": "ESP__20250803120843_12",
+        "diario": "ABC_violencia_2025",
+        "fecha": "01/08/2025",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "Albacete, Castilla-La Mancha, Toledo"
+    },
+    {
+        "ID_noticia": "ESP__20250803120843_13",
+        "diario": "ABC_violencia_2025",
+        "fecha": "30/07/2025",
+        "conteo_delitos": {
+            "violencia machista": 4,
+            "violencia": 6
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia, Cospeito"
+    },
+    {
+        "ID_noticia": "ESP__20250803120843_9",
+        "diario": "ABC_violencia_2025",
+        "fecha": "03/08/2025",
+        "conteo_delitos": {
+            "abuso sexual": 1,
+            "violencia intrafamiliar": 1,
+            "violencia sexual": 1,
+            "acceso carnal violento": 1,
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Asturias, Asturias, Gijón"
+    },
+    {
+        "ID_noticia": "ESP__20250909104049_14",
+        "diario": "ABC_violencia_2025",
+        "fecha": "08/09/2025",
+        "conteo_delitos": {
+            "violencia machista": 4,
+            "machismo": 1,
+            "violencia de genero": 1,
+            "violencia familiar": 2,
+            "violencia vicaria": 1,
+            "violencia": 15
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Benalmádena"
+    },
+    {
+        "ID_noticia": "ESP__20250909104049_15",
+        "diario": "ABC_violencia_2025",
+        "fecha": "07/09/2025",
+        "conteo_delitos": {
+            "feminicidio": 1,
+            "violencia": 3
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251020153550_16",
+        "diario": "ABC_violencia_2025",
+        "fecha": "18/10/2025",
+        "conteo_delitos": {
+            "violencia": 5
+        },
+        "país": "España",
+        "ubicacion_noticia": "Albacete, Castilla-La Mancha, Toledo"
+    },
+    {
+        "ID_noticia": "ESP__20251020153550_17",
+        "diario": "ABC_violencia_2025",
+        "fecha": "16/10/2025",
+        "conteo_delitos": {
+            "violencia": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "Badajoz, Extremadura, Abadía"
+    }
+]

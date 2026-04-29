@@ -1,0 +1,32 @@
+[
+    {
+        "ID_noticia": "ESP__20250415225156_0",
+        "diario": "Publico_violencia_machista_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250710145246_1",
+        "diario": "Publico_violencia_machista_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251006121009_2",
+        "diario": "Publico_violencia_machista_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "violencia": 2
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    }
+]

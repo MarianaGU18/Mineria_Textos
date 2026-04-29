@@ -1,0 +1,951 @@
+[
+    {
+        "ID_noticia": "ESP__20250123103355_0",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "01/01/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Almería"
+    },
+    {
+        "ID_noticia": "ESP__20250123103355_1",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "27/12/2024",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250123103355_3",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "22/11/2024",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250127075424_11",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "04/12/2024",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250127075424_12",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "04/12/2024",
+        "conteo_delitos": {
+            "feminicidio": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250127075424_13",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "30/11/2024",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250127075424_14",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "29/11/2024",
+        "conteo_delitos": {
+            "violencia vicaria": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Linares"
+    },
+    {
+        "ID_noticia": "ESP__20250127075424_15",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "28/11/2024",
+        "conteo_delitos": {
+            "violencia vicaria": 2,
+            "violencia": 2
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Linares"
+    },
+    {
+        "ID_noticia": "ESP__20250127075424_16",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "27/11/2024",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250127075424_18",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "25/11/2024",
+        "conteo_delitos": {
+            "sexismo": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250127075424_19",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "25/11/2024",
+        "conteo_delitos": {
+            "violencia contra la mujer": 1,
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250127075424_21",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "22/11/2024",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250127075424_4",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "26/01/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250127075424_5",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "01/01/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250127075424_6",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "27/12/2024",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250127075424_7",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "27/12/2024",
+        "conteo_delitos": {
+            "acoso callejero": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250127075424_8",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "27/12/2024",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250417105105_23",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "09/04/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia, Poio"
+    },
+    {
+        "ID_noticia": "ESP__20250417105105_24",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "26/02/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250417105105_26",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "17/02/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250417105105_28",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "10/02/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250417105105_30",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "30/01/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250417105105_31",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "26/01/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250417105105_32",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "01/01/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250510043826_33",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "07/05/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250510043826_34",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "02/05/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250510043826_35",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "22/04/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250510043826_36",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "14/04/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250510043826_37",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "09/04/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia, Poio"
+    },
+    {
+        "ID_noticia": "ESP__20250510043826_38",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "26/02/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250510043826_40",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "17/02/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250730175438_42",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "09/07/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250730175438_43",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "25/06/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250730175438_44",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "24/06/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20250730175438_45",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "02/06/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Sentmenat"
+    },
+    {
+        "ID_noticia": "ESP__20250730175438_46",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "07/05/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250730175438_47",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "02/05/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250730175438_48",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "22/04/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250730175438_50",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "09/04/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia, Poio"
+    },
+    {
+        "ID_noticia": "ESP__20250820153417_51",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "11/08/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250820153417_52",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "07/08/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250820153417_53",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "29/07/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Navarra, Navarra"
+    },
+    {
+        "ID_noticia": "ESP__20250820153417_55",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "09/07/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250820153417_56",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "09/07/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250820153417_57",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "25/06/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250820153417_58",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "24/06/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20250820153417_59",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "02/06/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Sentmenat"
+    },
+    {
+        "ID_noticia": "ESP__20250820153417_60",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "07/05/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250820153417_61",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "02/05/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250820153417_62",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "22/04/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250820153417_64",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "09/04/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "A Coruña, Galicia, Poio"
+    },
+    {
+        "ID_noticia": "ESP__20250911102108_65",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "11/09/2025",
+        "conteo_delitos": {
+            "violencia sexual": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250911102108_66",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "11/08/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250911102108_67",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "07/08/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250911102108_68",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "29/07/2025",
+        "conteo_delitos": {
+            "feminicidio": 1,
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Navarra, Navarra"
+    },
+    {
+        "ID_noticia": "ESP__20250911102108_70",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "09/07/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250911102108_71",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "09/07/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250911102108_72",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "25/06/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251007131110_74",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "06/10/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Marbella"
+    },
+    {
+        "ID_noticia": "ESP__20251007131110_75",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "19/09/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251007131110_76",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "17/09/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251007131110_77",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "17/09/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Murcia, Murcia, Cartagena"
+    },
+    {
+        "ID_noticia": "ESP__20251007131110_78",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "11/09/2025",
+        "conteo_delitos": {
+            "violencia sexual": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251007131110_79",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "11/08/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251027200733_80",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "22/09/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251027200733_81",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "19/09/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251027200733_82",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "17/09/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251027200733_83",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "17/09/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Murcia, Murcia, Cartagena"
+    },
+    {
+        "ID_noticia": "ESP__20251027200733_84",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "11/09/2025",
+        "conteo_delitos": {
+            "violencia sexual": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251030211024_85",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "27/10/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía"
+    },
+    {
+        "ID_noticia": "ESP__20251030211024_86",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "06/10/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251030211024_87",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "06/10/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Marbella"
+    },
+    {
+        "ID_noticia": "ESP__20251030211024_88",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "22/09/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251030211024_89",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "19/09/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251030211024_90",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "17/09/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251030211024_91",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "17/09/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Murcia, Murcia, Cartagena"
+    },
+    {
+        "ID_noticia": "ESP__20251030211024_92",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "11/09/2025",
+        "conteo_delitos": {
+            "violencia sexual": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251118182637_93",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "07/11/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251118182637_94",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "27/10/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía"
+    },
+    {
+        "ID_noticia": "ESP__20251118182637_95",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "06/10/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251118182637_96",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "06/10/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Marbella"
+    },
+    {
+        "ID_noticia": "ESP__20251118182637_97",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "22/09/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251118182637_98",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "19/09/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251129055251_100",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "25/11/2025",
+        "conteo_delitos": {
+            "violencia contra la mujer": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20251129055251_101",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "25/11/2025",
+        "conteo_delitos": {
+            "violencia sexual": 1,
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251129055251_102",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "24/11/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251129055251_103",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "24/11/2025",
+        "conteo_delitos": {
+            "violencia contra la mujer": 1,
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251129055251_104",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "24/11/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251129055251_105",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "22/11/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251129055251_106",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "07/11/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251129055251_107",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "27/10/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251129055251_108",
+        "diario": "ElMundo_violencia_de_genero_2025",
+        "fecha": "06/10/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    }
+]

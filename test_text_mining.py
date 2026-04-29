@@ -1,26 +1,27 @@
 from text_mining_pipeline import TextMiningPipeline
-"""
-    =========================================================
+"""=========================================================
     FUENTES DE NOTICIAS CONSULTADAS
     =========================================================
-        ABC
-            https://www.abc.es/noticias/violencia-de-genero/
+"""
+""" ABC
+    https://www.abc.es/noticias/violencia-de-genero/
             https://www.abc.es/noticias/mujeres/
             https://www.abc.es/noticias/violencia/
             https://www.abc.es/noticias/acoso/
-
-        ElPais
-            elpais.com/noticias/violencia-machista
-            https://www.publico.es/tag/violencia-machista
-
-        Publico
-        https://www.publico.es/mujer/violencia-machista
-        La Razon
-            https://www.larazon.es/tags/violencia-de-genero/
-            https://www.larazon.es/tags/agresion/
-        El Mundo
-            https://www.elmundo.es/t/vi/violencia-de-genero.html
-            https://www.elmundo.es/t/vi/violencia.html
+"""
+"""ElPais
+        https://elpais.com/noticias/violencia-machista
+"""
+"""Publico
+    https://www.publico.es/mujer/violencia-machista
+"""
+""" La Razon
+        https://www.larazon.es/tags/violencia-de-genero/
+        https://www.larazon.es/tags/agresion/
+"""
+"""  El Mundo
+    https://www.elmundo.es/t/vi/violencia-de-genero.html
+    https://www.elmundo.es/t/vi/violencia.html
 """
 """    
      ⚠️ IMPORTANTE:
@@ -48,10 +49,10 @@ from text_mining_pipeline import TextMiningPipeline
 """
 pipeline = TextMiningPipeline(
 
-    sitio="https://www.publico.es/mujer", 
-    origen="PUBLICO_mujer_1",
-    from_date="20220101",
-    to_date="20231231",
+    sitio="https://www.elmundo.es/t/vi/violencia.html", 
+    origen="ElMundo_violencia_2025",
+    from_date="20250101",
+    to_date="20251231",
 
     palabras_clave_path="datos_base/Terminos.csv"
 )

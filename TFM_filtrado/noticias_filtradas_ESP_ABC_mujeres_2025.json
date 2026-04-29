@@ -1,0 +1,180 @@
+[
+    {
+        "ID_noticia": "ESP__20250423223553_0",
+        "diario": "ABC_mujeres_2025",
+        "fecha": "22/04/2025",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia sexual": 2,
+            "violencia": 21
+        },
+        "país": "España",
+        "ubicacion_noticia": "Albacete, Castilla-La Mancha, Ciudad Real"
+    },
+    {
+        "ID_noticia": "ESP__20250423223553_1",
+        "diario": "ABC_mujeres_2025",
+        "fecha": "22/04/2025",
+        "conteo_delitos": {
+            "violencia machista": 3,
+            "violencia": 12
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20250423223553_2",
+        "diario": "ABC_mujeres_2025",
+        "fecha": "16/04/2025",
+        "conteo_delitos": {
+            "acoso sexual": 1,
+            "violencia machista": 1,
+            "violencia sexual": 2,
+            "violencia contra la mujer": 1,
+            "violencia institucional": 1,
+            "violencia": 26
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Barcelona"
+    },
+    {
+        "ID_noticia": "ESP__20250423223553_3",
+        "diario": "ABC_mujeres_2025",
+        "fecha": "11/04/2025",
+        "conteo_delitos": {
+            "violencia machista": 3,
+            "violencia contra la mujer": 1,
+            "violencia": 13
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Málaga"
+    },
+    {
+        "ID_noticia": "ESP__20250423223553_4",
+        "diario": "ABC_mujeres_2025",
+        "fecha": "09/04/2025",
+        "conteo_delitos": {
+            "violencia": 12
+        },
+        "país": "España",
+        "ubicacion_noticia": "Las Palmas, Canarias, Telde"
+    },
+    {
+        "ID_noticia": "ESP__20250423223553_5",
+        "diario": "ABC_mujeres_2025",
+        "fecha": "07/04/2025",
+        "conteo_delitos": {
+            "violencia machista": 5,
+            "violencia": 6
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20250426074402_6",
+        "diario": "ABC_mujeres_2025",
+        "fecha": "26/04/2025",
+        "conteo_delitos": {
+            "machismo": 3,
+            "techo de cristal": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20250426074402_7",
+        "diario": "ABC_mujeres_2025",
+        "fecha": "22/04/2025",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia sexual": 2,
+            "violencia": 21
+        },
+        "país": "España",
+        "ubicacion_noticia": "Albacete, Castilla-La Mancha, Ciudad Real"
+    },
+    {
+        "ID_noticia": "ESP__20250426074402_8",
+        "diario": "ABC_mujeres_2025",
+        "fecha": "22/04/2025",
+        "conteo_delitos": {
+            "violencia machista": 3,
+            "violencia": 12
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Madrid"
+    },
+    {
+        "ID_noticia": "ESP__20250426074402_9",
+        "diario": "ABC_mujeres_2025",
+        "fecha": "16/04/2025",
+        "conteo_delitos": {
+            "acoso sexual": 1,
+            "violencia machista": 1,
+            "violencia sexual": 2,
+            "violencia contra la mujer": 1,
+            "violencia institucional": 1,
+            "violencia": 26
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Barcelona"
+    },
+    {
+        "ID_noticia": "ESP__20250720161801_10",
+        "diario": "ABC_mujeres_2025",
+        "fecha": "16/07/2025",
+        "conteo_delitos": {
+            "acoso sexual": 3,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250907040024_11",
+        "diario": "ABC_mujeres_2025",
+        "fecha": "05/09/2025",
+        "conteo_delitos": {
+            "feminicidio": 6,
+            "violencia digital": 1,
+            "violencia": 6
+        },
+        "país": "España",
+        "ubicacion_noticia": "Ávila, Castilla y León, Saelices el Chico"
+    },
+    {
+        "ID_noticia": "ESP__20251206070954_12",
+        "diario": "ABC_mujeres_2025",
+        "fecha": "05/12/2025",
+        "conteo_delitos": {
+            "acoso sexual": 2,
+            "machismo": 6,
+            "violencia": 9
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Sevilla"
+    },
+    {
+        "ID_noticia": "ESP__20251206070954_13",
+        "diario": "ABC_mujeres_2025",
+        "fecha": "05/12/2025",
+        "conteo_delitos": {
+            "machismo": 2,
+            "misoginia": 4,
+            "violencia": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Sevilla"
+    },
+    {
+        "ID_noticia": "ESP__20251206070954_15",
+        "diario": "ABC_mujeres_2025",
+        "fecha": "04/12/2025",
+        "conteo_delitos": {
+            "violencia machista": 2,
+            "violencia": 5
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Cádiz"
+    }
+]

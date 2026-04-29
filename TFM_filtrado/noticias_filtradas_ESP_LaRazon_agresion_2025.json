@@ -1,0 +1,83 @@
+[
+    {
+        "ID_noticia": "ESP__20250208220442_1",
+        "diario": "LaRazon_agresion_2025",
+        "fecha": "17/12/2024",
+        "conteo_delitos": {
+            "violencia": 2
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250208220442_3",
+        "diario": "LaRazon_agresion_2025",
+        "fecha": null,
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250208220442_4",
+        "diario": "LaRazon_agresion_2025",
+        "fecha": "15/11/2024",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250208220442_5",
+        "diario": "LaRazon_agresion_2025",
+        "fecha": "08/11/2024",
+        "conteo_delitos": {
+            "violencia": 2
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250212003514_7",
+        "diario": "LaRazon_agresion_2025",
+        "fecha": "15/11/2024",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250910170347_12",
+        "diario": "LaRazon_agresion_2025",
+        "fecha": "29/07/2025",
+        "conteo_delitos": {
+            "abuso sexual": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250910170347_9",
+        "diario": "LaRazon_agresion_2025",
+        "fecha": "08/09/2025",
+        "conteo_delitos": {
+            "feminicidio": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Almería, Andalucía, Sevilla"
+    },
+    {
+        "ID_noticia": "ESP__20251019051318_13",
+        "diario": "LaRazon_agresion_2025",
+        "fecha": "14/10/2025",
+        "conteo_delitos": {
+            "violencia machista": 1,
+            "violencia": 3
+        },
+        "país": "España",
+        "ubicacion_noticia": "Barcelona, Cataluña, Barcelona"
+    }
+]

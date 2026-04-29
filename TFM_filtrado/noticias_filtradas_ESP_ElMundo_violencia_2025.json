@@ -1,0 +1,73 @@
+[
+    {
+        "ID_noticia": "ESP__20250209184959_0",
+        "diario": "ElMundo_violencia_2025",
+        "fecha": "20/09/2024",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250209184959_2",
+        "diario": "ElMundo_violencia_2025",
+        "fecha": "20/08/2024",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20250906000544_4",
+        "diario": "ElMundo_violencia_2025",
+        "fecha": "24/07/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251006111739_7",
+        "diario": "ElMundo_violencia_2025",
+        "fecha": "24/07/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251022002445_10",
+        "diario": "ElMundo_violencia_2025",
+        "fecha": "09/10/2025",
+        "conteo_delitos": {
+            "violencia sexual": 1,
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251022002445_12",
+        "diario": "ElMundo_violencia_2025",
+        "fecha": "12/09/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "No encontrado",
+        "ubicacion_noticia": "No especificada"
+    },
+    {
+        "ID_noticia": "ESP__20251022002445_9",
+        "diario": "ElMundo_violencia_2025",
+        "fecha": "15/10/2025",
+        "conteo_delitos": {
+            "violencia": 1
+        },
+        "país": "España",
+        "ubicacion_noticia": "Madrid, Madrid, Getafe"
+    }
+]
